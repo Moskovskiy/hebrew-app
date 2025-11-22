@@ -1,66 +1,2038 @@
 [
     {
-        "hebrew": "שָׁלוֹם",
-        "english": "Hello / Peace"
+        "hebrew": "להסכים",
+        "english": "to agree; to consent"
     },
     {
-        "hebrew": "תוֹדָה",
-        "english": "Thank you"
+        "hebrew": "לקבוע",
+        "english": "to set; to decide; to schedule; to determine"
     },
     {
-        "hebrew": "כֵּן",
-        "english": "Yes"
+        "hebrew": "מושב",
+        "english": "seat; sitting; session; moshav (type of rural community)"
     },
     {
-        "hebrew": "לֹא",
-        "english": "No"
+        "hebrew": "מול",
+        "english": "in front of; opposite; facing; versus"
     },
     {
-        "hebrew": "בּוֹקֶר טוֹב",
-        "english": "Good morning"
+        "hebrew": "נהיינו",
+        "english": "we became; we turned into"
     },
     {
-        "hebrew": "לַיְלָה טוֹב",
-        "english": "Good night"
+        "hebrew": "ביישן",
+        "english": "shy; bashful (masculine singular)"
     },
     {
-        "hebrew": "סְלִיחָה",
-        "english": "Sorry / Excuse me"
+        "hebrew": "מגיע",
+        "english": "arrives; comes; is due; (colloquial) deserves"
     },
     {
-        "hebrew": "בְּבַקָּשָׁה",
-        "english": "Please / You're welcome"
+        "hebrew": "לי",
+        "english": "to me; for me; mine"
     },
     {
-        "hebrew": "מַיִם",
-        "english": "Water"
+        "hebrew": "יותר",
+        "english": "more; greater"
     },
     {
-        "hebrew": "אוֹכֶל",
-        "english": "Food"
+        "hebrew": "מגיע לי יותר",
+        "english": "I deserve more; more is due to me"
     },
     {
-        "hebrew": "בַּיִת",
-        "english": "House"
+        "hebrew": "הלוך",
+        "english": "going; outbound (direction)"
     },
     {
-        "hebrew": "סֵפֶר",
-        "english": "Book"
+        "hebrew": "חזור",
+        "english": "return; coming back"
     },
     {
-        "hebrew": "יֶלֶד",
-        "english": "Boy"
+        "hebrew": "הלוך חזור",
+        "english": "back and forth; round trip"
     },
     {
-        "hebrew": "יַלְדָּה",
-        "english": "Girl"
+        "hebrew": "מושב",
+        "english": "seat; session; moshav (type of village)"
     },
     {
-        "hebrew": "אַבָּא",
-        "english": "Father"
+        "hebrew": "מול",
+        "english": "in front of; opposite; versus"
     },
     {
-        "hebrew": "אִמָּא",
-        "english": "Mother"
+        "hebrew": "נהיינו",
+        "english": "we became; we turned into"
+    },
+    {
+        "hebrew": "ביישן",
+        "english": "shy; bashful (masc.)"
+    },
+    {
+        "hebrew": "מגיע",
+        "english": "arrives; comes; is due; (colloquial) deserves"
+    },
+    {
+        "hebrew": "לי",
+        "english": "to me; for me; mine"
+    },
+    {
+        "hebrew": "יותר",
+        "english": "more; greater"
+    },
+    {
+        "hebrew": "מגיע לי יותר",
+        "english": "I deserve more; more is due to me"
+    },
+    {
+        "hebrew": "הלוך",
+        "english": "going; outbound (direction)"
+    },
+    {
+        "hebrew": "חזור",
+        "english": "return; coming back"
+    },
+    {
+        "hebrew": "הלוך חזור",
+        "english": "back and forth; round trip"
+    },
+    {
+        "hebrew": "מעדיף",
+        "english": "prefer; would rather (masc. sg.)"
+    },
+    {
+        "hebrew": "התחלפה",
+        "english": "changed; was replaced (fem.)"
+    },
+    {
+        "hebrew": "המלחמה",
+        "english": "the war"
+    },
+    {
+        "hebrew": "המלחמה נגמרה",
+        "english": "the war ended; the war is over"
+    },
+    {
+        "hebrew": "נגמר",
+        "english": "finished; ended (masc.)"
+    },
+    {
+        "hebrew": "החבר שלי",
+        "english": "my boyfriend; my (male) friend"
+    },
+    {
+        "hebrew": "חבר",
+        "english": "friend; boyfriend; member"
+    },
+    {
+        "hebrew": "יעד",
+        "english": "destination; target; goal"
+    },
+    {
+        "hebrew": "היעד הפופולארי",
+        "english": "the popular destination"
+    },
+    {
+        "hebrew": "סבתא רבתא",
+        "english": "great-grandmother"
+    },
+    {
+        "hebrew": "סבתא",
+        "english": "grandmother; grandma"
+    },
+    {
+        "hebrew": "סבא רבא",
+        "english": "great-grandfather"
+    },
+    {
+        "hebrew": "סבא",
+        "english": "grandfather; grandpa"
+    },
+    {
+        "hebrew": "סיבוב",
+        "english": "turn; spin; round; lap"
+    },
+    {
+        "hebrew": "להצליח",
+        "english": "to succeed"
+    },
+    {
+        "hebrew": "הצליחה",
+        "english": "she succeeded"
+    },
+    {
+        "hebrew": "הכי",
+        "english": "the most; extremely"
+    },
+    {
+        "hebrew": "פוחד",
+        "english": "afraid; scared (masc.)"
+    },
+    {
+        "hebrew": "מלחמות",
+        "english": "wars"
+    },
+    {
+        "hebrew": "מרגיע",
+        "english": "calming; soothing; reassuring"
+    },
+    {
+        "hebrew": "מרתיע",
+        "english": "deterring; discouraging; intimidating"
+    },
+    {
+        "hebrew": "פגיעת רקטה",
+        "english": "rocket hit; rocket strike"
+    },
+    {
+        "hebrew": "רקטה",
+        "english": "rocket (missile; firework)"
+    },
+    {
+        "hebrew": "לפגוע",
+        "english": "to hit; to hurt; to damage; to offend"
+    },
+    {
+        "hebrew": "הבית נפגע",
+        "english": "the house was hit; the house was damaged"
+    },
+    {
+        "hebrew": "בית",
+        "english": "house; home"
+    },
+    {
+        "hebrew": "בתים",
+        "english": "houses; homes"
+    },
+    {
+        "hebrew": "שנינו",
+        "english": "both of us; we two"
+    },
+    {
+        "hebrew": "רוב",
+        "english": "most; majority"
+    },
+    {
+        "hebrew": "מבשלים",
+        "english": "cook; are cooking (we/they masc.)"
+    },
+    {
+        "hebrew": "רכיבים",
+        "english": "ingredients; components"
+    },
+    {
+        "hebrew": "אין קשר",
+        "english": "no connection; not related"
+    },
+    {
+        "hebrew": "אחיות",
+        "english": "sisters; nurses (fem. pl.)"
+    },
+    {
+        "hebrew": "בנות דודות",
+        "english": "female cousins"
+    },
+    {
+        "hebrew": "בני דודים",
+        "english": "male cousins; cousins"
+    },
+    {
+        "hebrew": "גדול",
+        "english": "big; large; grown-up; older"
+    },
+    {
+        "hebrew": "קטנה",
+        "english": "small; little; younger (fem.)"
+    },
+    {
+        "hebrew": "ממך",
+        "english": "from you; than you"
+    },
+    {
+        "hebrew": "חביתה",
+        "english": "omelette"
+    },
+    {
+        "hebrew": "אף פעם",
+        "english": "never (ever)"
+    },
+    {
+        "hebrew": "שמעתי",
+        "english": "I heard"
+    },
+    {
+        "hebrew": "מכין",
+        "english": "preparing; prepares (masc.)"
+    },
+    {
+        "hebrew": "מכינה",
+        "english": "prepares (fem.)"
+    },
+    {
+        "hebrew": "להכין",
+        "english": "to prepare; to make"
+    },
+    {
+        "hebrew": "לאפות",
+        "english": "to bake"
+    },
+    {
+        "hebrew": "אופה",
+        "english": "bakes; baker (he/she)"
+    },
+    {
+        "hebrew": "כיריים",
+        "english": "stovetop; range; burner unit"
+    },
+    {
+        "hebrew": "עִנְבֵי שׁוּעָל",
+        "english": "sour grapes (literally: fox grapes)"
+    },
+    {
+        "hebrew": "בצק",
+        "english": "dough"
+    },
+    {
+        "hebrew": "חֶמאָה",
+        "english": "butter"
+    },
+    {
+        "hebrew": "להקציף",
+        "english": "to whip (eggs, cream)"
+    },
+    {
+        "hebrew": "מקציף ביצים",
+        "english": "whipping eggs; egg beater"
+    },
+    {
+        "hebrew": "מוכן",
+        "english": "ready; prepared (masc.)"
+    },
+    {
+        "hebrew": "בודק",
+        "english": "checks; examining (masc.)"
+    },
+    {
+        "hebrew": "לבדוק",
+        "english": "to check; to examine; to test"
+    },
+    {
+        "hebrew": "קֵיסָם",
+        "english": "toothpick; small wooden splinter"
+    },
+    {
+        "hebrew": "להישאר",
+        "english": "to stay; to remain"
+    },
+    {
+        "hebrew": "אמא",
+        "english": "mother; mom"
+    },
+    {
+        "hebrew": "שלי",
+        "english": "my; mine"
+    },
+    {
+        "hebrew": "חכם",
+        "english": "smart; clever; wise"
+    },
+    {
+        "hebrew": "זמרים",
+        "english": "singers (masc. pl.)"
+    },
+    {
+        "hebrew": "עומר",
+        "english": "Omer (given name)"
+    },
+    {
+        "hebrew": "אדם",
+        "english": "person; human; Adam (name)"
+    },
+    {
+        "hebrew": "תל אביב",
+        "english": "Tel Aviv (city)"
+    },
+    {
+        "hebrew": "תל",
+        "english": "mound; hill (archaeological)"
+    },
+    {
+        "hebrew": "אביב",
+        "english": "spring (season)"
+    },
+    {
+        "hebrew": "ערוץ",
+        "english": "channel"
+    },
+    {
+        "hebrew": "יוטיוב",
+        "english": "YouTube"
+    },
+    {
+        "hebrew": "סדרות",
+        "english": "series; TV shows"
+    },
+    {
+        "hebrew": "בריכה",
+        "english": "pool; swimming pool"
+    },
+    {
+        "hebrew": "לעבור",
+        "english": "to pass; to cross; to move (house/job)"
+    },
+    {
+        "hebrew": "משאית",
+        "english": "truck; lorry"
+    },
+    {
+        "hebrew": "מטבח",
+        "english": "kitchen; cuisine"
+    },
+    {
+        "hebrew": "מרוקאי",
+        "english": "Moroccan (adj.)"
+    },
+    {
+        "hebrew": "תבלינים",
+        "english": "spices"
+    },
+    {
+        "hebrew": "עלים",
+        "english": "leaves"
+    },
+    {
+        "hebrew": "מנה",
+        "english": "portion; dish; course"
+    },
+    {
+        "hebrew": "יותר מידי",
+        "english": "too much; too many"
+    },
+    {
+        "hebrew": "מלוח",
+        "english": "salty"
+    },
+    {
+        "hebrew": "כאב",
+        "english": "pain; ache"
+    },
+    {
+        "hebrew": "בטן",
+        "english": "stomach; belly"
+    },
+    {
+        "hebrew": "לעכל",
+        "english": "to digest"
+    },
+    {
+        "hebrew": "מ",
+        "english": "from; than (prefix letter mem)"
+    },
+    {
+        "hebrew": "נסע",
+        "english": "he traveled; he drove"
+    },
+    {
+        "hebrew": "לנסוע",
+        "english": "to travel; to go (by vehicle)"
+    },
+    {
+        "hebrew": "למות",
+        "english": "to die"
+    },
+    {
+        "hebrew": "מתים",
+        "english": "they die; dead (pl.)"
+    },
+    {
+        "hebrew": "תוכניות",
+        "english": "plans; programs"
+    },
+    {
+        "hebrew": "תוכנית",
+        "english": "plan; program; TV show"
+    },
+    {
+        "hebrew": "מהר",
+        "english": "fast; quickly"
+    },
+    {
+        "hebrew": "טיפה",
+        "english": "drop; a bit"
+    },
+    {
+        "hebrew": "כתב",
+        "english": "he wrote; writer; journalist"
+    },
+    {
+        "hebrew": "מקלדת",
+        "english": "keyboard"
+    },
+    {
+        "hebrew": "מסתדרים",
+        "english": "manage; get along (they)"
+    },
+    {
+        "hebrew": "להוסיף",
+        "english": "to add"
+    },
+    {
+        "hebrew": "מחבת",
+        "english": "frying pan"
+    },
+    {
+        "hebrew": "שְׁטוּיוֹת",
+        "english": "nonsense; silly things"
+    },
+    {
+        "hebrew": "קרפים",
+        "english": "crepes"
+    },
+    {
+        "hebrew": "דוכנים",
+        "english": "stalls; stands; booths"
+    },
+    {
+        "hebrew": "לבחור",
+        "english": "to choose; to select"
+    },
+    {
+        "hebrew": "צדדים",
+        "english": "sides"
+    },
+    {
+        "hebrew": "צד",
+        "english": "side"
+    },
+    {
+        "hebrew": "לחוות",
+        "english": "to experience"
+    },
+    {
+        "hebrew": "חוויה",
+        "english": "experience (noun)"
+    },
+    {
+        "hebrew": "פסים",
+        "english": "stripes"
+    },
+    {
+        "hebrew": "פסלים",
+        "english": "statues; sculptures"
+    },
+    {
+        "hebrew": "אומנות",
+        "english": "art; craft"
+    },
+    {
+        "hebrew": "אמנות מופשטת",
+        "english": "abstract art"
+    },
+    {
+        "hebrew": "מזג אוויר",
+        "english": "weather"
+    },
+    {
+        "hebrew": "שילוב",
+        "english": "combination; mix; integration"
+    },
+    {
+        "hebrew": "לפזר",
+        "english": "to sprinkle; to scatter; to spread"
+    },
+    {
+        "hebrew": "לחקור",
+        "english": "to research; to investigate; to explore"
+    },
+    {
+        "hebrew": "לשנות",
+        "english": "to change"
+    },
+    {
+        "hebrew": "לקוות",
+        "english": "to hope"
+    },
+    {
+        "hebrew": "תקווה",
+        "english": "hope (noun)"
+    },
+    {
+        "hebrew": "קוה",
+        "english": "he hoped (literary form)"
+    },
+    {
+        "hebrew": "המנון",
+        "english": "anthem"
+    },
+    {
+        "hebrew": "להכיר",
+        "english": "to know; to be familiar with; to meet"
+    },
+    {
+        "hebrew": "כינרת",
+        "english": "Kinneret; Sea of Galilee"
+    },
+    {
+        "hebrew": "יום חופש",
+        "english": "day off"
+    },
+    {
+        "hebrew": "יום עבודה",
+        "english": "workday; working day"
+    },
+    {
+        "hebrew": "קבוע",
+        "english": "fixed; regular; permanent"
+    },
+    {
+        "hebrew": "עובד",
+        "english": "worker; works (masc.)"
+    },
+    {
+        "hebrew": "משפט",
+        "english": "sentence; phrase; trial; judgment"
+    },
+    {
+        "hebrew": "אכול",
+        "english": "eat! (imperative); eaten"
+    },
+    {
+        "hebrew": "נשנה",
+        "english": "we will change"
+    },
+    {
+        "hebrew": "אתי",
+        "english": "with me (fem.); Eti (female name)"
+    },
+    {
+        "hebrew": "אפית",
+        "english": "you (fem.) baked"
+    },
+    {
+        "hebrew": "תאפה",
+        "english": "you (masc.) / he will bake"
+    },
+    {
+        "hebrew": "שעון",
+        "english": "clock; watch"
+    },
+    {
+        "hebrew": "חופשה",
+        "english": "vacation; holiday"
+    },
+    {
+        "hebrew": "קצר",
+        "english": "short"
+    },
+    {
+        "hebrew": "מעניין",
+        "english": "interesting"
+    },
+    {
+        "hebrew": "לזכור",
+        "english": "to remember"
+    },
+    {
+        "hebrew": "לשכוח",
+        "english": "to forget"
+    },
+    {
+        "hebrew": "זריחה",
+        "english": "sunrise"
+    },
+    {
+        "hebrew": "שקיעה",
+        "english": "sunset"
+    },
+    {
+        "hebrew": "מוקדם",
+        "english": "early"
+    },
+    {
+        "hebrew": "מאוחר",
+        "english": "late"
+    },
+    {
+        "hebrew": "תאנה",
+        "english": "fig (fruit)"
+    },
+    {
+        "hebrew": "איזור",
+        "english": "area; region"
+    },
+    {
+        "hebrew": "איזור עירוני",
+        "english": "urban area"
+    },
+    {
+        "hebrew": "איזור מגורים",
+        "english": "residential area"
+    },
+    {
+        "hebrew": "מגורים",
+        "english": "residence; housing"
+    },
+    {
+        "hebrew": "חַוָה",
+        "english": "farm; (also) Chava (female name)"
+    },
+    {
+        "hebrew": "איך שהם נראים",
+        "english": "how they look"
+    },
+    {
+        "hebrew": "בגלל",
+        "english": "because of"
+    },
+    {
+        "hebrew": "הופעות",
+        "english": "performances; shows"
+    },
+    {
+        "hebrew": "להסביר",
+        "english": "to explain"
+    },
+    {
+        "hebrew": "כְּדִלקַמָן",
+        "english": "as follows"
+    },
+    {
+        "hebrew": "שלבים",
+        "english": "stages; steps"
+    },
+    {
+        "hebrew": "לִהַבִין",
+        "english": "to understand"
+    },
+    {
+        "hebrew": "חייב",
+        "english": "must; obligated; have to"
+    },
+    {
+        "hebrew": "מדע ומחשבים",
+        "english": "science and computers"
+    },
+    {
+        "hebrew": "מדעי המחשב",
+        "english": "computer science"
+    },
+    {
+        "hebrew": "מדע",
+        "english": "science"
+    },
+    {
+        "hebrew": "מחשבים",
+        "english": "computers"
+    },
+    {
+        "hebrew": "מְשַׁעֲמֵם",
+        "english": "boring"
+    },
+    {
+        "hebrew": "להעדיף",
+        "english": "to prefer"
+    },
+    {
+        "hebrew": "עדיף",
+        "english": "better; preferable"
+    },
+    {
+        "hebrew": "ידידה",
+        "english": "female friend"
+    },
+    {
+        "hebrew": "עמוק",
+        "english": "deep"
+    },
+    {
+        "hebrew": "מפחיד",
+        "english": "scary; frightening"
+    },
+    {
+        "hebrew": "כשהייתי גדול",
+        "english": "when I was big / grown up"
+    },
+    {
+        "hebrew": "אנגליה",
+        "english": "England"
+    },
+    {
+        "hebrew": "לחכות",
+        "english": "to wait"
+    },
+    {
+        "hebrew": "ללמד",
+        "english": "to teach"
+    },
+    {
+        "hebrew": "לימדה",
+        "english": "she taught"
+    },
+    {
+        "hebrew": "טסתי אליה",
+        "english": "I flew to her"
+    },
+    {
+        "hebrew": "ראיון",
+        "english": "interview"
+    },
+    {
+        "hebrew": "לסבול",
+        "english": "to suffer"
+    },
+    {
+        "hebrew": "סובלים",
+        "english": "they suffer"
+    },
+    {
+        "hebrew": "ככה- ככה",
+        "english": "so-so"
+    },
+    {
+        "hebrew": "אני",
+        "english": "I; me"
+    },
+    {
+        "hebrew": "אוכלת",
+        "english": "eat; eating (fem.)"
+    },
+    {
+        "hebrew": "עוגה",
+        "english": "cake"
+    },
+    {
+        "hebrew": "העוגה",
+        "english": "the cake"
+    },
+    {
+        "hebrew": "יש",
+        "english": "there is; there are"
+    },
+    {
+        "hebrew": "אילת",
+        "english": "Eilat (city in Israel)"
+    },
+    {
+        "hebrew": "ים סוף",
+        "english": "the Red Sea"
+    },
+    {
+        "hebrew": "ים",
+        "english": "sea"
+    },
+    {
+        "hebrew": "סוף",
+        "english": "end"
+    },
+    {
+        "hebrew": "אבא",
+        "english": "father; dad"
+    },
+    {
+        "hebrew": "אם",
+        "english": "if; whether"
+    },
+    {
+        "hebrew": "מישהו",
+        "english": "someone"
+    },
+    {
+        "hebrew": "טס",
+        "english": "flies; flew (masc.)"
+    },
+    {
+        "hebrew": "סין",
+        "english": "China"
+    },
+    {
+        "hebrew": "חשוב",
+        "english": "important"
+    },
+    {
+        "hebrew": "חומה",
+        "english": "wall"
+    },
+    {
+        "hebrew": "הגדולה",
+        "english": "the big; the great (fem.)"
+    },
+    {
+        "hebrew": "בזכות",
+        "english": "thanks to; due to (positive)"
+    },
+    {
+        "hebrew": "משכורת",
+        "english": "salary; paycheck"
+    },
+    {
+        "hebrew": "שכר",
+        "english": "wage; pay; salary"
+    },
+    {
+        "hebrew": "זכויות",
+        "english": "rights"
+    },
+    {
+        "hebrew": "לשחות",
+        "english": "to swim"
+    },
+    {
+        "hebrew": "להשאיר",
+        "english": "to leave (behind); to keep"
+    },
+    {
+        "hebrew": "אפשרויות",
+        "english": "options; possibilities"
+    },
+    {
+        "hebrew": "אפשרות",
+        "english": "option; possibility"
+    },
+    {
+        "hebrew": "לקחת",
+        "english": "to take"
+    },
+    {
+        "hebrew": "לגנוב",
+        "english": "to steal"
+    },
+    {
+        "hebrew": "אות",
+        "english": "letter; sign"
+    },
+    {
+        "hebrew": "אותיות",
+        "english": "letters (of the alphabet)"
+    },
+    {
+        "hebrew": "הבדל",
+        "english": "difference"
+    },
+    {
+        "hebrew": "תיק",
+        "english": "bag; briefcase; file"
+    },
+    {
+        "hebrew": "מזוודה",
+        "english": "suitcase"
+    },
+    {
+        "hebrew": "להביא",
+        "english": "to bring"
+    },
+    {
+        "hebrew": "סוכנות",
+        "english": "agency"
+    },
+    {
+        "hebrew": "אתר",
+        "english": "site; website"
+    },
+    {
+        "hebrew": "להסתפר",
+        "english": "to get a haircut"
+    },
+    {
+        "hebrew": "לקצר",
+        "english": "to shorten; to cut short"
+    },
+    {
+        "hebrew": "ס.פ.ר",
+        "english": "root S-P-R (to cut hair / barber)"
+    },
+    {
+        "hebrew": "מספר אותי",
+        "english": "he cuts my hair"
+    },
+    {
+        "hebrew": "חולה",
+        "english": "sick; ill"
+    },
+    {
+        "hebrew": "חו\"ל",
+        "english": "abroad (outside the country)"
+    },
+    {
+        "hebrew": "חוץ לארץ",
+        "english": "abroad; outside the country"
+    },
+    {
+        "hebrew": "הכי טוב בבית",
+        "english": "the best is at home"
+    },
+    {
+        "hebrew": "דומה",
+        "english": "similar"
+    },
+    {
+        "hebrew": "למה",
+        "english": "why; what for"
+    },
+    {
+        "hebrew": "מתגעגע",
+        "english": "misses; longs for (masc.)"
+    },
+    {
+        "hebrew": "להתגעגע",
+        "english": "to miss; to long for"
+    },
+    {
+        "hebrew": "להתאמן",
+        "english": "to practice; to train"
+    },
+    {
+        "hebrew": "סירה",
+        "english": "boat"
+    },
+    {
+        "hebrew": "לשוט",
+        "english": "to sail; to row (boat)"
+    },
+    {
+        "hebrew": "שייט",
+        "english": "sailing; cruise"
+    },
+    {
+        "hebrew": "לצוף",
+        "english": "to float"
+    },
+    {
+        "hebrew": "צף",
+        "english": "floating; floats (masc.)"
+    },
+    {
+        "hebrew": "להסתובב",
+        "english": "to wander; to turn around; to hang out"
+    },
+    {
+        "hebrew": "להתקשר",
+        "english": "to call (by phone); to contact"
+    },
+    {
+        "hebrew": "רשת חברתית",
+        "english": "social network"
+    },
+    {
+        "hebrew": "רשת",
+        "english": "network; net"
+    },
+    {
+        "hebrew": "חברתית",
+        "english": "social (adj. fem.)"
+    },
+    {
+        "hebrew": "להפוך",
+        "english": "to turn; to become; to transform"
+    },
+    {
+        "hebrew": "העלה",
+        "english": "he uploaded; he raised"
+    },
+    {
+        "hebrew": "מגורים",
+        "english": "residence; housing"
+    },
+    {
+        "hebrew": "לשתף",
+        "english": "to share"
+    },
+    {
+        "hebrew": "לצייר",
+        "english": "to draw; to paint"
+    },
+    {
+        "hebrew": "מסך",
+        "english": "screen"
+    },
+    {
+        "hebrew": "מד מהירות",
+        "english": "speedometer"
+    },
+    {
+        "hebrew": "קמ\"ש",
+        "english": "km/h; kilometers per hour"
+    },
+    {
+        "hebrew": "המהירות המירבית",
+        "english": "the maximum speed"
+    },
+    {
+        "hebrew": "מהירות",
+        "english": "speed"
+    },
+    {
+        "hebrew": "שיער",
+        "english": "hair"
+    },
+    {
+        "hebrew": "שיער חלק",
+        "english": "straight hair"
+    },
+    {
+        "hebrew": "שיער מתולתל",
+        "english": "curly hair"
+    },
+    {
+        "hebrew": "חלק",
+        "english": "smooth; straight"
+    },
+    {
+        "hebrew": "מתולתל",
+        "english": "curly"
+    },
+    {
+        "hebrew": "קירח",
+        "english": "bald"
+    },
+    {
+        "hebrew": "לצבוע",
+        "english": "to color; to dye"
+    },
+    {
+        "hebrew": "לסדר",
+        "english": "to arrange; to tidy; to organize"
+    },
+    {
+        "hebrew": "גבות",
+        "english": "eyebrows"
+    },
+    {
+        "hebrew": "ריס",
+        "english": "eyelash"
+    },
+    {
+        "hebrew": "מאמין",
+        "english": "believes (masc.)"
+    },
+    {
+        "hebrew": "יפה",
+        "english": "beautiful; pretty; nice"
+    },
+    {
+        "hebrew": "טבעי",
+        "english": "natural"
+    },
+    {
+        "hebrew": "תשובה",
+        "english": "answer; reply"
+    },
+    {
+        "hebrew": "לענות",
+        "english": "to answer; to respond"
+    },
+    {
+        "hebrew": "עונה",
+        "english": "answers; replying (m./f.)"
+    },
+    {
+        "hebrew": "ג’ינג’י",
+        "english": "red-haired; ginger (person)"
+    },
+    {
+        "hebrew": "חושך",
+        "english": "darkness"
+    },
+    {
+        "hebrew": "חשוך",
+        "english": "dark (adj.)"
+    },
+    {
+        "hebrew": "אולם",
+        "english": "hall; auditorium"
+    },
+    {
+        "hebrew": "לסיים",
+        "english": "to finish; to complete"
+    },
+    {
+        "hebrew": "לרוץ",
+        "english": "to run"
+    },
+    {
+        "hebrew": "רץ",
+        "english": "runs; ran (masc.)"
+    },
+    {
+        "hebrew": "רצה",
+        "english": "ran (fem.); wanted"
+    },
+    {
+        "hebrew": "רצים",
+        "english": "run (masc. pl.)"
+    },
+    {
+        "hebrew": "רצות",
+        "english": "run (fem. pl.)"
+    },
+    {
+        "hebrew": "מבחן",
+        "english": "exam; test"
+    },
+    {
+        "hebrew": "אז",
+        "english": "so; then"
+    },
+    {
+        "hebrew": "להגיע",
+        "english": "to arrive; to reach"
+    },
+    {
+        "hebrew": "מגיעים",
+        "english": "arrive (masc. pl.); are due"
+    },
+    {
+        "hebrew": "מגיעות",
+        "english": "arrive (fem. pl.)"
+    },
+    {
+        "hebrew": "תלת מימד",
+        "english": "3D; three-dimensional"
+    },
+    {
+        "hebrew": "מימד",
+        "english": "dimension"
+    },
+    {
+        "hebrew": "אופן",
+        "english": "manner; way"
+    },
+    {
+        "hebrew": "גלגל",
+        "english": "wheel"
+    },
+    {
+        "hebrew": "רק",
+        "english": "only; just"
+    },
+    {
+        "hebrew": "גם",
+        "english": "also; too"
+    },
+    {
+        "hebrew": "עדיין",
+        "english": "still; yet"
+    },
+    {
+        "hebrew": "בת זוג",
+        "english": "female partner; spouse"
+    },
+    {
+        "hebrew": "בן זוג",
+        "english": "male partner; spouse"
+    },
+    {
+        "hebrew": "זוג",
+        "english": "pair; couple"
+    },
+    {
+        "hebrew": "נחמדים",
+        "english": "nice; pleasant (masc. pl.)"
+    },
+    {
+        "hebrew": "לתכנן",
+        "english": "to plan; to design"
+    },
+    {
+        "hebrew": "חוץ מ-",
+        "english": "except for; besides"
+    },
+    {
+        "hebrew": "לבלות",
+        "english": "to spend time; to have fun"
+    },
+    {
+        "hebrew": "לשאול",
+        "english": "to ask"
+    },
+    {
+        "hebrew": "שואל",
+        "english": "asks (masc.)"
+    },
+    {
+        "hebrew": "אוהב",
+        "english": "love; likes (masc.)"
+    },
+    {
+        "hebrew": "נאהב",
+        "english": "beloved; loved"
+    },
+    {
+        "hebrew": "לתרגל",
+        "english": "to practice (exercises)"
+    },
+    {
+        "hebrew": "חזק",
+        "english": "strong"
+    },
+    {
+        "hebrew": "חלש",
+        "english": "weak"
+    },
+    {
+        "hebrew": "ישר",
+        "english": "straight; honest"
+    },
+    {
+        "hebrew": "טיסה ישירה",
+        "english": "direct flight"
+    },
+    {
+        "hebrew": "טיסה",
+        "english": "flight"
+    },
+    {
+        "hebrew": "ישירה",
+        "english": "direct (fem.)"
+    },
+    {
+        "hebrew": "יבשת",
+        "english": "continent"
+    },
+    {
+        "hebrew": "שמחה",
+        "english": "happiness; happy (fem.)"
+    },
+    {
+        "hebrew": "התעוררתי",
+        "english": "I woke up"
+    },
+    {
+        "hebrew": "לאחר",
+        "english": "after; to be late"
+    },
+    {
+        "hebrew": "מאחר",
+        "english": "is late (masc.)"
+    },
+    {
+        "hebrew": "נהר",
+        "english": "river"
+    },
+    {
+        "hebrew": "אישור",
+        "english": "approval; confirmation"
+    },
+    {
+        "hebrew": "לאשר",
+        "english": "to approve; to confirm"
+    },
+    {
+        "hebrew": "סוגים",
+        "english": "types; kinds"
+    },
+    {
+        "hebrew": "מקומות",
+        "english": "places"
+    },
+    {
+        "hebrew": "אותם המקומות",
+        "english": "the same places"
+    },
+    {
+        "hebrew": "אותם",
+        "english": "the same; those (masc. pl.)"
+    },
+    {
+        "hebrew": "כנסיה",
+        "english": "church"
+    },
+    {
+        "hebrew": "לנוח",
+        "english": "to rest"
+    },
+    {
+        "hebrew": "עייף",
+        "english": "tired (masc.)"
+    },
+    {
+        "hebrew": "אבנים",
+        "english": "stones"
+    },
+    {
+        "hebrew": "מתבייש",
+        "english": "is embarrassed; shy (masc.)"
+    },
+    {
+        "hebrew": "פרידה",
+        "english": "farewell; breakup; separation"
+    },
+    {
+        "hebrew": "לברוח",
+        "english": "to run away; to escape"
+    },
+    {
+        "hebrew": "קניות",
+        "english": "shopping; purchases"
+    },
+    {
+        "hebrew": "להחליף",
+        "english": "to change; to exchange; to replace"
+    },
+    {
+        "hebrew": "מנזר",
+        "english": "monastery"
+    },
+    {
+        "hebrew": "חיילים",
+        "english": "soldiers"
+    },
+    {
+        "hebrew": "נמצא",
+        "english": "is located; is found"
+    },
+    {
+        "hebrew": "שווה",
+        "english": "worth it; equal"
+    },
+    {
+        "hebrew": "להפסיד",
+        "english": "to lose (a game); to miss out"
+    },
+    {
+        "hebrew": "להתעכב",
+        "english": "to be delayed; to linger"
+    },
+    {
+        "hebrew": "עיכוב",
+        "english": "delay"
+    },
+    {
+        "hebrew": "לתת",
+        "english": "to give"
+    },
+    {
+        "hebrew": "הגיעה",
+        "english": "she/it arrived"
+    },
+    {
+        "hebrew": "נראה",
+        "english": "looks; seems (masc.)"
+    },
+    {
+        "hebrew": "נראית",
+        "english": "looks; seems (fem.)"
+    },
+    {
+        "hebrew": "ברית המועצות",
+        "english": "the Soviet Union"
+    },
+    {
+        "hebrew": "לחזור",
+        "english": "to return; to come back"
+    },
+    {
+        "hebrew": "הרגל",
+        "english": "habit; leg; foot"
+    },
+    {
+        "hebrew": "תחזיק לי אצבעות",
+        "english": "cross your fingers for me (lit. hold fingers for me)"
+    },
+    {
+        "hebrew": "תחזיק",
+        "english": "hold (imperative masc.); will hold"
+    },
+    {
+        "hebrew": "אצבעות",
+        "english": "fingers"
+    },
+    {
+        "hebrew": "נעים",
+        "english": "pleasant; comfortable"
+    },
+    {
+        "hebrew": "צל",
+        "english": "shade; shadow"
+    },
+    {
+        "hebrew": "ביליתי את רוב היום",
+        "english": "I spent most of the day"
+    },
+    {
+        "hebrew": "ביליתי",
+        "english": "I spent time; I had fun"
+    },
+    {
+        "hebrew": "מיוחד",
+        "english": "special"
+    },
+    {
+        "hebrew": "ליטא",
+        "english": "Lithuania"
+    },
+    {
+        "hebrew": "לטביה",
+        "english": "Latvia"
+    },
+    {
+        "hebrew": "רישמי",
+        "english": "official (colloquial spelling of רשמי)"
+    },
+    {
+        "hebrew": "להלביש את הסלט",
+        "english": "to dress the salad"
+    },
+    {
+        "hebrew": "להלביש",
+        "english": "to dress (someone/something)"
+    },
+    {
+        "hebrew": "להכין רוטב לסלט",
+        "english": "to make dressing for the salad"
+    },
+    {
+        "hebrew": "רוטב",
+        "english": "sauce; dressing"
+    },
+    {
+        "hebrew": "לתבל את הסלט",
+        "english": "to season the salad"
+    },
+    {
+        "hebrew": "ריבה",
+        "english": "jam; jelly"
+    },
+    {
+        "hebrew": "סילאן",
+        "english": "date syrup"
+    },
+    {
+        "hebrew": "אֲבָקָה",
+        "english": "powder"
+    },
+    {
+        "hebrew": "עוגת דבש",
+        "english": "honey cake"
+    },
+    {
+        "hebrew": "לא נמאס לך",
+        "english": "aren’t you tired of it?; you’re not fed up?"
+    },
+    {
+        "hebrew": "נמאס",
+        "english": "fed up; sick of"
+    },
+    {
+        "hebrew": "זמני",
+        "english": "temporary; provisional"
+    },
+    {
+        "hebrew": "משרד הפנים",
+        "english": "Ministry of the Interior (Interior Ministry)"
+    },
+    {
+        "hebrew": "סחנה",
+        "english": "Sachne (Gan HaShlosha springs, site name)"
+    },
+    {
+        "hebrew": "לא הפסדנו",
+        "english": "we didn’t lose"
+    },
+    {
+        "hebrew": "הפסדנו",
+        "english": "we lost"
+    },
+    {
+        "hebrew": "טסה",
+        "english": "flies; flew (fem.)"
+    },
+    {
+        "hebrew": "קרא",
+        "english": "he read; he called"
+    },
+    {
+        "hebrew": "קראה",
+        "english": "she read; she called"
+    },
+    {
+        "hebrew": "עד",
+        "english": "until; up to; witness"
+    },
+    {
+        "hebrew": "צעדים",
+        "english": "steps"
+    },
+    {
+        "hebrew": "עשרת אלפים",
+        "english": "ten thousand"
+    },
+    {
+        "hebrew": "מתנה",
+        "english": "gift; present"
+    },
+    {
+        "hebrew": "עיגול",
+        "english": "circle"
+    },
+    {
+        "hebrew": "משולש",
+        "english": "triangle"
+    },
+    {
+        "hebrew": "מרובע",
+        "english": "square (shape)"
+    },
+    {
+        "hebrew": "סימן",
+        "english": "sign; mark; symbol"
+    },
+    {
+        "hebrew": "שלט",
+        "english": "sign; signboard"
+    },
+    {
+        "hebrew": "עליו",
+        "english": "on him; on it"
+    },
+    {
+        "hebrew": "תינוקת",
+        "english": "baby girl; infant (fem.)"
+    },
+    {
+        "hebrew": "צעירות ממני",
+        "english": "younger than me (fem. pl.)"
+    },
+    {
+        "hebrew": "צעירות",
+        "english": "young; younger (fem. pl.)"
+    },
+    {
+        "hebrew": "ממני",
+        "english": "from me; than me"
+    },
+    {
+        "hebrew": "יום",
+        "english": "day"
+    },
+    {
+        "hebrew": "חופש",
+        "english": "freedom; vacation"
+    },
+    {
+        "hebrew": "עבודה",
+        "english": "work; job"
+    },
+    {
+        "hebrew": "ככה",
+        "english": "like this; like that; this way"
+    },
+    {
+        "hebrew": "או",
+        "english": "or"
+    },
+    {
+        "hebrew": "אוויר",
+        "english": "air"
+    },
+    {
+        "hebrew": "עם",
+        "english": "with"
+    },
+    {
+        "hebrew": "על",
+        "english": "on; about"
+    },
+    {
+        "hebrew": "צעדים",
+        "english": "steps"
+    },
+    {
+        "hebrew": "שעון",
+        "english": "clock; watch"
+    },
+    {
+        "hebrew": "עשרת אלפים",
+        "english": "ten thousand"
+    },
+    {
+        "hebrew": "מתנה",
+        "english": "gift; present"
+    },
+    {
+        "hebrew": "עיגול",
+        "english": "circle"
+    },
+    {
+        "hebrew": "משולש",
+        "english": "triangle"
+    },
+    {
+        "hebrew": "מרובע",
+        "english": "square (shape); quadrilateral"
+    },
+    {
+        "hebrew": "אגם",
+        "english": "lake"
+    },
+    {
+        "hebrew": "סימן",
+        "english": "sign; mark; symbol"
+    },
+    {
+        "hebrew": "שלט",
+        "english": "sign; signboard"
+    },
+    {
+        "hebrew": "עליו",
+        "english": "on him; on it; about him/it"
+    },
+    {
+        "hebrew": "בני דודים",
+        "english": "male cousins; cousins"
+    },
+    {
+        "hebrew": "בנות דודות",
+        "english": "female cousins"
+    },
+    {
+        "hebrew": "תינוקת",
+        "english": "baby girl; infant (female)"
+    },
+    {
+        "hebrew": "צעירות ממני",
+        "english": "younger than me (feminine plural)"
+    },
+    {
+        "hebrew": "ענן",
+        "english": "cloud"
+    },
+    {
+        "hebrew": "מוכן",
+        "english": "ready; prepared (masculine)"
+    },
+    {
+        "hebrew": "תתכונן",
+        "english": "get ready; you will prepare yourself (masc.)"
+    },
+    {
+        "hebrew": "כ.ו.ן",
+        "english": "root K-V-N (to prepare; to direct; to adjust)"
+    },
+    {
+        "hebrew": "עצרנו את השירות",
+        "english": "we stopped the service"
+    },
+    {
+        "hebrew": "תקלה",
+        "english": "malfunction; fault; glitch"
+    },
+    {
+        "hebrew": "לקוחות",
+        "english": "customers; clients"
+    },
+    {
+        "hebrew": "מטפל",
+        "english": "therapist; caregiver; treats (masc.)"
+    },
+    {
+        "hebrew": "להגיב",
+        "english": "to respond; to react; to comment"
+    },
+    {
+        "hebrew": "פניה",
+        "english": "request; inquiry; approach; turning"
+    },
+    {
+        "hebrew": "להסכים",
+        "english": "to agree; to consent"
+    },
+    {
+        "hebrew": "לקבוע",
+        "english": "to set; to decide; to schedule; to determine"
+    },
+    {
+        "hebrew": "מושב",
+        "english": "seat; session; moshav (village)"
+    },
+    {
+        "hebrew": "מול",
+        "english": "in front of; opposite; versus"
+    },
+    {
+        "hebrew": "נהיינו",
+        "english": "we became; we turned into"
+    },
+    {
+        "hebrew": "ביישן",
+        "english": "shy; bashful (masc.)"
+    },
+    {
+        "hebrew": "עליהם",
+        "english": "on them; about them"
+    },
+    {
+        "hebrew": "ליירט",
+        "english": "to intercept (usually a missile)"
+    },
+    {
+        "hebrew": "לאף אחד לא אכפת",
+        "english": "nobody cares"
+    },
+    {
+        "hebrew": "אקרובטיקה",
+        "english": "acrobatics"
+    },
+    {
+        "hebrew": "אש קרה",
+        "english": "cold fire (figurative expression)"
+    },
+    {
+        "hebrew": "קִיטוֹר",
+        "english": "steam"
+    },
+    {
+        "hebrew": "לשים",
+        "english": "to put; to place"
+    },
+    {
+        "hebrew": "להתקין",
+        "english": "to install; to set up"
+    },
+    {
+        "hebrew": "כיירים",
+        "english": "potters; ceramic artists"
+    },
+    {
+        "hebrew": "כיריים",
+        "english": "stovetop; range; burners"
+    },
+    {
+        "hebrew": "סכו\"ם",
+        "english": "cutlery; silverware"
+    },
+    {
+        "hebrew": "גודל",
+        "english": "size"
+    },
+    {
+        "hebrew": "דירה מחולקת",
+        "english": "divided apartment; subdivided flat"
+    },
+    {
+        "hebrew": "יהלומים",
+        "english": "diamonds"
+    },
+    {
+        "hebrew": "שתי קומות מעל קומת הקרקע",
+        "english": "two floors above the ground floor"
+    },
+    {
+        "hebrew": "ברצינות",
+        "english": "seriously"
+    },
+    {
+        "hebrew": "באמת",
+        "english": "really; truly"
+    },
+    {
+        "hebrew": "אמת",
+        "english": "truth"
+    },
+    {
+        "hebrew": "אמיתי",
+        "english": "real; genuine; true"
+    },
+    {
+        "hebrew": "יהלום אמיתי",
+        "english": "real diamond"
+    },
+    {
+        "hebrew": "הרבה זמן לא נפגשנו",
+        "english": "we haven’t met for a long time"
+    },
+    {
+        "hebrew": "לנסות",
+        "english": "to try; to attempt"
+    },
+    {
+        "hebrew": "הוֹדָאָה",
+        "english": "admission; confession; acknowledgment"
+    },
+    {
+        "hebrew": "וידוי",
+        "english": "confession (usually religious)"
+    },
+    {
+        "hebrew": "תא",
+        "english": "cell; compartment; cabin; booth"
+    },
+    {
+        "hebrew": "וִדוּי",
+        "english": "confession (fully vocalized form)"
+    },
+    {
+        "hebrew": "כלא",
+        "english": "prison; jail"
+    },
+    {
+        "hebrew": "לחזור לזה",
+        "english": "to go back to it"
+    },
+    {
+        "hebrew": "לתכנן עם עצמי",
+        "english": "to plan by myself; to plan on my own"
+    },
+    {
+        "hebrew": "לחכות",
+        "english": "to wait"
+    },
+    {
+        "hebrew": "הזמנה",
+        "english": "invitation; order (in a restaurant/shop)"
+    },
+    {
+        "hebrew": "הלוואי",
+        "english": "I wish; if only"
+    },
+    {
+        "hebrew": "תודה לאל",
+        "english": "thank God"
+    },
+    {
+        "hebrew": "אלוהים",
+        "english": "God"
+    },
+    {
+        "hebrew": "בועה",
+        "english": "bubble"
+    },
+    {
+        "hebrew": "לזכור",
+        "english": "to remember"
+    },
+    {
+        "hebrew": "עיכוב",
+        "english": "delay"
+    },
+    {
+        "hebrew": "לוח",
+        "english": "board; panel; schedule"
+    },
+    {
+        "hebrew": "לוּחַ זְמַנִים",
+        "english": "timetable; schedule"
+    },
+    {
+        "hebrew": "לו\"ז",
+        "english": "schedule; timetable (abbrev.)"
+    },
+    {
+        "hebrew": "עמוס",
+        "english": "busy; packed; overloaded"
+    },
+    {
+        "hebrew": "ביקש אותי לשמור עליו",
+        "english": "he asked me to look after him/it (non-standard phrasing)"
+    },
+    {
+        "hebrew": "ביקש ממני לשמור עליו",
+        "english": "he asked me to look after him/it"
+    },
+    {
+        "hebrew": "מטרה",
+        "english": "goal; target; purpose"
+    },
+    {
+        "hebrew": "אני רוצה להיות מסוגל",
+        "english": "I want to be able (to)"
+    },
+    {
+        "hebrew": "משמעות",
+        "english": "meaning; significance"
+    },
+    {
+        "hebrew": "לשמור על הכללים",
+        "english": "to keep the rules; to follow the rules"
+    },
+    {
+        "hebrew": "צפייה בליקוי ירח מלא",
+        "english": "watching a total lunar eclipse"
+    },
+    {
+        "hebrew": "לחזור",
+        "english": "to return; to come back"
+    },
+    {
+        "hebrew": "לַחֲזוֹר",
+        "english": "to return; to come back (vocalized form)"
+    },
+    {
+        "hebrew": "לבריאות!",
+        "english": "bless you!; to your health!"
+    },
+    {
+        "hebrew": "נוזל",
+        "english": "liquid (noun)"
+    },
+    {
+        "hebrew": "סמיך",
+        "english": "thick; dense; viscous"
+    },
+    {
+        "hebrew": "מחמם",
+        "english": "heats; warming (masc.); heater"
+    },
+    {
+        "hebrew": "בפנים",
+        "english": "inside; indoors"
+    },
+    {
+        "hebrew": "אֲפִילוּ",
+        "english": "even"
+    },
+    {
+        "hebrew": "צריך להיות",
+        "english": "must be; should be"
+    },
+    {
+        "hebrew": "נולדו",
+        "english": "were born"
+    },
+    {
+        "hebrew": "קרון",
+        "english": "carriage; wagon; train car"
+    },
+    {
+        "hebrew": "כסא",
+        "english": "chair; seat"
+    },
+    {
+        "hebrew": "ידיות",
+        "english": "handles"
+    },
+    {
+        "hebrew": "להתאמן",
+        "english": "to practice; to train"
+    },
+    {
+        "hebrew": "להחליט",
+        "english": "to decide"
+    },
+    {
+        "hebrew": "כיוון",
+        "english": "direction; orientation"
+    },
+    {
+        "hebrew": "מַחֲלָה",
+        "english": "illness; disease"
+    },
+    {
+        "hebrew": "זְרִיחָה",
+        "english": "sunrise (vocalized form)"
+    },
+    {
+        "hebrew": "פה",
+        "english": "here"
+    },
+    {
+        "hebrew": "כאן",
+        "english": "here"
+    },
+    {
+        "hebrew": "הנה",
+        "english": "here is; here (pointing)"
+    },
+    {
+        "hebrew": "ללקות",
+        "english": "to be afflicted; to suffer (from a disease)"
     }
 ]

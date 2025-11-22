@@ -87,6 +87,22 @@ struct ContentView: View {
                             viewModel: viewModel
                         )
                         .id(phrase.id) // Force rebuild when phrase changes
+                    case .typingPractice(let question, let isHebrewToEnglish):
+                        TypingExerciseView(
+                            prompt: isHebrewToEnglish ? question.hebrew : question.english,
+                            isHebrewToEnglish: isHebrewToEnglish,
+                            onSubmit: { viewModel.checkAnswer($0) },
+                            viewModel: viewModel
+                        )
+                        .id(question.id)
+                    case .prepositionPractice(let sentence, let options):
+                        PrepositionExerciseView(
+                            sentence: sentence,
+                            options: options,
+                            onOptionSelected: { viewModel.checkAnswer($0) },
+                            viewModel: viewModel
+                        )
+                        .id(sentence.id)
                     }
                 }
                 

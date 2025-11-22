@@ -1,0 +1,83 @@
+[
+    {
+        "category": "מקום",
+        "categoryEnglish": "Place",
+        "prepositions": [
+            {"hebrew": "על", "english": "on; about"},
+            {"hebrew": "ב", "english": "in; at"},
+            {"hebrew": "אל", "english": "to; toward"},
+            {"hebrew": "מן", "english": "from"},
+            {"hebrew": "ליד", "english": "next to; beside"},
+            {"hebrew": "בין", "english": "between"},
+            {"hebrew": "בתוך", "english": "inside; within"},
+            {"hebrew": "מתוך", "english": "from within"},
+            {"hebrew": "לפני", "english": "before; in front of"},
+            {"hebrew": "אחרי", "english": "after; behind"},
+            {"hebrew": "על יד", "english": "next to; by"},
+            {"hebrew": "למעלה", "english": "above; upward"},
+            {"hebrew": "למטה", "english": "below; downward"},
+            {"hebrew": "קרוב", "english": "near; close"},
+            {"hebrew": "רחוק", "english": "far"},
+            {"hebrew": "מחוץ ל", "english": "outside of"}
+        ]
+    },
+    {
+        "category": "זמן",
+        "categoryEnglish": "Time",
+        "prepositions": [
+            {"hebrew": "לפני", "english": "before"},
+            {"hebrew": "אחרי", "english": "after"},
+            {"hebrew": "בזמן", "english": "during; at the time of"},
+            {"hebrew": "עד", "english": "until"},
+            {"hebrew": "מ", "english": "from; since"},
+            {"hebrew": "תוך", "english": "within (time period)"},
+            {"hebrew": "במהלך", "english": "during; in the course of"}
+        ]
+    },
+    {
+        "category": "סיבה",
+        "categoryEnglish": "Reason",
+        "prepositions": [
+            {"hebrew": "בגלל", "english": "because of"},
+            {"hebrew": "בזכות", "english": "thanks to"},
+            {"hebrew": "כי", "english": "because"},
+            {"hebrew": "מתוך", "english": "out of; from"}
+        ]
+    },
+    {
+        "category": "תכלית",
+        "categoryEnglish": "Purpose",
+        "prepositions": [
+            {"hebrew": "למען", "english": "for the sake of"},
+            {"hebrew": "בשביל", "english": "for; in order to"},
+            {"hebrew": "לטובת", "english": "for the benefit of"}
+        ]
+    },
+    {
+        "category": "אמצעי",
+        "categoryEnglish": "Means",
+        "prepositions": [
+            {"hebrew": "באמצעות", "english": "by means of"},
+            {"hebrew": "דרך", "english": "through; via"},
+            {"hebrew": "על ידי", "english": "by; through"}
+        ]
+    },
+    {
+        "category": "יחס",
+        "categoryEnglish": "Relation",
+        "prepositions": [
+            {"hebrew": "כמו", "english": "like; as"},
+            {"hebrew": "כ", "english": "as; like (prefix)"},
+            {"hebrew": "לעומת", "english": "compared to; versus"},
+            {"hebrew": "נגד", "english": "against"}
+        ]
+    },
+    {
+        "category": "שייכות",
+        "categoryEnglish": "Belonging",
+        "prepositions": [
+            {"hebrew": "של", "english": "of"},
+            {"hebrew": "ל", "english": "to; for"}
+        ]
+    }
+]

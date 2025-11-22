@@ -1,0 +1,650 @@
+[
+    {
+        "hebrew": "הספר נמצא ___ השולחן",
+        "english": "The book is on the table",
+        "correctPreposition": "על",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "אני גר ___ תל אביב",
+        "english": "I live in Tel Aviv",
+        "correctPreposition": "ב",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הלכתי ___ הבית",
+        "english": "I went to the house",
+        "correctPreposition": "אל",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הוא בא ___ ירושלים",
+        "english": "He came from Jerusalem",
+        "correctPreposition": "מן",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "היא יושבת ___ חברה שלה",
+        "english": "She sits next to her friend",
+        "correctPreposition": "ליד",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הכלב ___ השולחן",
+        "english": "The dog is under the table",
+        "correctPreposition": "מתחת ל",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הפגישה ___ שעה 3",
+        "english": "The meeting is at 3 o'clock",
+        "correctPreposition": "ב",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "___ השיעור נלך הביתה",
+        "english": "After class we'll go home",
+        "correctPreposition": "אחרי",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "___ המלחמה היה שקט",
+        "english": "Before the war it was quiet",
+        "correctPreposition": "לפני",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "הוא לא בא ___ שהוא חולה",
+        "english": "He didn't come because he is sick",
+        "correctPreposition": "כי",
+        "category": "סיבה"
+    },
+    {
+        "hebrew": "הצלחתי ___ עזרה שלך",
+        "english": "I succeeded thanks to your help",
+        "correctPreposition": "בזכות",
+        "category": "סיבה"
+    },
+    {
+        "hebrew": "אני לומד ___ הילדים",
+        "english": "I study for the children",
+        "correctPreposition": "בשביל",
+        "category": "תכלית"
+    },
+    {
+        "hebrew": "הוא נסע ___ האוטובוס",
+        "english": "He traveled by bus",
+        "correctPreposition": "באמצעות",
+        "category": "אמצעי"
+    },
+    {
+        "hebrew": "הוא גבוה ___ אח שלו",
+        "english": "He is taller than his brother",
+        "correctPreposition": "מ",
+        "category": "יחס"
+    },
+    {
+        "hebrew": "הבית הזה ___ אבא שלי",
+        "english": "This house is my father's",
+        "correctPreposition": "של",
+        "category": "שייכות"
+    },
+    {
+        "hebrew": "הספר נמצא ___ השולחן",
+        "english": "The book is on the table",
+        "correctPreposition": "על",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "אני גר ___ תל אביב",
+        "english": "I live in Tel Aviv",
+        "correctPreposition": "ב",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הלכתי ___ הבית",
+        "english": "I went to the house",
+        "correctPreposition": "אל",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הוא בא ___ ירושלים",
+        "english": "He came from Jerusalem",
+        "correctPreposition": "מן",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "היא יושבת ___ חברה שלה",
+        "english": "She sits next to her friend",
+        "correctPreposition": "ליד",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הכלב ___ השולחן",
+        "english": "The dog is under the table",
+        "correctPreposition": "מתחת ל",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הפגישה ___ שעה 3",
+        "english": "The meeting is at 3 o'clock",
+        "correctPreposition": "ב",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "___ השיעור נלך הביתה",
+        "english": "After class we'll go home",
+        "correctPreposition": "אחרי",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "___ המלחמה היה שקט",
+        "english": "Before the war it was quiet",
+        "correctPreposition": "לפני",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "הוא לא בא ___ שהוא חולה",
+        "english": "He didn't come because he is sick",
+        "correctPreposition": "כי",
+        "category": "סיבה"
+    },
+    {
+        "hebrew": "הצלחתי ___ עזרה שלך",
+        "english": "I succeeded thanks to your help",
+        "correctPreposition": "בזכות",
+        "category": "סיבה"
+    },
+    {
+        "hebrew": "אני לומד ___ הילדים",
+        "english": "I study for the children",
+        "correctPreposition": "בשביל",
+        "category": "תכלית"
+    },
+    {
+        "hebrew": "הוא נסע ___ האוטובוס",
+        "english": "He traveled by bus",
+        "correctPreposition": "באמצעות",
+        "category": "אמצעי"
+    },
+    {
+        "hebrew": "הוא גבוה ___ אח שלו",
+        "english": "He is taller than his brother",
+        "correctPreposition": "מ",
+        "category": "יחס"
+    },
+    {
+        "hebrew": "הבית הזה ___ אבא שלי",
+        "english": "This house is my father's",
+        "correctPreposition": "של",
+        "category": "שייכות"
+    },
+    {
+        "hebrew": "התמונה תלויה ___ הקיר",
+        "english": "The picture is hanging on the wall",
+        "correctPreposition": "על",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "החתול ישן ___ הגג",
+        "english": "The cat is sleeping on the roof",
+        "correctPreposition": "על",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הילדים משחקים ___ החצר",
+        "english": "The children are playing in the yard",
+        "correctPreposition": "ב",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "אנחנו נפגשים ___ הספרייה",
+        "english": "We are meeting at the library",
+        "correctPreposition": "ב",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הוא רץ ___ האוטובוס",
+        "english": "He ran toward the bus",
+        "correctPreposition": "אל",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "היא התקרבה ___ החלון",
+        "english": "She approached the window",
+        "correctPreposition": "אל",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "קיבלתי מכתב ___ החבר שלי",
+        "english": "I received a letter from my friend",
+        "correctPreposition": "מן",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הריח בא ___ המטבח",
+        "english": "The smell came from the kitchen",
+        "correctPreposition": "מן",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "המכונית חנתה ___ הבית",
+        "english": "The car parked next to the house",
+        "correctPreposition": "ליד",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "יש בית קפה ___ התחנה",
+        "english": "There is a café next to the station",
+        "correctPreposition": "ליד",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הכדור נפל ___ הכיסאות",
+        "english": "The ball fell between the chairs",
+        "correctPreposition": "בין",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הוא יושב ___ שני חברים",
+        "english": "He sits between two friends",
+        "correctPreposition": "בין",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הצעצועים נמצאים ___ הקופסה",
+        "english": "The toys are inside the box",
+        "correctPreposition": "בתוך",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "היא הסתכלה ___ הארון",
+        "english": "She looked inside the closet",
+        "correctPreposition": "בתוך",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "עשן עלה ___ הבית הבוער",
+        "english": "Smoke rose from within the burning house",
+        "correctPreposition": "מתוך",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "שמעתי קולות ___ החדר הסגור",
+        "english": "I heard voices from within the closed room",
+        "correctPreposition": "מתוך",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הוא חנה ___ הבניין",
+        "english": "He parked in front of the building",
+        "correctPreposition": "לפני",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "יש גינה קטנה ___ הבית",
+        "english": "There is a small garden in front of the house",
+        "correctPreposition": "לפני",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "החתול מתחבא ___ הדלת",
+        "english": "The cat is hiding behind the door",
+        "correctPreposition": "אחרי",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הילד עומד ___ אמא שלו",
+        "english": "The child stands behind his mother",
+        "correctPreposition": "אחרי",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הוא גר ___ הים",
+        "english": "He lives by the sea",
+        "correctPreposition": "על יד",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הטלפון מונח ___ המחשב",
+        "english": "The phone is placed by the computer",
+        "correctPreposition": "על יד",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "החדר שלי נמצא ___",
+        "english": "My room is upstairs",
+        "correctPreposition": "למעלה",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הציפורים עפות ___ בשמים",
+        "english": "The birds are flying above in the sky",
+        "correctPreposition": "למעלה",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "החדר של אחותי נמצא ___",
+        "english": "My sister's room is downstairs",
+        "correctPreposition": "למטה",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הילד הסתכל ___ מהחלון",
+        "english": "The child looked down from the window",
+        "correctPreposition": "למטה",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הבית שלי ___ לתחנה המרכזית",
+        "english": "My house is near the central station",
+        "correctPreposition": "קרוב",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הגן ___ לבית הספר",
+        "english": "The kindergarten is close to the school",
+        "correctPreposition": "קרוב",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "העיר נמצאת ___ מהים",
+        "english": "The city is far from the sea",
+        "correctPreposition": "רחוק",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "התחנה ___ מהמרכז",
+        "english": "The station is far from the center",
+        "correctPreposition": "רחוק",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "הילדים משחקים ___ הבית",
+        "english": "The children are playing outside of the house",
+        "correctPreposition": "מחוץ ל",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "אסור לעמוד ___ הקו הלבן",
+        "english": "It is forbidden to stand outside of the white line",
+        "correctPreposition": "מחוץ ל",
+        "category": "מקום"
+    },
+    {
+        "hebrew": "___ החג אנחנו מנקים את הבית",
+        "english": "Before the holiday we clean the house",
+        "correctPreposition": "לפני",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "הוא הגיע ___ הזמן",
+        "english": "He arrived before the time",
+        "correctPreposition": "לפני",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "___ הארוחה נצא לטייל",
+        "english": "After the meal we'll go for a walk",
+        "correctPreposition": "אחרי",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "היא הלכה לישון ___ הסרט",
+        "english": "She went to sleep after the movie",
+        "correctPreposition": "אחרי",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "אסור לדבר ___ השיעור",
+        "english": "It is forbidden to talk during class",
+        "correctPreposition": "בזמן",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "הוא עבד קשה ___ הפרויקט",
+        "english": "He worked hard during the project",
+        "correctPreposition": "בזמן",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "אני נשאר במשרד ___ הערב",
+        "english": "I stay in the office until the evening",
+        "correctPreposition": "עד",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "החנויות פתוחות ___ חצות",
+        "english": "The stores are open until midnight",
+        "correctPreposition": "עד",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "אני עובד כאן ___ 2010",
+        "english": "I have been working here since 2010",
+        "correctPreposition": "מ",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "___ הבוקר ירד גשם",
+        "english": "Since this morning it has been raining",
+        "correctPreposition": "מ",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "הוא יענה לך ___ יומיים",
+        "english": "He will answer you within two days",
+        "correctPreposition": "תוך",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "נסיים את הפרויקט ___ חודש",
+        "english": "We will finish the project within a month",
+        "correctPreposition": "תוך",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "היו כמה תקלות ___ הניסוי",
+        "english": "There were some malfunctions during the experiment",
+        "correctPreposition": "במהלך",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "הוא למד הרבה ___ השנה",
+        "english": "He learned a lot during the year",
+        "correctPreposition": "במהלך",
+        "category": "זמן"
+    },
+    {
+        "hebrew": "הוא איחר לעבודה ___ הפקקים",
+        "english": "He was late to work because of the traffic jams",
+        "correctPreposition": "בגלל",
+        "category": "סיבה"
+    },
+    {
+        "hebrew": "ביטלנו את הטיול ___ הגשם",
+        "english": "We canceled the trip because of the rain",
+        "correctPreposition": "בגלל",
+        "category": "סיבה"
+    },
+    {
+        "hebrew": "הם ניצחו ___ המאמן החדש",
+        "english": "They won thanks to the new coach",
+        "correctPreposition": "בזכות",
+        "category": "סיבה"
+    },
+    {
+        "hebrew": "זכינו בפרס ___ העבודה הקשה",
+        "english": "We won a prize thanks to the hard work",
+        "correctPreposition": "בזכות",
+        "category": "סיבה"
+    },
+    {
+        "hebrew": "אני נשאר בבית ___ אני עייף",
+        "english": "I am staying home because I am tired",
+        "correctPreposition": "כי",
+        "category": "סיבה"
+    },
+    {
+        "hebrew": "היא שמחה ___ קיבלה מתנה",
+        "english": "She is happy because she got a present",
+        "correctPreposition": "כי",
+        "category": "סיבה"
+    },
+    {
+        "hebrew": "הוא צעק ___ פחד",
+        "english": "He shouted out of fear",
+        "correctPreposition": "מתוך",
+        "category": "סיבה"
+    },
+    {
+        "hebrew": "היא עזרה לו ___ רחמים",
+        "english": "She helped him out of pity",
+        "correctPreposition": "מתוך",
+        "category": "סיבה"
+    },
+    {
+        "hebrew": "אנחנו עובדים ___ החברה",
+        "english": "We work for the sake of the company",
+        "correctPreposition": "למען",
+        "category": "תכלית"
+    },
+    {
+        "hebrew": "הוא נלחם ___ החירות",
+        "english": "He fought for the sake of freedom",
+        "correctPreposition": "למען",
+        "category": "תכלית"
+    },
+    {
+        "hebrew": "קניתי פרחים ___ אמא שלי",
+        "english": "I bought flowers for my mother",
+        "correctPreposition": "בשביל",
+        "category": "תכלית"
+    },
+    {
+        "hebrew": "הוא עושה הכל ___ הילדים",
+        "english": "He does everything for the children",
+        "correctPreposition": "בשביל",
+        "category": "תכלית"
+    },
+    {
+        "hebrew": "החלטנו לשנות את התוכנית ___ הלקוחות",
+        "english": "We decided to change the plan for the benefit of the customers",
+        "correctPreposition": "לטובת",
+        "category": "תכלית"
+    },
+    {
+        "hebrew": "הוא ויתר על החופשה ___ הקבוצה",
+        "english": "He gave up the vacation for the benefit of the team",
+        "correctPreposition": "לטובת",
+        "category": "תכלית"
+    },
+    {
+        "hebrew": "שלחתי את הקובץ ___ הדואר האלקטרוני",
+        "english": "I sent the file by means of email",
+        "correctPreposition": "באמצעות",
+        "category": "אמצעי"
+    },
+    {
+        "hebrew": "הם פתרו את הבעיה ___ תוכנה חדשה",
+        "english": "They solved the problem by means of new software",
+        "correctPreposition": "באמצעות",
+        "category": "אמצעי"
+    },
+    {
+        "hebrew": "נסענו ___ הכביש המהיר",
+        "english": "We drove via the highway",
+        "correctPreposition": "דרך",
+        "category": "אמצעי"
+    },
+    {
+        "hebrew": "הוא למד עברית ___ האינטרנט",
+        "english": "He learned Hebrew through the internet",
+        "correctPreposition": "דרך",
+        "category": "אמצעי"
+    },
+    {
+        "hebrew": "הדלת נפתחה ___ השומר",
+        "english": "The door was opened by the guard",
+        "correctPreposition": "על ידי",
+        "category": "אמצעי"
+    },
+    {
+        "hebrew": "הפרויקט מנוהל ___ מנהלת חדשה",
+        "english": "The project is managed by a new manager",
+        "correctPreposition": "על ידי",
+        "category": "אמצעי"
+    },
+    {
+        "hebrew": "הוא שר ___ זמר מקצועי",
+        "english": "He sings like a professional singer",
+        "correctPreposition": "כמו",
+        "category": "יחס"
+    },
+    {
+        "hebrew": "הילד מתנהג ___ מבוגר",
+        "english": "The child behaves like an adult",
+        "correctPreposition": "כמו",
+        "category": "יחס"
+    },
+    {
+        "hebrew": "הוא עובד ___ מהנדס בחברה גדולה",
+        "english": "He works as an engineer in a big company",
+        "correctPreposition": "כ",
+        "category": "יחס"
+    },
+    {
+        "hebrew": "היא מדברת ___ מומחית בתחום",
+        "english": "She speaks as an expert in the field",
+        "correctPreposition": "כ",
+        "category": "יחס"
+    },
+    {
+        "hebrew": "___ השנה שעברה, המחירים עלו",
+        "english": "Compared to last year, prices have risen",
+        "correctPreposition": "לעומת",
+        "category": "יחס"
+    },
+    {
+        "hebrew": "הוא שקט ___ אחיו הרועש",
+        "english": "He is quiet compared to his noisy brother",
+        "correctPreposition": "לעומת",
+        "category": "יחס"
+    },
+    {
+        "hebrew": "הם הצביעו ___ ההצעה",
+        "english": "They voted against the proposal",
+        "correctPreposition": "נגד",
+        "category": "יחס"
+    },
+    {
+        "hebrew": "הוא נלחם ___ האפליה",
+        "english": "He fights against discrimination",
+        "correctPreposition": "נגד",
+        "category": "יחס"
+    },
+    {
+        "hebrew": "זה הספר ___ המורה",
+        "english": "This is the teacher's book",
+        "correctPreposition": "של",
+        "category": "שייכות"
+    },
+    {
+        "hebrew": "החברים ___ יעל מגיעים היום",
+        "english": "Yael's friends are coming today",
+        "correctPreposition": "של",
+        "category": "שייכות"
+    },
+    {
+        "hebrew": "יש ___י שני אחים",
+        "english": "I have two brothers",
+        "correctPreposition": "ל",
+        "category": "שייכות"
+    },
+    {
+        "hebrew": "הדירה שייכת ___ משפחת כהן",
+        "english": "The apartment belongs to the Cohen family",
+        "correctPreposition": "ל",
+        "category": "שייכות"
+    }
+]
