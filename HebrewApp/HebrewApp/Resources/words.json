@@ -880,4 +880,2153 @@
             "ב"
         ],
         "construction": "Comparative form: פחות + adjective טוב."
+    },
+    {
+        "hebrew": "להישאר",
+        "english": "to stay; to remain",
+        "pronunciation": "lehishe'er",
+        "root": [
+            "ש",
+            "א",
+            "ר"
+        ],
+        "construction": "Infinitive in Hitpa'el (להִשָּׁאֵר) with prefix להת- reduced to להיש- from root ש-א-ר meaning to remain."
+    },
+    {
+        "hebrew": "אמא",
+        "english": "mother; mom",
+        "pronunciation": "ima",
+        "root": [],
+        "construction": "Loan/child-speech form; not built from a Hebrew shoresh."
+    },
+    {
+        "hebrew": "שלי",
+        "english": "my; mine",
+        "pronunciation": "sheli",
+        "root": [
+            "ש",
+            "ל"
+        ],
+        "construction": "Preposition של 'of' + suffix ־י 'me'."
+    },
+    {
+        "hebrew": "חכם",
+        "english": "smart; clever; wise",
+        "pronunciation": "khakham",
+        "root": [
+            "ח",
+            "כ",
+            "ם"
+        ],
+        "construction": "Adjective derived from root ח-כ-ם meaning wisdom or intellect."
+    },
+    {
+        "hebrew": "זמרים",
+        "english": "singers (masc. pl.)",
+        "pronunciation": "zamarim",
+        "root": [
+            "ז",
+            "מ",
+            "ר"
+        ],
+        "construction": "Plural noun from זמר (singer), from root ז-מ-ר 'to sing'."
+    },
+    {
+        "hebrew": "עומר",
+        "english": "Omer (given name)",
+        "pronunciation": "omer",
+        "root": [
+            "ע",
+            "מ",
+            "ר"
+        ],
+        "construction": "Name based on root ע-מ-ר meaning sheaf."
+    },
+    {
+        "hebrew": "אדם",
+        "english": "person; human; Adam",
+        "pronunciation": "adam",
+        "root": [
+            "א",
+            "ד",
+            "מ"
+        ],
+        "construction": "Noun from root א-ד-מ meaning earth/soil, representing 'human of the earth'."
+    },
+    {
+        "hebrew": "תל אביב",
+        "english": "Tel Aviv",
+        "pronunciation": "tel aviv",
+        "root": [
+            "ת",
+            "ל",
+            "-",
+            "א",
+            "ב",
+            "י",
+            "ב"
+        ],
+        "construction": "Compound: תל 'mound' + אביב 'spring', referencing renewal on ancient ground."
+    },
+    {
+        "hebrew": "תל",
+        "english": "mound; archaeological hill",
+        "pronunciation": "tel",
+        "root": [],
+        "construction": "Ancient noun used for settlement heaps; unattached to modern shoresh patterns."
+    },
+    {
+        "hebrew": "אביב",
+        "english": "spring (season)",
+        "pronunciation": "aviv",
+        "root": [
+            "א",
+            "ב",
+            "ב"
+        ],
+        "construction": "Noun from root א-ב-ב referring to new grain and renewal."
+    },
+    {
+        "hebrew": "ערוץ",
+        "english": "channel",
+        "pronunciation": "arutz",
+        "root": [
+            "ע",
+            "ר",
+            "ץ"
+        ],
+        "construction": "Noun in pattern עָרוּץ from root ע-ר-ץ, historically linked with a path or channel of flow."
+    },
+    {
+        "hebrew": "יוטיוב",
+        "english": "YouTube",
+        "pronunciation": "yutyub",
+        "root": [],
+        "construction": "Loanword from English; no Hebrew morphological root."
+    },
+    {
+        "hebrew": "סדרות",
+        "english": "series; TV shows",
+        "pronunciation": "sdarot",
+        "root": [
+            "ס",
+            "ד",
+            "ר"
+        ],
+        "construction": "Plural of סדרה (series), from root ס-ד-ר meaning order/sequence."
+    },
+    {
+        "hebrew": "בריכה",
+        "english": "pool; swimming pool",
+        "pronunciation": "brekha",
+        "root": [
+            "ב",
+            "ר",
+            "כ"
+        ],
+        "construction": "Noun from root ב-ר-כ associated with water sources; pattern with feminine -ה ending."
+    },
+    {
+        "hebrew": "לעבור",
+        "english": "to pass; to cross; to move",
+        "pronunciation": "la'avor",
+        "root": [
+            "ע",
+            "ב",
+            "ר"
+        ],
+        "construction": "Infinitive ל- + root ע-ב-ר meaning crossing or passing."
+    },
+    {
+        "hebrew": "משאית",
+        "english": "truck; lorry",
+        "pronunciation": "masa'it",
+        "root": [
+            "נ",
+            "ש",
+            "א"
+        ],
+        "construction": "From root נ-ש-א 'to carry', with the machine noun pattern -ית."
+    },
+    {
+        "hebrew": "לעכל",
+        "english": "to digest",
+        "pronunciation": "le'akel",
+        "root": [
+            "ע",
+            "כ",
+            "ל"
+        ],
+        "construction": "Infinitive in Pi'el from root ע-כ-ל referring to digestion."
+    },
+    {
+        "hebrew": "מ",
+        "english": "from; than (prefix)",
+        "pronunciation": "mi-",
+        "root": [],
+        "construction": "Prefix mem used before nouns/verbs to indicate 'from' or comparative."
+    },
+    {
+        "hebrew": "נסע",
+        "english": "he traveled; he drove",
+        "pronunciation": "nasa",
+        "root": [
+            "נ",
+            "ס",
+            "ע"
+        ],
+        "construction": "Past masculine singular from root נ-ס-ע meaning movement/travel."
+    },
+    {
+        "hebrew": "לנסוע",
+        "english": "to travel; to go (by vehicle)",
+        "pronunciation": "linsoa",
+        "root": [
+            "נ",
+            "ס",
+            "ע"
+        ],
+        "construction": "Infinitive ל- + root נ-ס-ע."
+    },
+    {
+        "hebrew": "למות",
+        "english": "to die",
+        "pronunciation": "lamut",
+        "root": [
+            "מ",
+            "ו",
+            "ת"
+        ],
+        "construction": "Infinitive ל- + root מ-ו-ת meaning death."
+    },
+    {
+        "hebrew": "מתים",
+        "english": "they die; dead (pl.)",
+        "pronunciation": "metim",
+        "root": [
+            "מ",
+            "ו",
+            "ת"
+        ],
+        "construction": "Plural form from root מ-ו-ת indicating either dying (verb) or dead (adj.)."
+    },
+    {
+        "hebrew": "תוכניות",
+        "english": "plans; programs; shows",
+        "pronunciation": "tokhniyot",
+        "root": [
+            "ת",
+            "כ",
+            "נ"
+        ],
+        "construction": "Plural of תוכנית from root ת-כ-נ meaning planning or design."
+    },
+    {
+        "hebrew": "תוכנית",
+        "english": "plan; program; show",
+        "pronunciation": "tokhnit",
+        "root": [
+            "ת",
+            "כ",
+            "נ"
+        ],
+        "construction": "Noun from root ת-כ-נ meaning plan/structure, with -ית ending."
+    },
+    {
+        "hebrew": "מהר",
+        "english": "quickly",
+        "pronunciation": "maher",
+        "root": [
+            "מ",
+            "ה",
+            "ר"
+        ],
+        "construction": "Adverb from root מ-ה-ר meaning speed/hastening."
+    },
+    {
+        "hebrew": "טיפה",
+        "english": "drop; a bit",
+        "pronunciation": "tipa",
+        "root": [
+            "ט",
+            "פ",
+            "ף"
+        ],
+        "construction": "Diminutive noun from root ט-פ-ף relating to dripping."
+    },
+    {
+        "hebrew": "כתב",
+        "english": "he wrote; writer; journalist",
+        "pronunciation": "katav",
+        "root": [
+            "כ",
+            "ת",
+            "ב"
+        ],
+        "construction": "Verb meaning 'he wrote' or noun meaning 'reporter', all from root כ-ת-ב."
+    },
+    {
+        "hebrew": "מקלדת",
+        "english": "keyboard",
+        "pronunciation": "mikledet",
+        "root": [
+            "ק",
+            "ל",
+            "ד"
+        ],
+        "construction": "Instrument noun with מ- prefix from root ק-ל-ד meaning to type/key."
+    },
+    {
+        "hebrew": "מסתדרים",
+        "english": "manage; get along (they masc.)",
+        "pronunciation": "mistad'rim",
+        "root": [
+            "ס",
+            "ד",
+            "ר"
+        ],
+        "construction": "Present plural reflexive (Hitpa'el) from root ס-ד-ר 'to arrange'."
+    },
+    {
+        "hebrew": "להוסיף",
+        "english": "to add",
+        "pronunciation": "lehosif",
+        "root": [
+            "י",
+            "ס",
+            "ף"
+        ],
+        "construction": "Infinitive in Hif'il (להוסיף) from root י-ס-ף 'to add/increase'."
+    },
+    {
+        "hebrew": "מחבת",
+        "english": "frying pan",
+        "pronunciation": "makhavat",
+        "root": [
+            "ח",
+            "ב",
+            "ה"
+        ],
+        "construction": "Likely from root ח-ב-ה or related to Aramaic; vessel noun pattern מַקְטֶלֶת."
+    },
+    {
+        "hebrew": "שטויות",
+        "english": "nonsense; silly things",
+        "pronunciation": "shtuyot",
+        "root": [
+            "ש",
+            "ט",
+            "ה"
+        ],
+        "construction": "Plural noun meaning 'foolish things'; likely tied to root ש-ט-ה relating to erring or deviating."
+    },
+    {
+        "hebrew": "קרפים",
+        "english": "crepes",
+        "pronunciation": "krepim",
+        "root": [],
+        "construction": "Loanword from French 'crêpe', no Hebrew root."
+    },
+    {
+        "hebrew": "דוכנים",
+        "english": "stalls; booths",
+        "pronunciation": "dukhanim",
+        "root": [
+            "ד",
+            "כ",
+            "נ"
+        ],
+        "construction": "Plural of דוכן from root ד-כ-נ meaning a stand/platform."
+    },
+    {
+        "hebrew": "לבחור",
+        "english": "to choose; to select",
+        "pronunciation": "livchor",
+        "root": [
+            "ב",
+            "ח",
+            "ר"
+        ],
+        "construction": "Infinitive ל- + root ב-ח-ר meaning choice or selection."
+    },
+    {
+        "hebrew": "צדדים",
+        "english": "sides",
+        "pronunciation": "tzdadim",
+        "root": [
+            "צ",
+            "ד",
+            "ד"
+        ],
+        "construction": "Plural of צד from root צ-ד-ד meaning side or edge."
+    },
+    {
+        "hebrew": "צד",
+        "english": "side",
+        "pronunciation": "tzad",
+        "root": [
+            "צ",
+            "ד",
+            "ד"
+        ],
+        "construction": "Base noun from root צ-ד-ד referring to side/angle."
+    },
+    {
+        "hebrew": "לחוות",
+        "english": "to experience",
+        "pronunciation": "lakhavot",
+        "root": [
+            "ח",
+            "ו",
+            "ה"
+        ],
+        "construction": "Infinitive ל- + root ח-ו-ה meaning to feel or experience (rare root)."
+    },
+    {
+        "hebrew": "חוויה",
+        "english": "experience",
+        "pronunciation": "chavaya",
+        "root": [
+            "ח",
+            "ו",
+            "ה"
+        ],
+        "construction": "Noun form from root ח-ו-ה meaning personal experience."
+    },
+    {
+        "hebrew": "פסים",
+        "english": "stripes",
+        "pronunciation": "pasim",
+        "root": [
+            "פ",
+            "ס",
+            "ס"
+        ],
+        "construction": "Plural of פס from root פ-ס-ס meaning line/stripe."
+    },
+    {
+        "hebrew": "פסלים",
+        "english": "statues; sculptures",
+        "pronunciation": "psalim",
+        "root": [
+            "פ",
+            "ס",
+            "ל"
+        ],
+        "construction": "Plural of פסל from root פ-ס-ל meaning to carve/sculpt."
+    },
+    {
+        "hebrew": "אומנות",
+        "english": "art; craft",
+        "pronunciation": "omanut",
+        "root": [
+            "א",
+            "מ",
+            "ן"
+        ],
+        "construction": "Noun from root א-מ-ן meaning skill or craftsmanship."
+    },
+    {
+        "hebrew": "אמנות מופשטת",
+        "english": "abstract art",
+        "pronunciation": "omanut mufshettet",
+        "root": [
+            "א",
+            "מ",
+            "ן"
+        ],
+        "construction": "Phrase: אומנות (art) + adjective מופשטת from root פ-ש-ט meaning abstraction."
+    },
+    {
+        "hebrew": "מזג אוויר",
+        "english": "weather",
+        "pronunciation": "mezeg avir",
+        "root": [
+            "מ",
+            "ז",
+            "ג"
+        ],
+        "construction": "Phrase: מזג 'temperament' + אוויר 'air', meaning atmospheric condition."
+    },
+    {
+        "hebrew": "שילוב",
+        "english": "combination; integration",
+        "pronunciation": "shiluv",
+        "root": [
+            "ש",
+            "ל",
+            "ב"
+        ],
+        "construction": "Noun from root ש-ל-ב meaning to combine/interlock."
+    },
+    {
+        "hebrew": "לפזר",
+        "english": "to scatter; to sprinkle",
+        "pronunciation": "lefazer",
+        "root": [
+            "פ",
+            "ז",
+            "ר"
+        ],
+        "construction": "Infinitive in Pi'el from root פ-ז-ר indicating dispersion."
+    },
+    {
+        "hebrew": "לחקור",
+        "english": "to research; to investigate",
+        "pronunciation": "lachkor",
+        "root": [
+            "ח",
+            "ק",
+            "ר"
+        ],
+        "construction": "Infinitive ל- + root ח-ק-ר meaning investigation or inquiry."
+    },
+    {
+        "hebrew": "חוקר",
+        "english": "researcher",
+        "pronunciation": "choker",
+        "root": [
+            "ח",
+            "ק",
+            "ר"
+        ],
+        "construction": "Agent noun from root ח-ק-ר meaning one who investigates."
+    },
+    {
+        "hebrew": "חקירה",
+        "english": "investigation",
+        "pronunciation": "chakira",
+        "root": [
+            "ח",
+            "ק",
+            "ר"
+        ],
+        "construction": "Noun pattern קְטִילָה from root ח-ק-ר meaning formal inquiry."
+    },
+    {
+        "hebrew": "ספרים",
+        "english": "books",
+        "pronunciation": "sfarim",
+        "root": [
+            "ס",
+            "פ",
+            "ר"
+        ],
+        "construction": "Plural of ספר from root ס-פ-ר meaning writing or counting."
+    },
+    {
+        "hebrew": "ספר",
+        "english": "book",
+        "pronunciation": "sefer",
+        "root": [
+            "ס",
+            "פ",
+            "ר"
+        ],
+        "construction": "Noun meaning book, linked to root ס-פ-ר referencing writing."
+    },
+    {
+        "hebrew": "ספריה",
+        "english": "library",
+        "pronunciation": "sifriya",
+        "root": [
+            "ס",
+            "פ",
+            "ר"
+        ],
+        "construction": "Noun with -יה ending meaning place of books."
+    },
+    {
+        "hebrew": "סופר",
+        "english": "author; writer",
+        "pronunciation": "sofer",
+        "root": [
+            "ס",
+            "פ",
+            "ר"
+        ],
+        "construction": "Agent noun from root ס-פ-ר meaning to write."
+    },
+    {
+        "hebrew": "כותב",
+        "english": "writes (masc.)",
+        "pronunciation": "kotev",
+        "root": [
+            "כ",
+            "ת",
+            "ב"
+        ],
+        "construction": "Present tense from root כ-ת-ב meaning writing."
+    },
+    {
+        "hebrew": "לכתוב",
+        "english": "to write",
+        "pronunciation": "likhtov",
+        "root": [
+            "כ",
+            "ת",
+            "ב"
+        ],
+        "construction": "Infinitive ל- + root כ-ת-ב meaning writing."
+    },
+    {
+        "hebrew": "כתיבה",
+        "english": "writing",
+        "pronunciation": "ktiva",
+        "root": [
+            "כ",
+            "ת",
+            "ב"
+        ],
+        "construction": "Noun form from root כ-ת-ב meaning the act of writing."
+    },
+    {
+        "hebrew": "קבוע",
+        "english": "fixed; regular; permanent",
+        "pronunciation": "kavua",
+        "root": [
+            "ק",
+            "ב",
+            "ע"
+        ],
+        "construction": "Passive adjective from root ק-ב-ע meaning to set or establish."
+    },
+    {
+        "hebrew": "עובד",
+        "english": "worker; works (masc.)",
+        "pronunciation": "oved",
+        "root": [
+            "ע",
+            "ב",
+            "ד"
+        ],
+        "construction": "Present participle from root ע-ב-ד meaning to work or serve."
+    },
+    {
+        "hebrew": "משפט",
+        "english": "sentence; trial; judgment",
+        "pronunciation": "mishpat",
+        "root": [
+            "ש",
+            "פ",
+            "ט"
+        ],
+        "construction": "Noun from root ש-פ-ט meaning judging or legal evaluation."
+    },
+    {
+        "hebrew": "אכול",
+        "english": "eat! (imperative); eaten",
+        "pronunciation": "ekhol",
+        "root": [
+            "א",
+            "כ",
+            "ל"
+        ],
+        "construction": "Imperative masculine singular or passive participle from root א-כ-ל."
+    },
+    {
+        "hebrew": "נשנה",
+        "english": "we will change",
+        "pronunciation": "nishane",
+        "root": [
+            "ש",
+            "נ",
+            "ה"
+        ],
+        "construction": "Future tense 1st person plural from root ש-נ-ה meaning to change."
+    },
+    {
+        "hebrew": "אתי",
+        "english": "with me (fem.); Eti (name)",
+        "pronunciation": "iti / eti",
+        "root": [],
+        "construction": "Prepositional phrase איתי meaning 'with me'. Also used as a name with no root."
+    },
+    {
+        "hebrew": "אפית",
+        "english": "you (fem.) baked",
+        "pronunciation": "afit",
+        "root": [
+            "א",
+            "פ",
+            "ה"
+        ],
+        "construction": "Past tense feminine singular from root א-פ-ה meaning to bake."
+    },
+    {
+        "hebrew": "תאפה",
+        "english": "you (masc.) / he will bake",
+        "pronunciation": "te'epe / ye'epe",
+        "root": [
+            "א",
+            "פ",
+            "ה"
+        ],
+        "construction": "Future tense form from root א-פ-ה; ambiguous subject by context."
+    },
+    {
+        "hebrew": "שעון",
+        "english": "clock; watch",
+        "pronunciation": "sha'on",
+        "root": [
+            "ש",
+            "ע",
+            "ה"
+        ],
+        "construction": "Instrument noun from root ש-ע-ה related to time/hour."
+    },
+    {
+        "hebrew": "חופשה",
+        "english": "vacation; holiday",
+        "pronunciation": "khufsha",
+        "root": [
+            "ח",
+            "פ",
+            "ש"
+        ],
+        "construction": "Noun from root ח-פ-ש meaning release/freedom."
+    },
+    {
+        "hebrew": "קצר",
+        "english": "short",
+        "pronunciation": "katzar",
+        "root": [
+            "ק",
+            "צ",
+            "ר"
+        ],
+        "construction": "Adjective from root ק-צ-ר meaning brevity or shortness."
+    },
+    {
+        "hebrew": "מעניין",
+        "english": "interesting",
+        "pronunciation": "me'anyen",
+        "root": [
+            "ע",
+            "נ",
+            "ה"
+        ],
+        "construction": "Participle in Pi'el from root ע-נ-ה meaning attention/involvement."
+    },
+    {
+        "hebrew": "לזכור",
+        "english": "to remember",
+        "pronunciation": "lizkor",
+        "root": [
+            "ז",
+            "כ",
+            "ר"
+        ],
+        "construction": "Infinitive ל- + root ז-כ-ר meaning memory or remembrance."
+    },
+    {
+        "hebrew": "לשכוח",
+        "english": "to forget",
+        "pronunciation": "lishkoach",
+        "root": [
+            "ש",
+            "כ",
+            "ח"
+        ],
+        "construction": "Infinitive ל- + root ש-כ-ח meaning forgetting."
+    },
+    {
+        "hebrew": "זריחה",
+        "english": "sunrise",
+        "pronunciation": "zricha",
+        "root": [
+            "ז",
+            "ר",
+            "ח"
+        ],
+        "construction": "Noun from root ז-ר-ח meaning to shine or rise (as the sun)."
+    },
+    {
+        "hebrew": "שקיעה",
+        "english": "sunset",
+        "pronunciation": "shki'a",
+        "root": [
+            "ש",
+            "ק",
+            "ע"
+        ],
+        "construction": "Noun from root ש-ק-ע meaning sinking or descending, referring to the sun setting."
+    },
+    {
+        "hebrew": "מוקדם",
+        "english": "early",
+        "pronunciation": "mukdam",
+        "root": [
+            "ק",
+            "ד",
+            "ם"
+        ],
+        "construction": "Passive adjective (Pu'al) from root ק-ד-ם meaning 'before' or 'precede'."
+    },
+    {
+        "hebrew": "מאוחר",
+        "english": "late",
+        "pronunciation": "me'ukhar",
+        "root": [
+            "א",
+            "ח",
+            "ר"
+        ],
+        "construction": "Passive form from root א-ח-ר meaning 'after' or 'later'."
+    },
+    {
+        "hebrew": "תאנה",
+        "english": "fig",
+        "pronunciation": "te'ena",
+        "root": [
+            "ת",
+            "א",
+            "נ"
+        ],
+        "construction": "Fruit name built from the root ת-א-נ, ancient Semitic origin."
+    },
+    {
+        "hebrew": "איזור",
+        "english": "area; region",
+        "pronunciation": "ezor",
+        "root": [
+            "א",
+            "ז",
+            "ר"
+        ],
+        "construction": "Noun from root א-ז-ר meaning 'belt' or 'zone'."
+    },
+    {
+        "hebrew": "איזור עירוני",
+        "english": "urban area",
+        "pronunciation": "ezor ironi",
+        "root": [
+            "א",
+            "ז",
+            "ר"
+        ],
+        "construction": "Phrase: איזור 'area' + adjective עירוני 'urban' from עיר 'city'."
+    },
+    {
+        "hebrew": "איזור מגורים",
+        "english": "residential area",
+        "pronunciation": "ezor megurim",
+        "root": [
+            "א",
+            "ז",
+            "ר"
+        ],
+        "construction": "Phrase combining area (איזור) with מגורים 'dwelling'."
+    },
+    {
+        "hebrew": "מגורים",
+        "english": "residence; housing",
+        "pronunciation": "megurim",
+        "root": [
+            "ג",
+            "ו",
+            "ר"
+        ],
+        "construction": "Noun derived from root ג-ו-ר meaning 'to live/dwell'."
+    },
+    {
+        "hebrew": "חוה",
+        "english": "farm; also a female name 'Chava'",
+        "pronunciation": "chava",
+        "root": [
+            "ח",
+            "ו",
+            "ה"
+        ],
+        "construction": "Noun meaning farm; also personal name derived from root ח-ו-ה 'to declare / to experience'."
+    },
+    {
+        "hebrew": "איך שהם נראים",
+        "english": "how they look",
+        "pronunciation": "eikh shehem nira'im",
+        "root": [
+            "ר",
+            "א",
+            "ה"
+        ],
+        "construction": "Phrase built from איך + שהם + נראים (Nif'al present plural of ר-א-ה 'to see')."
+    },
+    {
+        "hebrew": "בגלל",
+        "english": "because of",
+        "pronunciation": "biglal",
+        "root": [
+            "ג",
+            "ל",
+            "ל"
+        ],
+        "construction": "Preposition from root ג-ל-ל meaning 'because' or 'on account of'."
+    },
+    {
+        "hebrew": "הופעות",
+        "english": "performances; shows",
+        "pronunciation": "hofa'ot",
+        "root": [
+            "פ",
+            "א",
+            "ה"
+        ],
+        "construction": "Plural of הופעה, from root פ-א-ה or פ-ו-ע meaning appearance or performance."
+    },
+    {
+        "hebrew": "להסביר",
+        "english": "to explain",
+        "pronunciation": "lehasbir",
+        "root": [
+            "ס",
+            "ב",
+            "ר"
+        ],
+        "construction": "Infinitive in Hif'il from root ס-ב-ר meaning reason or logic."
+    },
+    {
+        "hebrew": "כדלקמן",
+        "english": "as follows",
+        "pronunciation": "kedilqaman",
+        "root": [
+            "ד",
+            "ל",
+            "ק"
+        ],
+        "construction": "Aramaic-origin phrase meaning 'as stated below'."
+    },
+    {
+        "hebrew": "שלבים",
+        "english": "stages; steps",
+        "pronunciation": "shlavim",
+        "root": [
+            "ש",
+            "ל",
+            "ב"
+        ],
+        "construction": "Plural of שלב meaning step/phase from root ש-ל-ב 'to join' or 'to combine'."
+    },
+    {
+        "hebrew": "להבין",
+        "english": "to understand",
+        "pronunciation": "lehavin",
+        "root": [
+            "ב",
+            "י",
+            "ן"
+        ],
+        "construction": "Infinitive in Hif'il from root ב-י-ן meaning understanding/insight."
+    },
+    {
+        "hebrew": "מילה",
+        "english": "word",
+        "pronunciation": "mila",
+        "root": [
+            "מ",
+            "ל",
+            "ל"
+        ],
+        "construction": "Noun from root מ-ל-ל meaning speech."
+    },
+    {
+        "hebrew": "מילים",
+        "english": "words",
+        "pronunciation": "milim",
+        "root": [
+            "מ",
+            "ל",
+            "ל"
+        ],
+        "construction": "Plural of מילה."
+    },
+    {
+        "hebrew": "לבטא",
+        "english": "to pronounce",
+        "pronunciation": "levatea",
+        "root": [
+            "ב",
+            "ט",
+            "א"
+        ],
+        "construction": "Pi'el infinitive from root ב-ט-א meaning expression or articulation."
+    },
+    {
+        "hebrew": "ביטוי",
+        "english": "expression",
+        "pronunciation": "bitui",
+        "root": [
+            "ב",
+            "ט",
+            "א"
+        ],
+        "construction": "Noun pattern from root ב-ט-א meaning expression/verbalization."
+    },
+    {
+        "hebrew": "סיבה",
+        "english": "reason; cause",
+        "pronunciation": "siba",
+        "root": [
+            "ס",
+            "ב",
+            "ב"
+        ],
+        "construction": "Noun connected to root ס-ב-ב meaning turning or cause."
+    },
+    {
+        "hebrew": "כיוון",
+        "english": "direction",
+        "pronunciation": "kivun",
+        "root": [
+            "כ",
+            "ו",
+            "ן"
+        ],
+        "construction": "Noun from root כ-ו-ן meaning to aim or direct."
+    },
+    {
+        "hebrew": "להתאים",
+        "english": "to match; to fit",
+        "pronunciation": "lehat'im",
+        "root": [
+            "א",
+            "ת",
+            "מ"
+        ],
+        "construction": "Hitpa'el infinitive from root א-ת-מ meaning fitting or matching."
+    },
+    {
+        "hebrew": "התאמה",
+        "english": "compatibility; match",
+        "pronunciation": "hatama",
+        "root": [
+            "א",
+            "ת",
+            "מ"
+        ],
+        "construction": "Noun derived from Hitpa'el/Hif'il pattern meaning suitability."
+    },
+    {
+        "hebrew": "סדר",
+        "english": "order; arrangement",
+        "pronunciation": "seder",
+        "root": [
+            "ס",
+            "ד",
+            "ר"
+        ],
+        "construction": "Noun from root ס-ד-ר meaning order or arrangement."
+    },
+    {
+        "hebrew": "מסודר",
+        "english": "organized; arranged",
+        "pronunciation": "mesudar",
+        "root": [
+            "ס",
+            "ד",
+            "ר"
+        ],
+        "construction": "Passive participle from Pi'el of root ס-ד-ר."
+    },
+    {
+        "hebrew": "רעש",
+        "english": "noise",
+        "pronunciation": "ra'ash",
+        "root": [
+            "ר",
+            "ע",
+            "ש"
+        ],
+        "construction": "Noun from root ר-ע-ש meaning shaking or noise."
+    },
+    {
+        "hebrew": "רועש",
+        "english": "noisy",
+        "pronunciation": "ro'esh",
+        "root": [
+            "ר",
+            "ע",
+            "ש"
+        ],
+        "construction": "Adjective derived from root ר-ע-ש."
+    },
+    {
+        "hebrew": "רעיון",
+        "english": "idea",
+        "pronunciation": "ra'ayon",
+        "root": [
+            "ר",
+            "ע",
+            "ה"
+        ],
+        "construction": "Noun from root ר-ע-ה meaning thought or idea (irregular form)."
+    },
+    {
+        "hebrew": "עמוק",
+        "english": "deep",
+        "pronunciation": "amok",
+        "root": [
+            "ע",
+            "מ",
+            "ק"
+        ],
+        "construction": "Adjective from root ע-מ-ק meaning depth."
+    },
+    {
+        "hebrew": "מפחיד",
+        "english": "scary",
+        "pronunciation": "mafkhid",
+        "root": [
+            "פ",
+            "ח",
+            "ד"
+        ],
+        "construction": "Hif'il active participle meaning 'causing fear'."
+    },
+    {
+        "hebrew": "כשהייתי גדול",
+        "english": "when I was big / grown up",
+        "pronunciation": "kshehayiti gadol",
+        "root": [
+            "ה",
+            "י",
+            "ה"
+        ],
+        "construction": "Phrase combining כאשר + הייתי (root ה-י-ה) + גדול."
+    },
+    {
+        "hebrew": "אנגליה",
+        "english": "England",
+        "pronunciation": "angliya",
+        "root": [],
+        "construction": "Loanword; proper noun without a Hebrew root."
+    },
+    {
+        "hebrew": "לחכות",
+        "english": "to wait",
+        "pronunciation": "lehakot",
+        "root": [
+            "ח",
+            "כ",
+            "ה"
+        ],
+        "construction": "Pi'el infinitive from root ח-כ-ה meaning to wait."
+    },
+    {
+        "hebrew": "ללמד",
+        "english": "to teach",
+        "pronunciation": "lelamed",
+        "root": [
+            "ל",
+            "מ",
+            "ד"
+        ],
+        "construction": "Pi'el infinitive from root ל-מ-ד meaning teaching."
+    },
+    {
+        "hebrew": "לימדה",
+        "english": "she taught",
+        "pronunciation": "limda",
+        "root": [
+            "ל",
+            "מ",
+            "ד"
+        ],
+        "construction": "Past feminine form in Pi'el from root ל-מ-ד."
+    },
+    {
+        "hebrew": "טסתי אליה",
+        "english": "I flew to her",
+        "pronunciation": "tasti eleha",
+        "root": [
+            "ט",
+            "ו",
+            "ס"
+        ],
+        "construction": "Phrase: טסתי (I flew, root ט-ו-ס) + אליה ('to her')."
+    },
+    {
+        "hebrew": "ראיון",
+        "english": "interview",
+        "pronunciation": "ra'ayon",
+        "root": [
+            "ר",
+            "א",
+            "ה"
+        ],
+        "construction": "Noun from root ר-א-ה via form similar to רעיון, meaning 'seeing' or 'ideas exchanged'."
+    },
+    {
+        "hebrew": "לסבול",
+        "english": "to suffer",
+        "pronunciation": "lisbol",
+        "root": [
+            "ס",
+            "ב",
+            "ל"
+        ],
+        "construction": "Infinitive form from root ס-ב-ל meaning to bear or suffer."
+    },
+    {
+        "hebrew": "סובלים",
+        "english": "they suffer",
+        "pronunciation": "sovlim",
+        "root": [
+            "ס",
+            "ב",
+            "ל"
+        ],
+        "construction": "Present masculine plural from root ס-ב-ל."
+    },
+    {
+        "hebrew": "ככה ככה",
+        "english": "so-so",
+        "pronunciation": "kakha kakha",
+        "root": [],
+        "construction": "Colloquial phrase meaning 'so-so' or 'okay-ish'."
+    },
+    {
+        "hebrew": "אני",
+        "english": "I; me",
+        "pronunciation": "ani",
+        "root": [],
+        "construction": "Personal pronoun; no shoresh."
+    },
+    {
+        "hebrew": "אוכלת",
+        "english": "eat; eating (fem.)",
+        "pronunciation": "okhelet",
+        "root": [
+            "א",
+            "כ",
+            "ל"
+        ],
+        "construction": "Present tense feminine singular from root א-כ-ל meaning eating."
+    },
+    {
+        "hebrew": "עוגה",
+        "english": "cake",
+        "pronunciation": "uga",
+        "root": [
+            "ע",
+            "ג",
+            "ג"
+        ],
+        "construction": "Noun from root ע-ג-ג meaning roundness."
+    },
+    {
+        "hebrew": "העוגה",
+        "english": "the cake",
+        "pronunciation": "ha'uga",
+        "root": [
+            "ע",
+            "ג",
+            "ג"
+        ],
+        "construction": "Definite article ה- added to עוגה, from root ע-ג-ג meaning round (cakes were originally round)."
+    },
+    {
+        "hebrew": "יש",
+        "english": "there is; there are",
+        "pronunciation": "yesh",
+        "root": [],
+        "construction": "Existential particle; not derived from a shoresh."
+    },
+    {
+        "hebrew": "אילת",
+        "english": "Eilat (city in Israel)",
+        "pronunciation": "eilat",
+        "root": [],
+        "construction": "Proper noun; no morphological shoresh."
+    },
+    {
+        "hebrew": "ים סוף",
+        "english": "the Red Sea",
+        "pronunciation": "yam suf",
+        "root": [
+            "י",
+            "מ",
+            ""
+        ],
+        "construction": "Phrase: ים 'sea' + סוף 'end', literally 'Sea of the End' or 'Reed Sea'."
+    },
+    {
+        "hebrew": "ים",
+        "english": "sea",
+        "pronunciation": "yam",
+        "root": [],
+        "construction": "Ancient noun; not based on a typical Hebrew root pattern."
+    },
+    {
+        "hebrew": "סוף",
+        "english": "end",
+        "pronunciation": "sof",
+        "root": [
+            "ס",
+            "ו",
+            "ף"
+        ],
+        "construction": "Noun from root ס-ו-ף meaning end or conclusion."
+    },
+    {
+        "hebrew": "אבא",
+        "english": "father; dad",
+        "pronunciation": "aba",
+        "root": [],
+        "construction": "Aramaic-origin family word; not a tri-consonantal Hebrew root."
+    },
+    {
+        "hebrew": "אם",
+        "english": "if; whether",
+        "pronunciation": "im",
+        "root": [],
+        "construction": "Function word; has no shoresh."
+    },
+    {
+        "hebrew": "מישהו",
+        "english": "someone",
+        "pronunciation": "mishehu",
+        "root": [],
+        "construction": "Formed from מי 'who' + שהוא 'that is'; not a root-based noun."
+    },
+    {
+        "hebrew": "טס",
+        "english": "flies (masc.)",
+        "pronunciation": "tas",
+        "root": [
+            "ט",
+            "ו",
+            "ס"
+        ],
+        "construction": "Present masculine singular of root ט-ו-ס meaning to fly (by aircraft)."
+    },
+    {
+        "hebrew": "סין",
+        "english": "China",
+        "pronunciation": "sin",
+        "root": [],
+        "construction": "Proper name; no Hebrew root."
+    },
+    {
+        "hebrew": "חשוב",
+        "english": "important",
+        "pronunciation": "khashuv",
+        "root": [
+            "ח",
+            "ש",
+            "ב"
+        ],
+        "construction": "Passive adjective form from root ח-ש-ב meaning thought or consideration."
+    },
+    {
+        "hebrew": "חומה",
+        "english": "wall",
+        "pronunciation": "khoma",
+        "root": [
+            "ח",
+            "ו",
+            "מ"
+        ],
+        "construction": "Noun from root ח-ו-מ meaning protective wall or rampart."
+    },
+    {
+        "hebrew": "הגדולה",
+        "english": "the big; the great (fem.)",
+        "pronunciation": "hagdola",
+        "root": [
+            "ג",
+            "ד",
+            "ל"
+        ],
+        "construction": "Definite article ה- + feminine adjective גדולה from root ג-ד-ל meaning growth/size."
+    },
+    {
+        "hebrew": "בזכות",
+        "english": "thanks to; because of (positive)",
+        "pronunciation": "bizkhut",
+        "root": [
+            "ז",
+            "כ",
+            "ה"
+        ],
+        "construction": "Preposition based on noun זכות (privilege/merit) from root ז-כ-ה."
+    },
+    {
+        "hebrew": "משכורת",
+        "english": "salary; paycheck",
+        "pronunciation": "maskoret",
+        "root": [
+            "ש",
+            "כ",
+            "ר"
+        ],
+        "construction": "Noun derived from root ש-כ-ר meaning payment or reward."
+    },
+    {
+        "hebrew": "מוכר",
+        "english": "familiar; known",
+        "pronunciation": "mukar",
+        "root": [
+            "כ",
+            "ר",
+            "ר"
+        ],
+        "construction": "Passive participle in Huf'al from root כ-ר-ר meaning recognition."
+    },
+    {
+        "hebrew": "להרשות",
+        "english": "to allow; to permit",
+        "pronunciation": "leharshot",
+        "root": [
+            "ר",
+            "ש",
+            "ה"
+        ],
+        "construction": "Hif'il infinitive from root ר-ש-ה meaning permission."
+    },
+    {
+        "hebrew": "לאפשר",
+        "english": "to enable; to allow",
+        "pronunciation": "lehafsher",
+        "root": [
+            "א",
+            "פ",
+            "ש"
+        ],
+        "construction": "Hif'il infinitive meaning 'to make possible'."
+    },
+    {
+        "hebrew": "שמן",
+        "english": "oil; grease",
+        "pronunciation": "shemen",
+        "root": [
+            "ש",
+            "מ",
+            "נ"
+        ],
+        "construction": "Noun from root ש-מ-נ meaning fat/oil."
+    },
+    {
+        "hebrew": "שמנים",
+        "english": "oils",
+        "pronunciation": "shmanim",
+        "root": [
+            "ש",
+            "מ",
+            "נ"
+        ],
+        "construction": "Plural of שמן."
+    },
+    {
+        "hebrew": "ארנק",
+        "english": "wallet",
+        "pronunciation": "arnak",
+        "root": [],
+        "construction": "Likely a loanword; does not follow a Hebrew root pattern."
+    },
+    {
+        "hebrew": "כיס",
+        "english": "pocket",
+        "pronunciation": "kis",
+        "root": [],
+        "construction": "Borrowed/ancient noun not derived from modern root patterns."
+    },
+    {
+        "hebrew": "שכחה",
+        "english": "forgetfulness",
+        "pronunciation": "shikhecha",
+        "root": [
+            "ש",
+            "כ",
+            "ח"
+        ],
+        "construction": "Noun derived from root ש-כ-ח (to forget)."
+    },
+    {
+        "hebrew": "תשלום",
+        "english": "payment",
+        "pronunciation": "tashlum",
+        "root": [
+            "ש",
+            "ל",
+            "ם"
+        ],
+        "construction": "Noun from Pi'el pattern based on root ש-ל-ם meaning completion/payment."
+    },
+    {
+        "hebrew": "לשלם",
+        "english": "to pay",
+        "pronunciation": "leshalem",
+        "root": [
+            "ש",
+            "ל",
+            "ם"
+        ],
+        "construction": "Pi'el infinitive meaning 'to pay' from root ש-ל-ם."
+    },
+    {
+        "hebrew": "אותיות",
+        "english": "letters (alphabet)",
+        "pronunciation": "otiyot",
+        "root": [
+            "א",
+            "ו",
+            "ת"
+        ],
+        "construction": "Plural of אות meaning 'sign' or 'letter'."
+    },
+    {
+        "hebrew": "הבדל",
+        "english": "difference",
+        "pronunciation": "hevdel",
+        "root": [
+            "ב",
+            "ד",
+            "ל"
+        ],
+        "construction": "Noun from root ב-ד-ל meaning separation or distinction."
+    },
+    {
+        "hebrew": "תיק",
+        "english": "bag; file; briefcase",
+        "pronunciation": "tik",
+        "root": [],
+        "construction": "Loanword from Aramaic; no shoresh."
+    },
+    {
+        "hebrew": "מזוודה",
+        "english": "suitcase",
+        "pronunciation": "mizvada",
+        "root": [
+            "ז",
+            "ו",
+            "ד"
+        ],
+        "construction": "Derived from root ז-ו-ד meaning 'to pack/prepare'; modern usage expanded."
+    },
+    {
+        "hebrew": "להביא",
+        "english": "to bring",
+        "pronunciation": "lehavi",
+        "root": [
+            "ב",
+            "ו",
+            "א"
+        ],
+        "construction": "Hif'il infinitive from irregular root ב-ו-א meaning 'to bring'."
+    },
+    {
+        "hebrew": "סוכנות",
+        "english": "agency",
+        "pronunciation": "sokhnut",
+        "root": [
+            "ס",
+            "כ",
+            "נ"
+        ],
+        "construction": "Noun from root ס-כ-נ meaning service/agency."
+    },
+    {
+        "hebrew": "אתר",
+        "english": "site; website",
+        "pronunciation": "atar",
+        "root": [],
+        "construction": "Borrowed from Aramaic; means place/location."
+    },
+    {
+        "hebrew": "להסתפר",
+        "english": "to get a haircut",
+        "pronunciation": "lehistaper",
+        "root": [
+            "ס",
+            "פ",
+            "ר"
+        ],
+        "construction": "Hitpa'el form of root ס-פ-ר meaning to cut hair."
+    },
+    {
+        "hebrew": "לקצר",
+        "english": "to shorten",
+        "pronunciation": "lekatzer",
+        "root": [
+            "ק",
+            "צ",
+            "ר"
+        ],
+        "construction": "Pi'el infinitive from root ק-צ-ר meaning shortness."
+    },
+    {
+        "hebrew": "ס.פ.ר",
+        "english": "root S-P-R (barber/haircut meaning)",
+        "pronunciation": "s-p-r",
+        "root": [
+            "ס",
+            "פ",
+            "ר"
+        ],
+        "construction": "This is the explicit written form of the root ס-פ-ר related to haircutting."
+    },
+    {
+        "hebrew": "מספר אותי",
+        "english": "he cuts my hair",
+        "pronunciation": "mesaper oti",
+        "root": [
+            "ס",
+            "פ",
+            "ר"
+        ],
+        "construction": "Pi'el present masculine of root ס-פ-ר + pronoun אותי."
+    },
+    {
+        "hebrew": "חולה",
+        "english": "sick; ill",
+        "pronunciation": "khole / khola",
+        "root": [
+            "ח",
+            "ל",
+            "ה"
+        ],
+        "construction": "Adjective from root ח-ל-ה meaning sickness; gender depends on context."
+    },
+    {
+        "hebrew": "חול",
+        "english": "sand",
+        "pronunciation": "khol",
+        "root": [
+            "ח",
+            "ו",
+            "ל"
+        ],
+        "construction": "Noun from root ח-ו-ל meaning sand or loose earth."
+    },
+    {
+        "hebrew": "חול",
+        "english": "weekday; secular",
+        "pronunciation": "khol",
+        "root": [
+            "ח",
+            "ל",
+            "ל"
+        ],
+        "construction": "Different root (ח-ל-ל) meaning ordinary/profane; homograph of 'sand'."
+    },
+    {
+        "hebrew": "חול",
+        "english": "dance (verb root)",
+        "pronunciation": "khul",
+        "root": [
+            "ח",
+            "ו",
+            "ל"
+        ],
+        "construction": "Another usage of root ח-ו-ל meaning to whirl/dance."
+    },
+    {
+        "hebrew": "חול",
+        "english": "to give birth (root meaning)",
+        "pronunciation": "khul",
+        "root": [
+            "ח",
+            "ו",
+            "ל"
+        ],
+        "construction": "Another meaning of the same root relating to labor pains."
+    },
+    {
+        "hebrew": "חול",
+        "english": "sand (repeated entry)",
+        "pronunciation": "khol",
+        "root": [
+            "ח",
+            "ו",
+            "ל"
+        ],
+        "construction": "Duplicate entry referencing sand; same explanation applies."
+    },
+    {
+        "hebrew": "חו\"ל",
+        "english": "abroad; outside the country",
+        "pronunciation": "khul",
+        "root": [],
+        "construction": "Acronym for חוץ לארץ (outside the land). Acronym → no root shown."
+    },
+    {
+        "hebrew": "חוץ לארץ",
+        "english": "abroad; outside the country",
+        "pronunciation": "khutz la'aretz",
+        "root": [
+            "ח",
+            "ו",
+            "צ"
+        ],
+        "construction": "Phrase: חוץ 'outside' + לארץ 'to the land (Israel)'."
+    },
+    {
+        "hebrew": "הכי טוב בבית",
+        "english": "the best is at home",
+        "pronunciation": "hachi tov babayit",
+        "root": [
+            "ט",
+            "ו",
+            "ב"
+        ],
+        "construction": "Phrase: הכי 'the most' + טוב 'good' + בבית 'in the house'."
+    },
+    {
+        "hebrew": "דומה",
+        "english": "similar",
+        "pronunciation": "domeh",
+        "root": [
+            "ד",
+            "מ",
+            "ה"
+        ],
+        "construction": "Adjective from root ד-מ-ה meaning resemblance or similarity."
+    },
+    {
+        "hebrew": "למה",
+        "english": "why; what for",
+        "pronunciation": "lama",
+        "root": [],
+        "construction": "Interrogative word; historically ל + מה ('for what')."
+    },
+    {
+        "hebrew": "מתגעגע",
+        "english": "misses; longs for (masc.)",
+        "pronunciation": "mitga'agea",
+        "root": [
+            "ג",
+            "ע",
+            "ע"
+        ],
+        "construction": "Hitpa'el present masculine from root ג-ע-ע meaning longing."
+    },
+    {
+        "hebrew": "להתגעגע",
+        "english": "to miss; to long for",
+        "pronunciation": "lehitga'agea",
+        "root": [
+            "ג",
+            "ע",
+            "ע"
+        ],
+        "construction": "Hitpa'el infinitive from root ג-ע-ע meaning yearning."
+    },
+    {
+        "hebrew": "להתאמן",
+        "english": "to practice; to train",
+        "pronunciation": "lehitamen",
+        "root": [
+            "א",
+            "מ",
+            "נ"
+        ],
+        "construction": "Hitpa'el infinitive from root א-מ-נ meaning training/practice."
+    },
+    {
+        "hebrew": "סירה",
+        "english": "boat",
+        "pronunciation": "sira",
+        "root": [
+            "ס",
+            "י",
+            "ר"
+        ],
+        "construction": "Noun from root ס-י-ר meaning to move/turn (nautical)."
+    },
+    {
+        "hebrew": "לשוט",
+        "english": "to sail; to row",
+        "pronunciation": "lashut",
+        "root": [
+            "ש",
+            "י",
+            "ט"
+        ],
+        "construction": "Infinitive from root ש-י-ט meaning to sail."
+    },
+    {
+        "hebrew": "שייט",
+        "english": "sailing; cruise",
+        "pronunciation": "shayit",
+        "root": [
+            "ש",
+            "י",
+            "ט"
+        ],
+        "construction": "Noun referring to sailing activity from root ש-י-ט."
+    },
+    {
+        "hebrew": "לצוף",
+        "english": "to float",
+        "pronunciation": "latzuf",
+        "root": [
+            "צ",
+            "ו",
+            "ף"
+        ],
+        "construction": "Infinitive from root צ-ו-ף meaning to float/hover."
+    },
+    {
+        "hebrew": "צף",
+        "english": "floats; floating",
+        "pronunciation": "tzaf",
+        "root": [
+            "צ",
+            "ו",
+            "ף"
+        ],
+        "construction": "Present masculine from root צ-ו-ף meaning floating."
+    },
+    {
+        "hebrew": "להסתובב",
+        "english": "to wander; to turn around; to hang out",
+        "pronunciation": "lehistovev",
+        "root": [
+            "ס",
+            "ב",
+            "ב"
+        ],
+        "construction": "Hitpa'el infinitive from root ס-ב-ב meaning turning/going around."
+    },
+    {
+        "hebrew": "להתקשר",
+        "english": "to call; to contact",
+        "pronunciation": "lehitkasher",
+        "root": [
+            "ק",
+            "ש",
+            "ר"
+        ],
+        "construction": "Hitpa'el infinitive from root ק-ש-ר meaning connection/contact."
+    },
+    {
+        "hebrew": "רשת חברתית",
+        "english": "social network",
+        "pronunciation": "reshet khevratit",
+        "root": [
+            "ר",
+            "ש",
+            "ת"
+        ],
+        "construction": "Phrase: רשת (network) + adjective חברתית from חבר."
+    },
+    {
+        "hebrew": "רשת",
+        "english": "network; net",
+        "pronunciation": "reshet",
+        "root": [
+            "ר",
+            "ש",
+            "ת"
+        ],
+        "construction": "Noun from root ר-ש-ת meaning net/web."
+    },
+    {
+        "hebrew": "חברתית",
+        "english": "social (fem.)",
+        "pronunciation": "khevratit",
+        "root": [
+            "ח",
+            "ב",
+            "ר"
+        ],
+        "construction": "Adjective from חבר meaning social."
+    },
+    {
+        "hebrew": "להפוך",
+        "english": "to turn; to become; to transform",
+        "pronunciation": "lahafokh",
+        "root": [
+            "ה",
+            "פ",
+            "ך"
+        ],
+        "construction": "Hif'il/Pa'al infinitive depending on context; root ה-פ-ך meaning turning or reversing."
+    },
+    {
+        "hebrew": "הופך",
+        "english": "turns; becomes",
+        "pronunciation": "hofekh",
+        "root": [
+            "ה",
+            "פ",
+            "ך"
+        ],
+        "construction": "Present masculine from root ה-פ-ך."
+    },
+    {
+        "hebrew": "לחשוב",
+        "english": "to think",
+        "pronunciation": "lakhshov",
+        "root": [
+            "ח",
+            "ש",
+            "ב"
+        ],
+        "construction": "Pa'al infinitive from root ח-ש-ב meaning thought."
+    },
+    {
+        "hebrew": "חושב",
+        "english": "thinks (masc.)",
+        "pronunciation": "khoshev",
+        "root": [
+            "ח",
+            "ש",
+            "ב"
+        ],
+        "construction": "Present masculine from root ח-ש-ב."
+    },
+    {
+        "hebrew": "לנחש",
+        "english": "to guess",
+        "pronunciation": "lenakhesh",
+        "root": [
+            "נ",
+            "ח",
+            "ש"
+        ],
+        "construction": "Pi'el infinitive from root נ-ח-ש meaning guessing."
+    },
+    {
+        "hebrew": "נחש",
+        "english": "snake",
+        "pronunciation": "nakhash",
+        "root": [
+            "נ",
+            "ח",
+            "ש"
+        ],
+        "construction": "Noun from root נ-ח-ש; identical root but unrelated semantic branch."
+    },
+    {
+        "hebrew": "מסובך",
+        "english": "complicated",
+        "pronunciation": "mesubakh",
+        "root": [
+            "ס",
+            "ב",
+            "ך"
+        ],
+        "construction": "Passive participle from Pi'el of root ס-ב-ך meaning entanglement/complexity."
+    },
+    {
+        "hebrew": "פשוט",
+        "english": "simple",
+        "pronunciation": "pashut",
+        "root": [
+            "פ",
+            "ש",
+            "ט"
+        ],
+        "construction": "Adjective from root פ-ש-ט meaning simple/plain."
+    },
+    {
+        "hebrew": "להשפיע",
+        "english": "to influence",
+        "pronunciation": "lehashpia",
+        "root": [
+            "ש",
+            "פ",
+            "ע"
+        ],
+        "construction": "Hif'il infinitive from root ש-פ-ע meaning influence/abundance."
+    },
+    {
+        "hebrew": "השפעה",
+        "english": "influence",
+        "pronunciation": "hashpa'a",
+        "root": [
+            "ש",
+            "פ",
+            "ע"
+        ],
+        "construction": "Noun from root ש-פ-ע meaning influence."
+    },
+    {
+        "hebrew": "אווירה",
+        "english": "atmosphere; vibe",
+        "pronunciation": "avira",
+        "root": [
+            "א",
+            "ו",
+            "ר"
+        ],
+        "construction": "Derived from אוויר (air), relating to mood or atmosphere."
+    },
+    {
+        "hebrew": "מהירות",
+        "english": "speed",
+        "pronunciation": "mehirut",
+        "root": [
+            "מ",
+            "ה",
+            "ר"
+        ],
+        "construction": "Noun from root מ-ה-ר meaning quickness."
+    },
+    {
+        "hebrew": "שיער",
+        "english": "hair",
+        "pronunciation": "se'ar",
+        "root": [
+            "ש",
+            "ע",
+            "ר"
+        ],
+        "construction": "Noun meaning hair; root relates to hair/fur."
+    },
+    {
+        "hebrew": "שיער חלק",
+        "english": "straight hair",
+        "pronunciation": "se'ar khalak",
+        "root": [
+            "ש",
+            "ע",
+            "ר"
+        ],
+        "construction": "Phrase combining hair + adjective חלק meaning smooth/straight."
+    },
+    {
+        "hebrew": "שיער מתולתל",
+        "english": "curly hair",
+        "pronunciation": "se'ar metultal",
+        "root": [
+            "ש",
+            "ע",
+            "ר"
+        ],
+        "construction": "Phrase: hair + adjective מתולתל (Hitpa'el pattern)."
+    },
+    {
+        "hebrew": "חלק",
+        "english": "smooth; straight",
+        "pronunciation": "khalak",
+        "root": [
+            "ח",
+            "ל",
+            "ק"
+        ],
+        "construction": "Adjective from root ח-ל-ק meaning smooth."
+    },
+    {
+        "hebrew": "מתולתל",
+        "english": "curly",
+        "pronunciation": "metultal",
+        "root": [
+            "ת",
+            "ל",
+            "ת"
+        ],
+        "construction": "Hitpa'el participle meaning curled; root relates to twisting."
+    },
+    {
+        "hebrew": "קירח",
+        "english": "bald",
+        "pronunciation": "kera'akh",
+        "root": [
+            "ק",
+            "ר",
+            "ח"
+        ],
+        "construction": "Adjective from root ק-ר-ח meaning baldness."
+    },
+    {
+        "hebrew": "לצבוע",
+        "english": "to color; to dye",
+        "pronunciation": "litzboa",
+        "root": [
+            "צ",
+            "ב",
+            "ע"
+        ],
+        "construction": "Infinitive from root צ-ב-ע meaning color or dye."
+    },
+    {
+        "hebrew": "לסדר",
+        "english": "to arrange; to tidy; to organize",
+        "pronunciation": "lesader",
+        "root": [
+            "ס",
+            "ד",
+            "ר"
+        ],
+        "construction": "Pi'el infinitive from root ס-ד-ר."
+    },
+    {
+        "hebrew": "גבות",
+        "english": "eyebrows",
+        "pronunciation": "gabot",
+        "root": [
+            "ג",
+            "ב",
+            "ה"
+        ],
+        "construction": "Plural of גבה meaning eyebrow."
+    },
+    {
+        "hebrew": "ריס",
+        "english": "eyelash",
+        "pronunciation": "ris",
+        "root": [
+            "ר",
+            "י",
+            "ס"
+        ],
+        "construction": "Noun from root ר-י-ס relating to eyelashes."
+    },
+    {
+        "hebrew": "מאמין",
+        "english": "believes (masc.)",
+        "pronunciation": "ma'amin",
+        "root": [
+            "א",
+            "מ",
+            "ן"
+        ],
+        "construction": "Hif'il present from root א-מ-ן meaning belief/faith."
+    },
+    {
+        "hebrew": "יפה",
+        "english": "beautiful; pretty; nice",
+        "pronunciation": "yafe",
+        "root": [
+            "י",
+            "פ",
+            "ה"
+        ],
+        "construction": "Adjective from root י-פ-ה relating to beauty."
+    },
+    {
+        "hebrew": "טבעי",
+        "english": "natural",
+        "pronunciation": "tiv'i",
+        "root": [
+            "ט",
+            "ב",
+            "ע"
+        ],
+        "construction": "Adjective from root ט-ב-ע meaning nature."
+    },
+    {
+        "hebrew": "תשובה",
+        "english": "answer; reply",
+        "pronunciation": "teshuva",
+        "root": [
+            "ש",
+            "ו",
+            "ב"
+        ],
+        "construction": "Noun from root ש-ו-ב meaning to return; answer as 'returning a response'."
+    },
+    {
+        "hebrew": "לענות",
+        "english": "to answer; to respond",
+        "pronunciation": "la'anot",
+        "root": [
+            "ע",
+            "נ",
+            "ה"
+        ],
+        "construction": "Infinitive from root ע-נ-ה meaning answering/responding."
     }
+]

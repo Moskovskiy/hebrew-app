@@ -30,6 +30,8 @@ struct TypingExerciseView: View {
                     .font(.system(size: 40, weight: .bold))
                     .foregroundColor(.white)
                     .multilineTextAlignment(.center)
+                    .minimumScaleFactor(0.5)
+                    .fixedSize(horizontal: false, vertical: true)
                     .shadow(radius: 5)
                 
                 if let word = questionWord {
@@ -66,32 +68,38 @@ struct TypingExerciseView: View {
     // MARK: - Subviews
     
     private var correctAnswerView: some View {
-        VStack(spacing: 20) {
-            Text("Correct Answer:")
-                .font(.headline)
-                .foregroundColor(.white.opacity(0.8))
+        VStack(spacing: 30) {
+            VStack(spacing: 10) {
+                Text("Correct Answer:")
+                    .font(.headline)
+                    .foregroundColor(.white.opacity(0.8))
+                
+                Text(correctAnswer)
+                    .font(.system(size: 36, weight: .bold))
+                    .foregroundColor(.green)
+                    .multilineTextAlignment(.center)
+                    .padding()
+            }
             
-            Text(correctAnswer)
-                .font(.system(size: 36, weight: .bold))
-                .foregroundColor(.green)
-                .padding(20)
-                .background(
-                    Color.white.opacity(0.15)
-                        .background(.ultraThinMaterial)
-                )
-                .overlay(
-                    RoundedRectangle(cornerRadius: 20)
-                        .stroke(Color.green.opacity(0.6), lineWidth: 2)
-                )
-                .cornerRadius(20)
-                .shadow(color: Color.green.opacity(0.5), radius: 20, x: 0, y: 5)
+            Button(action: {
+                controller.nextExercise()
+            }) {
+                Text("Got it")
+                    .font(.headline)
+                    .foregroundColor(.white)
+                    .padding(.horizontal, 40)
+                    .padding(.vertical, 12)
+                    .background(Color.blue)
+                    .cornerRadius(25)
+                    .shadow(radius: 5)
+            }
         }
         .padding()
     }
     
     private var inputSection: some View {
         VStack(spacing: 0) {
-            // Text Input Field - Always RTL
+            // Text Input Field
             TextField("Type here...", text: $userInput)
                 .font(.title)
                 .foregroundColor(.white)
@@ -106,8 +114,9 @@ struct TypingExerciseView: View {
                 )
                 .cornerRadius(20)
                 .shadow(color: shadowColor, radius: controller.feedbackMessage != nil ? 20 : 5, x: 0, y: 5)
-                .multilineTextAlignment(.trailing)
-                .environment(\.layoutDirection, .rightToLeft) // Always RTL
+                .multilineTextAlignment(isHebrewToEnglish ? .leading : .trailing)
+                .environment(\.layoutDirection, isHebrewToEnglish ? .leftToRight : .rightToLeft)
+                .environment(\.locale, Locale(identifier: isHebrewToEnglish ? "en" : "he"))
                 .focused($isInputFocused)
                 .disabled(controller.feedbackMessage != nil)
                 .onSubmit {

@@ -70,10 +70,7 @@ class GameController: ObservableObject {
         showCorrectAnswer = true
         feedbackMessage = "Correct answer shown"
         
-        // Move to next exercise after showing answer
-        DispatchQueue.main.asyncAfter(deadline: .now() + 2.0) {
-            self.nextExercise()
-        }
+        // Wait for user confirmation
     }
     
     func checkAnswer(_ answer: Any) {
@@ -220,10 +217,7 @@ class GameController: ObservableObject {
             showCorrectAnswer = true
             feedbackMessage = "Correct answer shown"
             
-            // Move to next exercise after showing answer
-            DispatchQueue.main.asyncAfter(deadline: .now() + 2.0) {
-                self.nextExercise()
-            }
+            // Wait for user confirmation
         } else {
             // Clear feedback after delay
             DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {

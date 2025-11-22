@@ -23,8 +23,8 @@ struct WordHintView: View {
                     .background(
                         Capsule()
                             .fill(Color.white.opacity(0.2))
-                            .background(.ultraThinMaterial)
                     )
+                    .background(.ultraThinMaterial, in: Capsule())
                     .foregroundColor(.white)
                 }
                 
@@ -66,8 +66,8 @@ struct WordHintView: View {
                     .background(
                         RoundedRectangle(cornerRadius: 16)
                             .fill(Color.black.opacity(0.3))
-                            .background(.ultraThinMaterial)
                     )
+                    .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 16))
                     .padding(.horizontal)
                     .transition(.opacity.combined(with: .scale(scale: 0.95, anchor: .top)))
                 }

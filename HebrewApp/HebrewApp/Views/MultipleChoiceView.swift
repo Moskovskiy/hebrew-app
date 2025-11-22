@@ -15,6 +15,8 @@ struct MultipleChoiceView: View {
                     .font(.system(size: 40, weight: .bold))
                     .foregroundColor(.white)
                     .multilineTextAlignment(.center)
+                    .minimumScaleFactor(0.5)
+                    .fixedSize(horizontal: false, vertical: true)
                     .shadow(radius: 5)
                 
                 if let word = questionWord {
