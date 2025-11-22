@@ -11,7 +11,7 @@ import SwiftUI
 struct HebrewAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView()
         }
     }
 }

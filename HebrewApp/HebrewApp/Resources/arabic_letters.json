@@ -1,0 +1,254 @@
+[
+    {
+        "id": "alif",
+        "sound": "a",
+        "forms": {
+            "start": "ا",
+            "middle": "ـا",
+            "end": "ـا"
+        }
+    },
+    {
+        "id": "ba",
+        "sound": "b",
+        "forms": {
+            "start": "بـ",
+            "middle": "ـبـ",
+            "end": "ـب"
+        }
+    },
+    {
+        "id": "ta",
+        "sound": "t",
+        "forms": {
+            "start": "تـ",
+            "middle": "ـتـ",
+            "end": "ـت"
+        }
+    },
+    {
+        "id": "tha",
+        "sound": "th",
+        "forms": {
+            "start": "ثـ",
+            "middle": "ـثـ",
+            "end": "ـث"
+        }
+    },
+    {
+        "id": "jim",
+        "sound": "j",
+        "forms": {
+            "start": "جـ",
+            "middle": "ـجـ",
+            "end": "ـج"
+        }
+    },
+    {
+        "id": "ha",
+        "sound": "ḥ",
+        "forms": {
+            "start": "حـ",
+            "middle": "ـحـ",
+            "end": "ـح"
+        }
+    },
+    {
+        "id": "kha",
+        "sound": "kh",
+        "forms": {
+            "start": "خـ",
+            "middle": "ـخـ",
+            "end": "ـخ"
+        }
+    },
+    {
+        "id": "dal",
+        "sound": "d",
+        "forms": {
+            "start": "د",
+            "middle": "ـد",
+            "end": "ـد"
+        }
+    },
+    {
+        "id": "dhal",
+        "sound": "dh",
+        "forms": {
+            "start": "ذ",
+            "middle": "ـذ",
+            "end": "ـذ"
+        }
+    },
+    {
+        "id": "ra",
+        "sound": "r",
+        "forms": {
+            "start": "ر",
+            "middle": "ـر",
+            "end": "ـر"
+        }
+    },
+    {
+        "id": "zay",
+        "sound": "z",
+        "forms": {
+            "start": "ز",
+            "middle": "ـز",
+            "end": "ـز"
+        }
+    },
+    {
+        "id": "sin",
+        "sound": "s",
+        "forms": {
+            "start": "سـ",
+            "middle": "ـسـ",
+            "end": "ـس"
+        }
+    },
+    {
+        "id": "shin",
+        "sound": "sh",
+        "forms": {
+            "start": "شـ",
+            "middle": "ـشـ",
+            "end": "ـش"
+        }
+    },
+    {
+        "id": "sad",
+        "sound": "ṣ",
+        "forms": {
+            "start": "صـ",
+            "middle": "ـصـ",
+            "end": "ـص"
+        }
+    },
+    {
+        "id": "dad",
+        "sound": "ḍ",
+        "forms": {
+            "start": "ضـ",
+            "middle": "ـضـ",
+            "end": "ـض"
+        }
+    },
+    {
+        "id": "ta2",
+        "sound": "ṭ",
+        "forms": {
+            "start": "طـ",
+            "middle": "ـطـ",
+            "end": "ـط"
+        }
+    },
+    {
+        "id": "dha2",
+        "sound": "ẓ",
+        "forms": {
+            "start": "ظـ",
+            "middle": "ـظـ",
+            "end": "ـظ"
+        }
+    },
+    {
+        "id": "ayn",
+        "sound": "ʿ",
+        "forms": {
+            "start": "عـ",
+            "middle": "ـعـ",
+            "end": "ـع"
+        }
+    },
+    {
+        "id": "ghayn",
+        "sound": "gh",
+        "forms": {
+            "start": "غـ",
+            "middle": "ـغـ",
+            "end": "ـغ"
+        }
+    },
+    {
+        "id": "fa",
+        "sound": "f",
+        "forms": {
+            "start": "فـ",
+            "middle": "ـفـ",
+            "end": "ـف"
+        }
+    },
+    {
+        "id": "qaf",
+        "sound": "q",
+        "forms": {
+            "start": "قـ",
+            "middle": "ـقـ",
+            "end": "ـق"
+        }
+    },
+    {
+        "id": "kaf",
+        "sound": "k",
+        "forms": {
+            "start": "كـ",
+            "middle": "ـكـ",
+            "end": "ـك"
+        }
+    },
+    {
+        "id": "lam",
+        "sound": "l",
+        "forms": {
+            "start": "لـ",
+            "middle": "ـلـ",
+            "end": "ـل"
+        }
+    },
+    {
+        "id": "mim",
+        "sound": "m",
+        "forms": {
+            "start": "مـ",
+            "middle": "ـمـ",
+            "end": "ـم"
+        }
+    },
+    {
+        "id": "nun",
+        "sound": "n",
+        "forms": {
+            "start": "نـ",
+            "middle": "ـنـ",
+            "end": "ـن"
+        }
+    },
+    {
+        "id": "ha2",
+        "sound": "h",
+        "forms": {
+            "start": "هـ",
+            "middle": "ـهـ",
+            "end": "ـه"
+        }
+    },
+    {
+        "id": "waw",
+        "sound": "w",
+        "forms": {
+            "start": "و",
+            "middle": "ـو",
+            "end": "ـو"
+        }
+    },
+    {
+        "id": "ya",
+        "sound": "y",
+        "forms": {
+            "start": "يـ",
+            "middle": "ـيـ",
+            "end": "ـي"
+        }
+    }
+]

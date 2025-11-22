@@ -1,0 +1,752 @@
+[
+    {
+        "arabic": "مرحبا",
+        "pronunciation": "marhaba",
+        "english": "Hello"
+    },
+    {
+        "arabic": "شكرا",
+        "pronunciation": "shukran",
+        "english": "Thank you"
+    },
+    {
+        "arabic": "نعم",
+        "pronunciation": "na'am",
+        "english": "Yes"
+    },
+    {
+        "arabic": "لا",
+        "pronunciation": "la",
+        "english": "No"
+    },
+    {
+        "arabic": "ماء",
+        "pronunciation": "ma'",
+        "english": "Water"
+    },
+    {
+        "arabic": "السلام عليكم",
+        "pronunciation": "as-salamu alaykum",
+        "english": "Peace be upon you"
+    },
+    {
+        "arabic": "وعليكم السلام",
+        "pronunciation": "wa alaykum as-salam",
+        "english": "And peace upon you"
+    },
+    {
+        "arabic": "صباح الخير",
+        "pronunciation": "sabah al-khayr",
+        "english": "Good morning"
+    },
+    {
+        "arabic": "مساء الخير",
+        "pronunciation": "masa' al-khayr",
+        "english": "Good evening"
+    },
+    {
+        "arabic": "كيف حالك؟",
+        "pronunciation": "kayfa halak/halik",
+        "english": "How are you?"
+    },
+    {
+        "arabic": "أنا",
+        "pronunciation": "ana",
+        "english": "I / me"
+    },
+    {
+        "arabic": "أنت",
+        "pronunciation": "anta/anti",
+        "english": "You"
+    },
+    {
+        "arabic": "هو",
+        "pronunciation": "huwa",
+        "english": "He"
+    },
+    {
+        "arabic": "هي",
+        "pronunciation": "hiya",
+        "english": "She"
+    },
+    {
+        "arabic": "نحن",
+        "pronunciation": "nahnu",
+        "english": "We"
+    },
+    {
+        "arabic": "هم",
+        "pronunciation": "hum",
+        "english": "They"
+    },
+    {
+        "arabic": "هذا",
+        "pronunciation": "hadha",
+        "english": "This (masc.)"
+    },
+    {
+        "arabic": "هذه",
+        "pronunciation": "hadhihi",
+        "english": "This (fem.)"
+    },
+    {
+        "arabic": "ذلك",
+        "pronunciation": "thalika",
+        "english": "That"
+    },
+    {
+        "arabic": "هناك",
+        "pronunciation": "hunak",
+        "english": "There"
+    },
+    {
+        "arabic": "أريد",
+        "pronunciation": "ureed",
+        "english": "I want"
+    },
+    {
+        "arabic": "أحتاج",
+        "pronunciation": "ahtaj",
+        "english": "I need"
+    },
+    {
+        "arabic": "أحب",
+        "pronunciation": "uhibb",
+        "english": "I love / like"
+    },
+    {
+        "arabic": "أذهب",
+        "pronunciation": "adhhab",
+        "english": "I go"
+    },
+    {
+        "arabic": "آكل",
+        "pronunciation": "akul",
+        "english": "I eat"
+    },
+    {
+        "arabic": "أشرب",
+        "pronunciation": "ashrab",
+        "english": "I drink"
+    },
+    {
+        "arabic": "أعرف",
+        "pronunciation": "a'rif",
+        "english": "I know"
+    },
+    {
+        "arabic": "لا أعرف",
+        "pronunciation": "la a'rif",
+        "english": "I don't know"
+    },
+    {
+        "arabic": "أفهم",
+        "pronunciation": "afham",
+        "english": "I understand"
+    },
+    {
+        "arabic": "لا أفهم",
+        "pronunciation": "la afham",
+        "english": "I don’t understand"
+    },
+    {
+        "arabic": "من فضلك",
+        "pronunciation": "min fadlik",
+        "english": "Please"
+    },
+    {
+        "arabic": "عفوا",
+        "pronunciation": "afwan",
+        "english": "You're welcome / excuse me"
+    },
+    {
+        "arabic": "آسف",
+        "pronunciation": "asif",
+        "english": "Sorry"
+    },
+    {
+        "arabic": "مع السلامة",
+        "pronunciation": "ma'a as-salama",
+        "english": "Goodbye"
+    },
+    {
+        "arabic": "تمام",
+        "pronunciation": "tamaam",
+        "english": "Okay"
+    },
+    {
+        "arabic": "بيت",
+        "pronunciation": "bayt",
+        "english": "House"
+    },
+    {
+        "arabic": "سيارة",
+        "pronunciation": "sayyara",
+        "english": "Car"
+    },
+    {
+        "arabic": "شارع",
+        "pronunciation": "shari'",
+        "english": "Street"
+    },
+    {
+        "arabic": "كتاب",
+        "pronunciation": "kitab",
+        "english": "Book"
+    },
+    {
+        "arabic": "قلم",
+        "pronunciation": "qalam",
+        "english": "Pen"
+    },
+    {
+        "arabic": "هاتف",
+        "pronunciation": "hatif",
+        "english": "Phone"
+    },
+    {
+        "arabic": "باب",
+        "pronunciation": "bab",
+        "english": "Door"
+    },
+    {
+        "arabic": "نافذة",
+        "pronunciation": "nafitha",
+        "english": "Window"
+    },
+    {
+        "arabic": "طاولة",
+        "pronunciation": "tawila",
+        "english": "Table"
+    },
+    {
+        "arabic": "كرسي",
+        "pronunciation": "kursi",
+        "english": "Chair"
+    },
+    {
+        "arabic": "مدرسة",
+        "pronunciation": "madrasa",
+        "english": "School"
+    },
+    {
+        "arabic": "جامعة",
+        "pronunciation": "jamia",
+        "english": "University"
+    },
+    {
+        "arabic": "مكتب",
+        "pronunciation": "maktab",
+        "english": "Office / desk"
+    },
+    {
+        "arabic": "سوق",
+        "pronunciation": "souq",
+        "english": "Market"
+    },
+    {
+        "arabic": "مطعم",
+        "pronunciation": "mat'am",
+        "english": "Restaurant"
+    },
+    {
+        "arabic": "مدينة",
+        "pronunciation": "madina",
+        "english": "City"
+    },
+    {
+        "arabic": "قرية",
+        "pronunciation": "qarya",
+        "english": "Village"
+    },
+    {
+        "arabic": "طبيب",
+        "pronunciation": "tabeeb",
+        "english": "Doctor"
+    },
+    {
+        "arabic": "مستشفى",
+        "pronunciation": "mustashfa",
+        "english": "Hospital"
+    },
+    {
+        "arabic": "عمل",
+        "pronunciation": "amal",
+        "english": "Work"
+    },
+    {
+        "arabic": "وقت",
+        "pronunciation": "waqt",
+        "english": "Time"
+    },
+    {
+        "arabic": "يوم",
+        "pronunciation": "yawm",
+        "english": "Day"
+    },
+    {
+        "arabic": "ليل",
+        "pronunciation": "layl",
+        "english": "Night"
+    },
+    {
+        "arabic": "أسبوع",
+        "pronunciation": "usbu'",
+        "english": "Week"
+    },
+    {
+        "arabic": "شهر",
+        "pronunciation": "shahr",
+        "english": "Month"
+    },
+    {
+        "arabic": "سنة",
+        "pronunciation": "sana",
+        "english": "Year"
+    },
+    {
+        "arabic": "اليوم",
+        "pronunciation": "al-yawm",
+        "english": "Today"
+    },
+    {
+        "arabic": "غدا",
+        "pronunciation": "ghadan",
+        "english": "Tomorrow"
+    },
+    {
+        "arabic": "أمس",
+        "pronunciation": "ams",
+        "english": "Yesterday"
+    },
+    {
+        "arabic": "الآن",
+        "pronunciation": "al-aan",
+        "english": "Now"
+    },
+    {
+        "arabic": "أين؟",
+        "pronunciation": "ayna",
+        "english": "Where?"
+    },
+    {
+        "arabic": "متى؟",
+        "pronunciation": "mataa",
+        "english": "When?"
+    },
+    {
+        "arabic": "لماذا؟",
+        "pronunciation": "limadha",
+        "english": "Why?"
+    },
+    {
+        "arabic": "كيف؟",
+        "pronunciation": "kayfa",
+        "english": "How?"
+    },
+    {
+        "arabic": "ماذا؟",
+        "pronunciation": "madha",
+        "english": "What?"
+    },
+    {
+        "arabic": "من؟",
+        "pronunciation": "man",
+        "english": "Who?"
+    },
+    {
+        "arabic": "مع",
+        "pronunciation": "ma'a",
+        "english": "With"
+    },
+    {
+        "arabic": "بدون",
+        "pronunciation": "bidun",
+        "english": "Without"
+    },
+    {
+        "arabic": "في",
+        "pronunciation": "fi",
+        "english": "In"
+    },
+    {
+        "arabic": "على",
+        "pronunciation": "ala",
+        "english": "On"
+    },
+    {
+        "arabic": "تحت",
+        "pronunciation": "taht",
+        "english": "Under"
+    },
+    {
+        "arabic": "فوق",
+        "pronunciation": "fawq",
+        "english": "Above"
+    },
+    {
+        "arabic": "قبل",
+        "pronunciation": "qabl",
+        "english": "Before"
+    },
+    {
+        "arabic": "بعد",
+        "pronunciation": "ba'd",
+        "english": "After"
+    },
+    {
+        "arabic": "بين",
+        "pronunciation": "bayn",
+        "english": "Between"
+    },
+    {
+        "arabic": "يمين",
+        "pronunciation": "yameen",
+        "english": "Right"
+    },
+    {
+        "arabic": "يسار",
+        "pronunciation": "yasar",
+        "english": "Left"
+    },
+    {
+        "arabic": "داخل",
+        "pronunciation": "dakhil",
+        "english": "Inside"
+    },
+    {
+        "arabic": "خارج",
+        "pronunciation": "kharij",
+        "english": "Outside"
+    },
+    {
+        "arabic": "أمام",
+        "pronunciation": "amam",
+        "english": "In front of"
+    },
+    {
+        "arabic": "خلف",
+        "pronunciation": "khalf",
+        "english": "Behind"
+    },
+    {
+        "arabic": "قريب",
+        "pronunciation": "qarib",
+        "english": "Near"
+    },
+    {
+        "arabic": "بعيد",
+        "pronunciation": "ba'id",
+        "english": "Far"
+    },
+    {
+        "arabic": "جيد",
+        "pronunciation": "jayyid",
+        "english": "Good"
+    },
+    {
+        "arabic": "سيء",
+        "pronunciation": "sayyi'",
+        "english": "Bad"
+    },
+    {
+        "arabic": "سريع",
+        "pronunciation": "saree'",
+        "english": "Fast"
+    },
+    {
+        "arabic": "بطيء",
+        "pronunciation": "batee'",
+        "english": "Slow"
+    },
+    {
+        "arabic": "كبير",
+        "pronunciation": "kabeer",
+        "english": "Big"
+    },
+    {
+        "arabic": "صغير",
+        "pronunciation": "sagheer",
+        "english": "Small"
+    },
+    {
+        "arabic": "جديد",
+        "pronunciation": "jadeed",
+        "english": "New"
+    },
+    {
+        "arabic": "قديم",
+        "pronunciation": "qadeem",
+        "english": "Old"
+    },
+    {
+        "arabic": "سهل",
+        "pronunciation": "sahl",
+        "english": "Easy"
+    },
+    {
+        "arabic": "صعب",
+        "pronunciation": "sa'b",
+        "english": "Difficult"
+    },
+    {
+        "arabic": "جميل",
+        "pronunciation": "jameel",
+        "english": "Beautiful"
+    },
+    {
+        "arabic": "قبيح",
+        "pronunciation": "qabeeh",
+        "english": "Ugly"
+    },
+    {
+        "arabic": "غالي",
+        "pronunciation": "ghali",
+        "english": "Expensive"
+    },
+    {
+        "arabic": "رخيص",
+        "pronunciation": "rakhees",
+        "english": "Cheap"
+    },
+    {
+        "arabic": "طعام",
+        "pronunciation": "ta'am",
+        "english": "Food"
+    },
+    {
+        "arabic": "خبز",
+        "pronunciation": "khubz",
+        "english": "Bread"
+    },
+    {
+        "arabic": "لحم",
+        "pronunciation": "lahm",
+        "english": "Meat"
+    },
+    {
+        "arabic": "سمك",
+        "pronunciation": "samak",
+        "english": "Fish"
+    },
+    {
+        "arabic": "تفاح",
+        "pronunciation": "tuffah",
+        "english": "Apple"
+    },
+    {
+        "arabic": "برتقال",
+        "pronunciation": "burtuqal",
+        "english": "Orange"
+    },
+    {
+        "arabic": "قهوة",
+        "pronunciation": "qahwa",
+        "english": "Coffee"
+    },
+    {
+        "arabic": "شاي",
+        "pronunciation": "shay",
+        "english": "Tea"
+    },
+    {
+        "arabic": "لبن",
+        "pronunciation": "laban",
+        "english": "Milk"
+    },
+    {
+        "arabic": "عصير",
+        "pronunciation": "aseer",
+        "english": "Juice"
+    },
+    {
+        "arabic": "حديقة",
+        "pronunciation": "hadiqa",
+        "english": "Garden"
+    },
+    {
+        "arabic": "بحر",
+        "pronunciation": "bahr",
+        "english": "Sea"
+    },
+    {
+        "arabic": "سماء",
+        "pronunciation": "sama'",
+        "english": "Sky"
+    },
+    {
+        "arabic": "شمس",
+        "pronunciation": "shams",
+        "english": "Sun"
+    },
+    {
+        "arabic": "قمر",
+        "pronunciation": "qamar",
+        "english": "Moon"
+    },
+    {
+        "arabic": "نجمة",
+        "pronunciation": "najma",
+        "english": "Star"
+    },
+    {
+        "arabic": "ريح",
+        "pronunciation": "reeh",
+        "english": "Wind"
+    },
+    {
+        "arabic": "مطر",
+        "pronunciation": "matar",
+        "english": "Rain"
+    },
+    {
+        "arabic": "ثلج",
+        "pronunciation": "thalj",
+        "english": "Snow"
+    },
+    {
+        "arabic": "حر",
+        "pronunciation": "harr",
+        "english": "Hot"
+    },
+    {
+        "arabic": "برد",
+        "pronunciation": "bard",
+        "english": "Cold"
+    },
+    {
+        "arabic": "جو",
+        "pronunciation": "jaww",
+        "english": "Weather"
+    },
+    {
+        "arabic": "صديق",
+        "pronunciation": "sadeeq",
+        "english": "Friend"
+    },
+    {
+        "arabic": "عائلة",
+        "pronunciation": "a'ila",
+        "english": "Family"
+    },
+    {
+        "arabic": "أم",
+        "pronunciation": "umm",
+        "english": "Mother"
+    },
+    {
+        "arabic": "أب",
+        "pronunciation": "ab",
+        "english": "Father"
+    },
+    {
+        "arabic": "أخ",
+        "pronunciation": "akh",
+        "english": "Brother"
+    },
+    {
+        "arabic": "أخت",
+        "pronunciation": "ukht",
+        "english": "Sister"
+    },
+    {
+        "arabic": "ابن",
+        "pronunciation": "ibn",
+        "english": "Son"
+    },
+    {
+        "arabic": "ابنة",
+        "pronunciation": "ibna",
+        "english": "Daughter"
+    },
+    {
+        "arabic": "زوج",
+        "pronunciation": "zawj",
+        "english": "Husband"
+    },
+    {
+        "arabic": "زوجة",
+        "pronunciation": "zawja",
+        "english": "Wife"
+    },
+    {
+        "arabic": "طفل",
+        "pronunciation": "tifl",
+        "english": "Child"
+    },
+    {
+        "arabic": "رجل",
+        "pronunciation": "rajul",
+        "english": "Man"
+    },
+    {
+        "arabic": "امرأة",
+        "pronunciation": "imra'a",
+        "english": "Woman"
+    },
+    {
+        "arabic": "شخص",
+        "pronunciation": "shakhs",
+        "english": "Person"
+    },
+    {
+        "arabic": "ناس",
+        "pronunciation": "nas",
+        "english": "People"
+    },
+    {
+        "arabic": "جسم",
+        "pronunciation": "jism",
+        "english": "Body"
+    },
+    {
+        "arabic": "رأس",
+        "pronunciation": "ra's",
+        "english": "Head"
+    },
+    {
+        "arabic": "يد",
+        "pronunciation": "yad",
+        "english": "Hand"
+    },
+    {
+        "arabic": "عين",
+        "pronunciation": "ayn",
+        "english": "Eye"
+    },
+    {
+        "arabic": "قدم",
+        "pronunciation": "qadam",
+        "english": "Foot"
+    },
+    {
+        "arabic": "قلب",
+        "pronunciation": "qalb",
+        "english": "Heart"
+    },
+    {
+        "arabic": "لعبة",
+        "pronunciation": "lu'ba",
+        "english": "Toy / game"
+    },
+    {
+        "arabic": "مال",
+        "pronunciation": "mal",
+        "english": "Money"
+    },
+    {
+        "arabic": "سعر",
+        "pronunciation": "si'r",
+        "english": "Price"
+    },
+    {
+        "arabic": "دقيقة",
+        "pronunciation": "daqeeqa",
+        "english": "Minute"
+    },
+    {
+        "arabic": "ساعة",
+        "pronunciation": "sa'a",
+        "english": "Hour"
+    }
+]

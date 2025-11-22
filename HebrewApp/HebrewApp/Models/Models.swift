@@ -43,6 +43,44 @@ struct PrepositionSentence: Identifiable, Codable, Equatable {
     }
 }
 
+// MARK: - Arabic Models
+
+struct ArabicLetter: Codable, Identifiable, Equatable {
+    let id: String
+    let sound: String
+    let forms: LetterForms
+    
+    struct LetterForms: Codable, Equatable {
+        let start: String
+        let middle: String
+        let end: String
+    }
+}
+
+struct ArabicWord: Codable, Identifiable, Equatable {
+    var id: String { arabic }
+    let arabic: String
+    let pronunciation: String
+    let english: String
+}
+
+enum ArabicExerciseType: Equatable {
+    case letterToSound(question: ArabicLetter, options: [ArabicLetter])
+    case wordToEnglish(question: ArabicWord, options: [ArabicWord])
+}
+
+// MARK: - Hard English Models
+
+struct HardEnglishWord: Codable, Identifiable, Equatable {
+    var id: String { word }
+    let word: String
+    let definition: String
+}
+
+enum HardEnglishExerciseType: Equatable {
+    case definitionToWord(question: HardEnglishWord, options: [HardEnglishWord])
+}
+
 struct VerbForm: Codable, Equatable {
     let hebrew: String
     let english: String

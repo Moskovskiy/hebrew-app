@@ -9,6 +9,9 @@ class DataManager: ObservableObject {
     @Published var prepositionCategories: [PrepositionCategory] = []
     @Published var prepositionSentences: [PrepositionSentence] = []
     @Published var verbs: [VerbConjugation] = []
+    @Published var arabicLetters: [ArabicLetter] = []
+    @Published var arabicWords: [ArabicWord] = []
+    @Published var hardEnglishWords: [HardEnglishWord] = []
 
     private init() {
         loadData()
@@ -20,6 +23,9 @@ class DataManager: ObservableObject {
         prepositionCategories = load("prepositions.json")
         prepositionSentences = load("preposition_sentences.json")
         verbs = load("verbs.json")
+        arabicLetters = load("arabic_letters.json")
+        arabicWords = load("arabic_words.json")
+        hardEnglishWords = load("hard_english_words.json")
     }
     
     private func load<T: Decodable>(_ filename: String) -> T {

@@ -4530,5 +4530,387 @@
         "pronunciation": "alehem",
         "root": [],
         "construction": "Preposition על 'on' + suffix הם 'them'. No root."
+    },
+    {
+        "hebrew": "ליירט",
+        "english": "to intercept (usually a missile)",
+        "pronunciation": "leyareṭ",
+        "root": [
+            "י",
+            "ר",
+            "ט"
+        ],
+        "construction": "Pi'el infinitive from root י-ר-ט meaning interception."
+    },
+    {
+        "hebrew": "לאף אחד לא אכפת",
+        "english": "nobody cares",
+        "pronunciation": "le'af ekhad lo ekhpat",
+        "root": [
+            "א",
+            "כ",
+            "פ"
+        ],
+        "construction": "Phrase built around אכפת (from root א-כ-פ meaning concern) + negation."
+    },
+    {
+        "hebrew": "אקרובטיקה",
+        "english": "acrobatics",
+        "pronunciation": "akrobatika",
+        "root": [],
+        "construction": "Loanword; no Hebrew root."
+    },
+    {
+        "hebrew": "אש קרה",
+        "english": "cold fire (figurative expression)",
+        "pronunciation": "esh kara",
+        "root": [
+            "א",
+            "ש",
+            "",
+            "ק",
+            "ר",
+            "ר"
+        ],
+        "construction": "Phrase combining אש 'fire' with קרה from root ק-ר-ר 'coldness'."
+    },
+    {
+        "hebrew": "קיטור",
+        "english": "steam",
+        "pronunciation": "kitor",
+        "root": [
+            "ק",
+            "ט",
+            "ר"
+        ],
+        "construction": "Noun from root ק-ט-ר meaning steam or vapor."
+    },
+    {
+        "hebrew": "לשים",
+        "english": "to put; to place",
+        "pronunciation": "lasim",
+        "root": [
+            "ש",
+            "י",
+            "ם"
+        ],
+        "construction": "Irregular infinitive from root ש-י-ם meaning placing/putting."
+    },
+    {
+        "hebrew": "להתקין",
+        "english": "to install; to set up",
+        "pronunciation": "lehatkin",
+        "root": [
+            "ת",
+            "ק",
+            "ן"
+        ],
+        "construction": "Hif'il infinitive from root ת-ק-ן meaning fixing/installing."
+    },
+    {
+        "hebrew": "כיירים",
+        "english": "potters; ceramic artists",
+        "pronunciation": "kayarim",
+        "root": [
+            "כ",
+            "י",
+            "ר"
+        ],
+        "construction": "Plural of כייר from root כ-י-ר meaning pottery/crafting."
+    },
+    {
+        "hebrew": "כיריים",
+        "english": "stovetop; range; burners",
+        "pronunciation": "kirayim",
+        "root": [
+            "כ",
+            "י",
+            "ר"
+        ],
+        "construction": "Dual form marking a pair of stove burners; from root כ-י-ר."
+    },
+    {
+        "hebrew": "סכו\"ם",
+        "english": "cutlery; silverware",
+        "pronunciation": "sakum",
+        "root": [],
+        "construction": "Acronym of סכין, כף, ומזלג (knife, spoon, fork). Acronym → no root."
+    },
+    {
+        "hebrew": "גודל",
+        "english": "size",
+        "pronunciation": "godel",
+        "root": [
+            "ג",
+            "ד",
+            "ל"
+        ],
+        "construction": "Noun from root ג-ד-ל meaning growth/size."
+    },
+    {
+        "hebrew": "דירה מחולקת",
+        "english": "divided apartment; subdivided flat",
+        "pronunciation": "dira mekhuleket",
+        "root": [
+            "ד",
+            "ו",
+            "ר",
+            "ח",
+            "ל",
+            "ק"
+        ],
+        "construction": "Phrase: דירה 'apartment' + מחולקת (Pual participle of ח-ל-ק)."
+    },
+    {
+        "hebrew": "יהלומים",
+        "english": "diamonds",
+        "pronunciation": "yahalomim",
+        "root": [
+            "ה",
+            "ל",
+            "ם"
+        ],
+        "construction": "Plural of יהלום from root ה-ל-ם meaning striking/hardness."
+    },
+    {
+        "hebrew": "שתי קומות מעל קומת הקרקע",
+        "english": "two floors above the ground floor",
+        "pronunciation": "shtey komot me'al komat hakarka",
+        "root": [
+            "ק",
+            "ו",
+            "מ",
+            "ע",
+            "ל"
+        ],
+        "construction": "Phrase with קומות (floors) from root ק-ו-מ and מעל 'above'."
+    },
+    {
+        "hebrew": "ברצינות",
+        "english": "seriously",
+        "pronunciation": "bersinuyut",
+        "root": [
+            "ר",
+            "צ",
+            "נ"
+        ],
+        "construction": "Adverb built from רצינות 'seriousness' from root ר-צ-נ."
+    },
+    {
+        "hebrew": "הכרחי",
+        "english": "necessary",
+        "pronunciation": "hekhrachi",
+        "root": [
+            "כ",
+            "ר",
+            "ח"
+        ],
+        "construction": "Adjective from root כ-ר-ח meaning necessity/force."
+    },
+    {
+        "hebrew": "צריכים להחזיק",
+        "english": "must hold; need to hold",
+        "pronunciation": "tzrikhim lehakhzik",
+        "root": [
+            "צ",
+            "ר",
+            "כ",
+            "ח",
+            "ז",
+            "ק"
+        ],
+        "construction": "Phrase combining צריכים (root צ-ר-כ) + להחזיק (root ח-ז-ק)."
+    },
+    {
+        "hebrew": "חזקה",
+        "english": "strong (fem.)",
+        "pronunciation": "khazaka",
+        "root": [
+            "ח",
+            "ז",
+            "ק"
+        ],
+        "construction": "Feminine adjective from root ח-ז-ק meaning strong."
+    },
+    {
+        "hebrew": "פחות טוב",
+        "english": "less good; worse",
+        "pronunciation": "pakhot tov",
+        "root": [
+            "פ",
+            "ח",
+            "ת",
+            "ט",
+            "ו",
+            "ב"
+        ],
+        "construction": "Comparative phrase: פחות 'less' + טוב 'good'."
+    },
+    {
+        "hebrew": "אסור לי",
+        "english": "I am not allowed; forbidden for me",
+        "pronunciation": "asur li",
+        "root": [
+            "א",
+            "ס",
+            "ר"
+        ],
+        "construction": "Phrase based on אסור (passive adjective from root א-ס-ר) + לי."
+    },
+    {
+        "hebrew": "כלא",
+        "english": "prison; jail",
+        "pronunciation": "kele",
+        "root": [
+            "כ",
+            "ל",
+            "א"
+        ],
+        "construction": "Noun from root כ-ל-א meaning to imprison/confine."
+    },
+    {
+        "hebrew": "לחזור לזה",
+        "english": "to go back to it",
+        "pronunciation": "lakhzor leze",
+        "root": [
+            "ח",
+            "ז",
+            "ר"
+        ],
+        "construction": "Phrase built on לחזור (root ח-ז-ר) with demonstrative לזה."
+    },
+    {
+        "hebrew": "לתכנן עם עצמי",
+        "english": "to plan by myself",
+        "pronunciation": "letakhnen im atzmi",
+        "root": [
+            "ת",
+            "כ",
+            "נ"
+        ],
+        "construction": "Phrase built on לתכנן (Pi'el infinitive) from root ת-כ-נ."
+    },
+    {
+        "hebrew": "לחכות",
+        "english": "to wait",
+        "pronunciation": "lekhakot",
+        "root": [
+            "ח",
+            "כ",
+            "ה"
+        ],
+        "construction": "Pi'el infinitive from root ח-כ-ה meaning to wait."
+    },
+    {
+        "hebrew": "הזמנה",
+        "english": "invitation; order",
+        "pronunciation": "hazmana",
+        "root": [
+            "ז",
+            "מ",
+            "ן"
+        ],
+        "construction": "Noun from root ז-מ-ן meaning inviting or ordering."
+    },
+    {
+        "hebrew": "הלוואי",
+        "english": "I wish; if only",
+        "pronunciation": "halvai",
+        "root": [],
+        "construction": "Fixed expression of hope; no shoresh."
+    },
+    {
+        "hebrew": "תודה לאל",
+        "english": "thank God",
+        "pronunciation": "toda la'el",
+        "root": [
+            "ת",
+            "ד",
+            "ה"
+        ],
+        "construction": "Phrase: תודה from root ת-ד-ה + לאל."
+    },
+    {
+        "hebrew": "אלוהים",
+        "english": "God",
+        "pronunciation": "elohim",
+        "root": [],
+        "construction": "Proper noun; grammatical plural form with singular meaning."
+    },
+    {
+        "hebrew": "בועה",
+        "english": "bubble",
+        "pronunciation": "bu'a",
+        "root": [
+            "ב",
+            "ע",
+            "ע"
+        ],
+        "construction": "Noun from root ב-ע-ע meaning swelling/expansion."
+    },
+    {
+        "hebrew": "לזכור",
+        "english": "to remember",
+        "pronunciation": "lizkor",
+        "root": [
+            "ז",
+            "כ",
+            "ר"
+        ],
+        "construction": "Pa'al infinitive from root ז-כ-ר meaning memory."
+    },
+    {
+        "hebrew": "עיכוב",
+        "english": "delay",
+        "pronunciation": "ikuv",
+        "root": [
+            "ע",
+            "כ",
+            "ב"
+        ],
+        "construction": "Noun from root ע-כ-ב meaning hindrance/delay."
+    },
+    {
+        "hebrew": "לוח",
+        "english": "board; panel; schedule",
+        "pronunciation": "luakh",
+        "root": [
+            "ל",
+            "ו",
+            "ח"
+        ],
+        "construction": "Noun from root ל-ו-ח meaning tablet/board."
+    },
+    {
+        "hebrew": "לוח זמנים",
+        "english": "timetable; schedule",
+        "pronunciation": "luakh zmaniym",
+        "root": [
+            "ל",
+            "ו",
+            "ח",
+            "ז",
+            "מ",
+            "ן"
+        ],
+        "construction": "Phrase: לוח 'board' + זמנים 'times' from root ז-מ-ן."
+    },
+    {
+        "hebrew": "לו\"ז",
+        "english": "schedule; timetable",
+        "pronunciation": "loz",
+        "root": [],
+        "construction": "Acronym for לוח זמנים → no root listed."
+    },
+    {
+        "hebrew": "עמוס",
+        "english": "busy; packed; overloaded",
+        "pronunciation": "amuz",
+        "root": [
+            "ע",
+            "מ",
+            "ס"
+        ],
+        "construction": "Passive adjective from root ע-מ-ס meaning being loaded/burdened."
     }
 ]

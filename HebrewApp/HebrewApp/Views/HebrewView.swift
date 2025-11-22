@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct ContentView: View {
+struct HebrewView: View {
     @StateObject private var controller = GameController()
     @State private var animateGradient = false
     
@@ -134,8 +134,8 @@ struct ContentView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct HebrewView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        HebrewView()
     }
 }

@@ -885,8 +885,10 @@
             "exampleSentence": "היא ______ ברגע שתבין איך המערכת עובדת."
         },
         "futureFirstPlural": {
-            "hebrew": "נס
-תדר","english": "we will manage","pronunciation": "nistader","exampleSentence": "אל תדאגו, אנחנו somehow ______."
+            "hebrew": "נסתדר",
+            "english": "we will manage",
+            "pronunciation": "nistader",
+            "exampleSentence": "אל תדאגו, אנחנו somehow ______."
         },
         "futureSecondPlural": {
             "hebrew": "תסתדרו",
@@ -1802,6 +1804,1296 @@
             "english": "they will update",
             "pronunciation": "ya'adknu",
             "exampleSentence": "הם ______ את כל הסניפים במקביל."
+        }
+    },
+    {
+        "infinitive": "להסתיר",
+        "infinitiveEnglish": "to hide (something)",
+        "root": [
+            "ס",
+            "ת",
+            "ר"
+        ],
+        "pastFirstSingular": {
+            "hebrew": "הסתרתי",
+            "english": "I hid",
+            "pronunciation": "histarti",
+            "exampleSentence": "אתמול אני ______ ממנו את האמת."
+        },
+        "pastSecondMasculine": {
+            "hebrew": "הסתרת",
+            "english": "you hid (m)",
+            "pronunciation": "histarta",
+            "exampleSentence": "למה אתה ______ את המסמך מהמנהל?"
+        },
+        "pastSecondFeminine": {
+            "hebrew": "הסתרת",
+            "english": "you hid (f)",
+            "pronunciation": "histart",
+            "exampleSentence": "את ______ את המכתב במגירה."
+        },
+        "pastThirdMasculine": {
+            "hebrew": "הסתיר",
+            "english": "he hid",
+            "pronunciation": "histir",
+            "exampleSentence": "הוא ______ את הדמעות שלו."
+        },
+        "pastThirdFeminine": {
+            "hebrew": "הסתירה",
+            "english": "she hid",
+            "pronunciation": "histira",
+            "exampleSentence": "היא ______ את החששות שלה."
+        },
+        "pastFirstPlural": {
+            "hebrew": "הסתרנו",
+            "english": "we hid",
+            "pronunciation": "histarnu",
+            "exampleSentence": "אנחנו ______ מהם את כל הפרטים."
+        },
+        "pastSecondPlural": {
+            "hebrew": "הסתרתם",
+            "english": "you hid (pl)",
+            "pronunciation": "histartem",
+            "exampleSentence": "אתם ______ את הטעות מהלקוח."
+        },
+        "pastThirdPlural": {
+            "hebrew": "הסתירו",
+            "english": "they hid",
+            "pronunciation": "histiru",
+            "exampleSentence": "הם ______ את הכישלון מהמשפחה."
+        },
+        "presentMasculineSingular": {
+            "hebrew": "מסתיר",
+            "english": "hides (m)",
+            "pronunciation": "mastir",
+            "exampleSentence": "הוא ______ משהו מהצוות."
+        },
+        "presentFeminineSingular": {
+            "hebrew": "מסתירה",
+            "english": "hides (f)",
+            "pronunciation": "mastira",
+            "exampleSentence": "היא ______ את התחושות שלה."
+        },
+        "presentMasculinePlural": {
+            "hebrew": "מסתירים",
+            "english": "hide (m pl)",
+            "pronunciation": "mastirim",
+            "exampleSentence": "הם ______ את המסמכים בארון נעול."
+        },
+        "presentFemininePlural": {
+            "hebrew": "מסתירות",
+            "english": "hide (f pl)",
+            "pronunciation": "mastirot",
+            "exampleSentence": "הן ______ את המתנות בחדר השני."
+        },
+        "futureFirstSingular": {
+            "hebrew": "אסתיר",
+            "english": "I will hide",
+            "pronunciation": "astir",
+            "exampleSentence": "אם צריך, אני ______ את הפרטים האלה."
+        },
+        "futureSecondMasculine": {
+            "hebrew": "תסתיר",
+            "english": "you will hide (m)",
+            "pronunciation": "tastir",
+            "exampleSentence": "אל ______ ממני שום מידע חשוב."
+        },
+        "futureSecondFeminine": {
+            "hebrew": "תסתירי",
+            "english": "you will hide (f)",
+            "pronunciation": "tastiri",
+            "exampleSentence": "אל ______ ממנו איך את מרגישה."
+        },
+        "futureThirdMasculine": {
+            "hebrew": "יסתיר",
+            "english": "he will hide",
+            "pronunciation": "yastir",
+            "exampleSentence": "הוא ______ את הממצאים אם זה לא נוח."
+        },
+        "futureThirdFeminine": {
+            "hebrew": "תסתיר",
+            "english": "she will hide",
+            "pronunciation": "tastir",
+            "exampleSentence": "היא ______ הכול כדי למנוע ויכוח."
+        },
+        "futureFirstPlural": {
+            "hebrew": "נסתיר",
+            "english": "we will hide",
+            "pronunciation": "nastir",
+            "exampleSentence": "אנחנו ______ את ההפתעה עד יום ההולדת."
+        },
+        "futureSecondPlural": {
+            "hebrew": "תסתירו",
+            "english": "you will hide (pl)",
+            "pronunciation": "tastiru",
+            "exampleSentence": "אתם ______ את הדוחות עד הפגישה?"
+        },
+        "futureThirdPlural": {
+            "hebrew": "יסתירו",
+            "english": "they will hide",
+            "pronunciation": "yastiru",
+            "exampleSentence": "הם ______ את העקבות שלהם היטב."
+        }
+    },
+    {
+        "infinitive": "להשפיע",
+        "infinitiveEnglish": "to influence / to affect",
+        "root": [
+            "ש",
+            "פ",
+            "ע"
+        ],
+        "pastFirstSingular": {
+            "hebrew": "השפעתי",
+            "english": "I influenced",
+            "pronunciation": "hishpa'ti",
+            "exampleSentence": "לא חשבתי שאני באמת ______ על ההחלטה."
+        },
+        "pastSecondMasculine": {
+            "hebrew": "השפעת",
+            "english": "you influenced (m)",
+            "pronunciation": "hishpa'ta",
+            "exampleSentence": "אתה מאוד ______ על הדעה שלו."
+        },
+        "pastSecondFeminine": {
+            "hebrew": "השפעת",
+            "english": "you influenced (f)",
+            "pronunciation": "hishpa't",
+            "exampleSentence": "את בהחלט ______ על הדרך שהוא בחר."
+        },
+        "pastThirdMasculine": {
+            "hebrew": "השפיע",
+            "english": "he influenced",
+            "pronunciation": "hishpia",
+            "exampleSentence": "הוא מאוד ______ עלי בתקופה ההיא."
+        },
+        "pastThirdFeminine": {
+            "hebrew": "השפיעה",
+            "english": "she influenced",
+            "pronunciation": "hishpi'a",
+            "exampleSentence": "היא ______ על כל מי שסביב."
+        },
+        "pastFirstPlural": {
+            "hebrew": "השפענו",
+            "english": "we influenced",
+            "pronunciation": "hishpa'nu",
+            "exampleSentence": "אנחנו ______ על כיוון הפרויקט."
+        },
+        "pastSecondPlural": {
+            "hebrew": "השפעתם",
+            "english": "you influenced (pl m)",
+            "pronunciation": "hishpa'tem",
+            "exampleSentence": "אתם מאוד ______ על התוצאה הסופית."
+        },
+        "pastThirdPlural": {
+            "hebrew": "השפיעו",
+            "english": "they influenced",
+            "pronunciation": "hishpi'u",
+            "exampleSentence": "הם ______ על האווירה בארגון."
+        },
+        "presentMasculineSingular": {
+            "hebrew": "משפיע",
+            "english": "influences (m)",
+            "pronunciation": "mashpia",
+            "exampleSentence": "הוא מאוד ______ על החברים שלו."
+        },
+        "presentFeminineSingular": {
+            "hebrew": "משפיעה",
+            "english": "influences (f)",
+            "pronunciation": "mashpi'a",
+            "exampleSentence": "היא ______ לטובה על התלמידים."
+        },
+        "presentMasculinePlural": {
+            "hebrew": "משפיעים",
+            "english": "influence (m pl)",
+            "pronunciation": "mashpi'im",
+            "exampleSentence": "הם ______ על דעת הקהל."
+        },
+        "presentFemininePlural": {
+            "hebrew": "משפיעות",
+            "english": "influence (f pl)",
+            "pronunciation": "mashpi'ot",
+            "exampleSentence": "הן ______ מאוד על האופנה."
+        },
+        "futureFirstSingular": {
+            "hebrew": "אשפיע",
+            "english": "I will influence",
+            "pronunciation": "ashpia",
+            "exampleSentence": "אני מקווה שיום אחד אני ______ לטובה."
+        },
+        "futureSecondMasculine": {
+            "hebrew": "תשפיע",
+            "english": "you will influence (m)",
+            "pronunciation": "tashpia",
+            "exampleSentence": "עם הזמן אתה ______ על המערכת."
+        },
+        "futureSecondFeminine": {
+            "hebrew": "תשפיעי",
+            "english": "you will influence (f)",
+            "pronunciation": "tashpi'i",
+            "exampleSentence": "את מאוד ______ אם תספרי את הסיפור שלך."
+        },
+        "futureThirdMasculine": {
+            "hebrew": "ישפיע",
+            "english": "he will influence",
+            "pronunciation": "yashpia",
+            "exampleSentence": "הניסיון שלו ______ על ההחלטה."
+        },
+        "futureThirdFeminine": {
+            "hebrew": "תשפיע",
+            "english": "she will influence",
+            "pronunciation": "tashpia",
+            "exampleSentence": "היא ______ על הכיוון של הצוות."
+        },
+        "futureFirstPlural": {
+            "hebrew": "נשפיע",
+            "english": "we will influence",
+            "pronunciation": "nashpia",
+            "exampleSentence": "אם נהיה מאוחדים, אנחנו ______ באמת."
+        },
+        "futureSecondPlural": {
+            "hebrew": "תשפיעו",
+            "english": "you will influence (pl)",
+            "pronunciation": "tashpi'u",
+            "exampleSentence": "אתם ______ על הדור הבא."
+        },
+        "futureThirdPlural": {
+            "hebrew": "ישפיעו",
+            "english": "they will influence",
+            "pronunciation": "yashpi'u",
+            "exampleSentence": "הם ______ על איך שהכול ייראה."
+        }
+    },
+    {
+        "infinitive": "להתנצל",
+        "infinitiveEnglish": "to apologize",
+        "root": [
+            "נ",
+            "צ",
+            "ל"
+        ],
+        "pastFirstSingular": {
+            "hebrew": "התנצלתי",
+            "english": "I apologized",
+            "pronunciation": "hitnatzalti",
+            "exampleSentence": "אחרי שצעקתי, אני מיד ______."
+        },
+        "pastSecondMasculine": {
+            "hebrew": "התנצלת",
+            "english": "you apologized (m)",
+            "pronunciation": "hitnatzalta",
+            "exampleSentence": "אתה כבר ______ בפניו על מה שקרה?"
+        },
+        "pastSecondFeminine": {
+            "hebrew": "התנצלת",
+            "english": "you apologized (f)",
+            "pronunciation": "hitnatzalt",
+            "exampleSentence": "את ______ בפני החברה שלך?"
+        },
+        "pastThirdMasculine": {
+            "hebrew": "התנצל",
+            "english": "he apologized",
+            "pronunciation": "hitnatzel",
+            "exampleSentence": "הוא ______ בפני כל הכיתה."
+        },
+        "pastThirdFeminine": {
+            "hebrew": "התנצלה",
+            "english": "she apologized",
+            "pronunciation": "hitnatzla",
+            "exampleSentence": "היא ______ והסבירה למה עשתה את זה."
+        },
+        "pastFirstPlural": {
+            "hebrew": "התנצלו",
+            "english": "we apologized",
+            "pronunciation": "hitnatzalnu",
+            "exampleSentence": "אנחנו ______ על העיכוב."
+        },
+        "pastSecondPlural": {
+            "hebrew": "התנצלתם",
+            "english": "you apologized (pl m)",
+            "pronunciation": "hitnatzaltem",
+            "exampleSentence": "אתם ______ על הטעות במייל?"
+        },
+        "pastThirdPlural": {
+            "hebrew": "התנצלו",
+            "english": "they apologized",
+            "pronunciation": "hitnatzlu",
+            "exampleSentence": "הם ______ בפני הלקוחות."
+        },
+        "presentMasculineSingular": {
+            "hebrew": "מתנצל",
+            "english": "apologizes (m)",
+            "pronunciation": "mitnatzel",
+            "exampleSentence": "הוא כל הזמן ______ במקום לשנות."
+        },
+        "presentFeminineSingular": {
+            "hebrew": "מתנצלת",
+            "english": "apologizes (f)",
+            "pronunciation": "mitnatzélet",
+            "exampleSentence": "היא ______ גם על דברים שלא באשמתה."
+        },
+        "presentMasculinePlural": {
+            "hebrew": "מתנצלים",
+            "english": "apologize (m pl)",
+            "pronunciation": "mitnatzlim",
+            "exampleSentence": "הם ______ בלי לקחת אחריות אמיתית."
+        },
+        "presentFemininePlural": {
+            "hebrew": "מתנצלוֹת",
+            "english": "apologize (f pl)",
+            "pronunciation": "mitnatzlot",
+            "exampleSentence": "הן ______ בכל פעם מחדש."
+        },
+        "futureFirstSingular": {
+            "hebrew": "אתנצל",
+            "english": "I will apologize",
+            "pronunciation": "etnatzel",
+            "exampleSentence": "מחר אני ______ בפני כולם."
+        },
+        "futureSecondMasculine": {
+            "hebrew": "תתנצל",
+            "english": "you will apologize (m)",
+            "pronunciation": "titnatzel",
+            "exampleSentence": "אם תפגע בו, אתה ______ בסוף."
+        },
+        "futureSecondFeminine": {
+            "hebrew": "תתנצלי",
+            "english": "you will apologize (f)",
+            "pronunciation": "titnatzli",
+            "exampleSentence": "אם תביני, את ______ על המילים הקשות."
+        },
+        "futureThirdMasculine": {
+            "hebrew": "יתנצל",
+            "english": "he will apologize",
+            "pronunciation": "yitnatzel",
+            "exampleSentence": "הוא ______ כשידע מה קרה באמת."
+        },
+        "futureThirdFeminine": {
+            "hebrew": "תתנצל",
+            "english": "she will apologize",
+            "pronunciation": "titnatzel",
+            "exampleSentence": "היא ______ אם תרגיש אשמה."
+        },
+        "futureFirstPlural": {
+            "hebrew": "נתנצל",
+            "english": "we will apologize",
+            "pronunciation": "nitnatzel",
+            "exampleSentence": "אנחנו ______ אם נבין שטעינו."
+        },
+        "futureSecondPlural": {
+            "hebrew": "תתנצלו",
+            "english": "you will apologize (pl)",
+            "pronunciation": "titnatzlu",
+            "exampleSentence": "אתם ______ כשהלקוחות יתלוננו."
+        },
+        "futureThirdPlural": {
+            "hebrew": "יתנצלו",
+            "english": "they will apologize",
+            "pronunciation": "yitnatzlu",
+            "exampleSentence": "הם ______ כשהאמת תצא לאור."
+        }
+    },
+    {
+        "infinitive": "להתעלף",
+        "infinitiveEnglish": "to faint",
+        "root": [
+            "ע",
+            "ל",
+            "ף"
+        ],
+        "pastFirstSingular": {
+            "hebrew": "התעלפתי",
+            "english": "I fainted",
+            "pronunciation": "hit'alaf­ti",
+            "exampleSentence": "בחום הכבד כמעט ______ באמצע הרחוב."
+        },
+        "pastSecondMasculine": {
+            "hebrew": "התעלפת",
+            "english": "you fainted (m)",
+            "pronunciation": "hit'alaf­ta",
+            "exampleSentence": "אמרו לי שאתה ______ באימון."
+        },
+        "pastSecondFeminine": {
+            "hebrew": "התעלפת",
+            "english": "you fainted (f)",
+            "pronunciation": "hit'aláft",
+            "exampleSentence": "את ______ כשהבדיקה התחילה."
+        },
+        "pastThirdMasculine": {
+            "hebrew": "התעלף",
+            "english": "he fainted",
+            "pronunciation": "hit'alef",
+            "exampleSentence": "הוא פשוט ______ מול כולם."
+        },
+        "pastThirdFeminine": {
+            "hebrew": "התעלפה",
+            "english": "she fainted",
+            "pronunciation": "hit'alfa",
+            "exampleSentence": "היא ______ כשהשמיעה את הבשורה."
+        },
+        "pastFirstPlural": {
+            "hebrew": "התעלפנו",
+            "english": "we fainted",
+            "pronunciation": "hit'alafnu",
+            "exampleSentence": "מהמחירים הגבוהים כמעט ______."
+        },
+        "pastSecondPlural": {
+            "hebrew": "התעלפתם",
+            "english": "you fainted (pl m)",
+            "pronunciation": "hit'alaf­tem",
+            "exampleSentence": "אתם כמעט ______ מהעומס."
+        },
+        "pastThirdPlural": {
+            "hebrew": "התעלפו",
+            "english": "they fainted",
+            "pronunciation": "hit'alfu",
+            "exampleSentence": "כמה אנשים ______ בקהל."
+        },
+        "presentMasculineSingular": {
+            "hebrew": "מתעלף",
+            "english": "is fainting (m)",
+            "pronunciation": "mit'alef",
+            "exampleSentence": "הוא נראה כאילו הוא עוד רגע ______."
+        },
+        "presentFeminineSingular": {
+            "hebrew": "מתעלפת",
+            "english": "is fainting (f)",
+            "pronunciation": "mit'alfet",
+            "exampleSentence": "היא אומרת שהיא כמעט ______ מרוב פחד."
+        },
+        "presentMasculinePlural": {
+            "hebrew": "מתעלפים",
+            "english": "are fainting (m pl)",
+            "pronunciation": "mit'alfim",
+            "exampleSentence": "אנשים בקהל פשוט ______ מהחום."
+        },
+        "presentFemininePlural": {
+            "hebrew": "מתעלפות",
+            "english": "are fainting (f pl)",
+            "pronunciation": "mit'alfot",
+            "exampleSentence": "הן כמעט ______ בכל הופעה."
+        },
+        "futureFirstSingular": {
+            "hebrew": "אתעלף",
+            "english": "I will faint",
+            "pronunciation": "et'alef",
+            "exampleSentence": "אם ימשיכו לצעוק, אני ______."
+        },
+        "futureSecondMasculine": {
+            "hebrew": "תתעלף",
+            "english": "you will faint (m)",
+            "pronunciation": "tit'alef",
+            "exampleSentence": "אם לא תאכל כלום, אתה ______."
+        },
+        "futureSecondFeminine": {
+            "hebrew": "תתעלפי",
+            "english": "you will faint (f)",
+            "pronunciation": "tit'alfi",
+            "exampleSentence": "אם תעמדי יותר מדי זמן, את ______."
+        },
+        "futureThirdMasculine": {
+            "hebrew": "יתעלף",
+            "english": "he will faint",
+            "pronunciation": "yit'alef",
+            "exampleSentence": "הוא ______ ברגע שישמע את המחיר."
+        },
+        "futureThirdFeminine": {
+            "hebrew": "תתעלף",
+            "english": "she will faint",
+            "pronunciation": "tit'alef",
+            "exampleSentence": "היא ______ אם תראה דם."
+        },
+        "futureFirstPlural": {
+            "hebrew": "נתעלף",
+            "english": "we will faint",
+            "pronunciation": "nit'alef",
+            "exampleSentence": "אם לא תהיה מזגן, אנחנו ______."
+        },
+        "futureSecondPlural": {
+            "hebrew": "תתעלפו",
+            "english": "you will faint (pl)",
+            "pronunciation": "tit'alfu",
+            "exampleSentence": "אתם ______ אם לא תשבו רגע."
+        },
+        "futureThirdPlural": {
+            "hebrew": "יתעלפו",
+            "english": "they will faint",
+            "pronunciation": "yit'alfu",
+            "exampleSentence": "הם ______ כשרק ישמעו את הסיפור."
+        }
+    },
+    {
+        "infinitive": "להישאר",
+        "infinitiveEnglish": "to stay / to remain",
+        "root": [
+            "ש",
+            "א",
+            "ר"
+        ],
+        "pastFirstSingular": {
+            "hebrew": "נשארתי",
+            "english": "I stayed",
+            "pronunciation": "nish'arti",
+            "exampleSentence": "אתמול אני ______ במשרד עד מאוחר."
+        },
+        "pastSecondMasculine": {
+            "hebrew": "נשארת",
+            "english": "you stayed (m)",
+            "pronunciation": "nish'arta",
+            "exampleSentence": "למה אתה ______ כל כך מאוחר?"
+        },
+        "pastSecondFeminine": {
+            "hebrew": "נשארת",
+            "english": "you stayed (f)",
+            "pronunciation": "nish'art",
+            "exampleSentence": "את ______ בבית במקום לצאת."
+        },
+        "pastThirdMasculine": {
+            "hebrew": "נשאר",
+            "english": "he stayed",
+            "pronunciation": "nish'ar",
+            "exampleSentence": "הוא ______ לבד בכיתה."
+        },
+        "pastThirdFeminine": {
+            "hebrew": "נשארה",
+            "english": "she stayed",
+            "pronunciation": "nish'ara",
+            "exampleSentence": "היא ______ עוד שעה אחרי כולם."
+        },
+        "pastFirstPlural": {
+            "hebrew": "נשארנו",
+            "english": "we stayed",
+            "pronunciation": "nish'arnu",
+            "exampleSentence": "אנחנו ______ בעיר כל החג."
+        },
+        "pastSecondPlural": {
+            "hebrew": "נשארתם",
+            "english": "you stayed (pl m)",
+            "pronunciation": "nish'artem",
+            "exampleSentence": "אתם ______ במלון כל היום?"
+        },
+        "pastThirdPlural": {
+            "hebrew": "נשארו",
+            "english": "they stayed",
+            "pronunciation": "nish'aru",
+            "exampleSentence": "הם ______ עד סוף ההופעה."
+        },
+        "presentMasculineSingular": {
+            "hebrew": "נשאר",
+            "english": "stays (m)",
+            "pronunciation": "nish'ar",
+            "exampleSentence": "הוא תמיד ______ עד הסוף."
+        },
+        "presentFeminineSingular": {
+            "hebrew": "נשארת",
+            "english": "stays (f)",
+            "pronunciation": "nish'eret",
+            "exampleSentence": "היא ______ אחרי כולם כדי לסגור."
+        },
+        "presentMasculinePlural": {
+            "hebrew": "נשארים",
+            "english": "stay (m pl)",
+            "pronunciation": "nish'arim",
+            "exampleSentence": "הם ______ עוד קצת לשיחה."
+        },
+        "presentFemininePlural": {
+            "hebrew": "נשארות",
+            "english": "stay (f pl)",
+            "pronunciation": "nish'arot",
+            "exampleSentence": "הן ______ לעזור לסדר."
+        },
+        "futureFirstSingular": {
+            "hebrew": "אשאר",
+            "english": "I will stay",
+            "pronunciation": "esha'er",
+            "exampleSentence": "אני ______ כאן עד שכולם ייצאו."
+        },
+        "futureSecondMasculine": {
+            "hebrew": "תישאר",
+            "english": "you will stay (m)",
+            "pronunciation": "tisha'er",
+            "exampleSentence": "אתה ______ איתי עד הסוף?"
+        },
+        "futureSecondFeminine": {
+            "hebrew": "תישארי",
+            "english": "you will stay (f)",
+            "pronunciation": "tisha'ari",
+            "exampleSentence": "אם תרצי, את ______ לישון פה."
+        },
+        "futureThirdMasculine": {
+            "hebrew": "יישאר",
+            "english": "he will stay",
+            "pronunciation": "yisha'er",
+            "exampleSentence": "הוא ______ בבית כל החורף."
+        },
+        "futureThirdFeminine": {
+            "hebrew": "תישאר",
+            "english": "she will stay",
+            "pronunciation": "tisha'er",
+            "exampleSentence": "היא ______ בעיר גם בשנה הבאה."
+        },
+        "futureFirstPlural": {
+            "hebrew": "נישאר",
+            "english": "we will stay",
+            "pronunciation": "nisha'er",
+            "exampleSentence": "אנחנו ______ עד שתסיימו."
+        },
+        "futureSecondPlural": {
+            "hebrew": "תישארו",
+            "english": "you will stay (pl)",
+            "pronunciation": "tisha'aru",
+            "exampleSentence": "אתם ______ כאן עד סוף השבוע?"
+        },
+        "futureThirdPlural": {
+            "hebrew": "יישארו",
+            "english": "they will stay",
+            "pronunciation": "yisha'aru",
+            "exampleSentence": "הם ______ בדירה הזאת עוד שנה."
+        }
+    },
+    {
+        "infinitive": "להפסיד",
+        "infinitiveEnglish": "to lose (a game / money)",
+        "root": [
+            "פ",
+            "ס",
+            "ד"
+        ],
+        "pastFirstSingular": {
+            "hebrew": "הפסדתי",
+            "english": "I lost",
+            "pronunciation": "hifsadti",
+            "exampleSentence": "אתמול אני שוב ______ במשחק."
+        },
+        "pastSecondMasculine": {
+            "hebrew": "הפסדת",
+            "english": "you lost (m)",
+            "pronunciation": "hifsadta",
+            "exampleSentence": "למה אתה תמיד ______ ברגע האחרון?"
+        },
+        "pastSecondFeminine": {
+            "hebrew": "הפסדת",
+            "english": "you lost (f)",
+            "pronunciation": "hifsadt",
+            "exampleSentence": "את ______ הרבה כסף בבורסה."
+        },
+        "pastThirdMasculine": {
+            "hebrew": "הפסיד",
+            "english": "he lost",
+            "pronunciation": "hifsid",
+            "exampleSentence": "הוא ______ בגלל טעות קטנה."
+        },
+        "pastThirdFeminine": {
+            "hebrew": "הפסידה",
+            "english": "she lost",
+            "pronunciation": "hifsida",
+            "exampleSentence": "היא ______ במשחק למרות שהובילה."
+        },
+        "pastFirstPlural": {
+            "hebrew": "הפסדנו",
+            "english": "we lost",
+            "pronunciation": "hifsadnu",
+            "exampleSentence": "אנחנו ______ כי לא היינו מרוכזים."
+        },
+        "pastSecondPlural": {
+            "hebrew": "הפסדתם",
+            "english": "you lost (pl m)",
+            "pronunciation": "hifsadtem",
+            "exampleSentence": "אתם שוב ______ לאותה קבוצה."
+        },
+        "pastThirdPlural": {
+            "hebrew": "הפסידו",
+            "english": "they lost",
+            "pronunciation": "hifsidu",
+            "exampleSentence": "הם ______ כי זלזלו ביריב."
+        },
+        "presentMasculineSingular": {
+            "hebrew": "מפסיד",
+            "english": "loses (m)",
+            "pronunciation": "mafsid",
+            "exampleSentence": "הוא תמיד ______ כשהוא מנסה למהר."
+        },
+        "presentFeminineSingular": {
+            "hebrew": "מפסידה",
+            "english": "loses (f)",
+            "pronunciation": "mafsida",
+            "exampleSentence": "היא ______ סבלנות מהר מאוד."
+        },
+        "presentMasculinePlural": {
+            "hebrew": "מפסידים",
+            "english": "lose (m pl)",
+            "pronunciation": "mafsidim",
+            "exampleSentence": "הם ______ בכל פעם שהם לא מתכוננים."
+        },
+        "presentFemininePlural": {
+            "hebrew": "מפסידות",
+            "english": "lose (f pl)",
+            "pronunciation": "mafsidot",
+            "exampleSentence": "הן ______ רק כשהן עייפות."
+        },
+        "futureFirstSingular": {
+            "hebrew": "אפסיד",
+            "english": "I will lose",
+            "pronunciation": "afsid",
+            "exampleSentence": "אם לא אתאמן, אני שוב ______."
+        },
+        "futureSecondMasculine": {
+            "hebrew": "תפסיד",
+            "english": "you will lose (m)",
+            "pronunciation": "tafsid",
+            "exampleSentence": "אם תזלזל, אתה ______ בוודאות."
+        },
+        "futureSecondFeminine": {
+            "hebrew": "תפסידי",
+            "english": "you will lose (f)",
+            "pronunciation": "tafsidi",
+            "exampleSentence": "אם לא תתמקדי, את ______ את ההזדמנות."
+        },
+        "futureThirdMasculine": {
+            "hebrew": "יפסיד",
+            "english": "he will lose",
+            "pronunciation": "yafsid",
+            "exampleSentence": "הוא ______ אם לא ישמור על קור רוח."
+        },
+        "futureThirdFeminine": {
+            "hebrew": "תפסיד",
+            "english": "she will lose",
+            "pronunciation": "tafsid",
+            "exampleSentence": "היא ______ אם לא תתרכז."
+        },
+        "futureFirstPlural": {
+            "hebrew": "נפסיד",
+            "english": "we will lose",
+            "pronunciation": "nafsid",
+            "exampleSentence": "אם לא נשתף פעולה, אנחנו ______ ביחד."
+        },
+        "futureSecondPlural": {
+            "hebrew": "תפסידו",
+            "english": "you will lose (pl)",
+            "pronunciation": "tafsidu",
+            "exampleSentence": "אתם ______ אם לא תלמדו מהעבר."
+        },
+        "futureThirdPlural": {
+            "hebrew": "יפסידו",
+            "english": "they will lose",
+            "pronunciation": "yafsidu",
+            "exampleSentence": "הם ______ אם לא ישנו גישה."
+        }
+    },
+    {
+        "infinitive": "להופיע",
+        "infinitiveEnglish": "to appear / to perform",
+        "root": [
+            "י",
+            "פ",
+            "ע"
+        ],
+        "pastFirstSingular": {
+            "hebrew": "הופעתי",
+            "english": "I performed / appeared",
+            "pronunciation": "hof'ati",
+            "exampleSentence": "אתמול אני ______ על הבמה בפעם הראשונה."
+        },
+        "pastSecondMasculine": {
+            "hebrew": "הופעת",
+            "english": "you performed (m)",
+            "pronunciation": "hofata",
+            "exampleSentence": "אתה ______ מעולה בערב התרמה."
+        },
+        "pastSecondFeminine": {
+            "hebrew": "הופעת",
+            "english": "you performed (f)",
+            "pronunciation": "hofat",
+            "exampleSentence": "את ______ מול כל בית הספר."
+        },
+        "pastThirdMasculine": {
+            "hebrew": "הופיע",
+            "english": "he performed / appeared",
+            "pronunciation": "hofia",
+            "exampleSentence": "הוא ______ בטלוויזיה בשידור חי."
+        },
+        "pastThirdFeminine": {
+            "hebrew": "הופיעה",
+            "english": "she performed / appeared",
+            "pronunciation": "hofi'a",
+            "exampleSentence": "היא ______ כאורחת מפתיעה."
+        },
+        "pastFirstPlural": {
+            "hebrew": "הופענו",
+            "english": "we performed",
+            "pronunciation": "hof'anu",
+            "exampleSentence": "אנחנו ______ כהרכב בפעם הראשונה."
+        },
+        "pastSecondPlural": {
+            "hebrew": "הופעתם",
+            "english": "you performed (pl m)",
+            "pronunciation": "hofatem",
+            "exampleSentence": "אתם ______ מול קהל ענק."
+        },
+        "pastThirdPlural": {
+            "hebrew": "הופיעו",
+            "english": "they performed / appeared",
+            "pronunciation": "hofi'u",
+            "exampleSentence": "הם ______ בעשרות הופעות בחו\"ל."
+        },
+        "presentMasculineSingular": {
+            "hebrew": "מופיע",
+            "english": "performs (m)",
+            "pronunciation": "mofia",
+            "exampleSentence": "הוא ______ כמעט כל סוף שבוע."
+        },
+        "presentFeminineSingular": {
+            "hebrew": "מופיעה",
+            "english": "performs (f)",
+            "pronunciation": "mofi'a",
+            "exampleSentence": "היא ______ הרבה בפסטיבלים."
+        },
+        "presentMasculinePlural": {
+            "hebrew": "מופיעים",
+            "english": "perform (m pl)",
+            "pronunciation": "mofi'im",
+            "exampleSentence": "הם ______ יחד בהרכב קבוע."
+        },
+        "presentFemininePlural": {
+            "hebrew": "מופיעות",
+            "english": "perform (f pl)",
+            "pronunciation": "mofi'ot",
+            "exampleSentence": "הן ______ בעיקר באירועים קטנים."
+        },
+        "futureFirstSingular": {
+            "hebrew": "אופיע",
+            "english": "I will perform",
+            "pronunciation": "ofia",
+            "exampleSentence": "מחר אני ______ בעיר אחרת."
+        },
+        "futureSecondMasculine": {
+            "hebrew": "תופיע",
+            "english": "you will perform (m)",
+            "pronunciation": "tofia",
+            "exampleSentence": "אתה ______ לפני הקטע המרכזי."
+        },
+        "futureSecondFeminine": {
+            "hebrew": "תופיעי",
+            "english": "you will perform (f)",
+            "pronunciation": "tofi'i",
+            "exampleSentence": "את ______ בערב הפתיחה."
+        },
+        "futureThirdMasculine": {
+            "hebrew": "יופיע",
+            "english": "he will perform",
+            "pronunciation": "yofia",
+            "exampleSentence": "הוא ______ מחר על הבמה הגדולה."
+        },
+        "futureThirdFeminine": {
+            "hebrew": "תופיע",
+            "english": "she will perform",
+            "pronunciation": "tofia",
+            "exampleSentence": "היא ______ בסיום הטקס."
+        },
+        "futureFirstPlural": {
+            "hebrew": "נופיע",
+            "english": "we will perform",
+            "pronunciation": "nofia",
+            "exampleSentence": "אנחנו ______ בכנס השנתי."
+        },
+        "futureSecondPlural": {
+            "hebrew": "תופיעו",
+            "english": "you will perform (pl)",
+            "pronunciation": "tofi'u",
+            "exampleSentence": "אתם ______ מול מאות אנשים."
+        },
+        "futureThirdPlural": {
+            "hebrew": "יופיעו",
+            "english": "they will perform",
+            "pronunciation": "yofi'u",
+            "exampleSentence": "הם ______ בכל הארץ בקיץ."
+        }
+    },
+    {
+        "infinitive": "להתקדם",
+        "infinitiveEnglish": "to advance / to progress",
+        "root": [
+            "ק",
+            "ד",
+            "מ"
+        ],
+        "pastFirstSingular": {
+            "hebrew": "התקדמתי",
+            "english": "I progressed",
+            "pronunciation": "hitkadamti",
+            "exampleSentence": "השנה אני מאוד ______ בלימודים."
+        },
+        "pastSecondMasculine": {
+            "hebrew": "התקדמת",
+            "english": "you progressed (m)",
+            "pronunciation": "hitkadamta",
+            "exampleSentence": "אתה ממש ______ מאז הפעם האחרונה."
+        },
+        "pastSecondFeminine": {
+            "hebrew": "התקדמת",
+            "english": "you progressed (f)",
+            "pronunciation": "hitkadamt",
+            "exampleSentence": "את מאוד ______ בעבודה."
+        },
+        "pastThirdMasculine": {
+            "hebrew": "התקדם",
+            "english": "he progressed",
+            "pronunciation": "hitkadem",
+            "exampleSentence": "הוא מאד ______ בתחום שלו."
+        },
+        "pastThirdFeminine": {
+            "hebrew": "התקדמה",
+            "english": "she progressed",
+            "pronunciation": "hitkadma",
+            "exampleSentence": "היא ______ מהר לתפקיד ניהולי."
+        },
+        "pastFirstPlural": {
+            "hebrew": "התקדמנו",
+            "english": "we progressed",
+            "pronunciation": "hitkadamnu",
+            "exampleSentence": "אנחנו יחד ______ המון השנה."
+        },
+        "pastSecondPlural": {
+            "hebrew": "התקדמתם",
+            "english": "you progressed (pl m)",
+            "pronunciation": "hitkadamtem",
+            "exampleSentence": "אתם מאוד ______ בפרויקט."
+        },
+        "pastThirdPlural": {
+            "hebrew": "התקדמו",
+            "english": "they progressed",
+            "pronunciation": "hitkadmu",
+            "exampleSentence": "הם מהר ______ לעבר המטרה."
+        },
+        "presentMasculineSingular": {
+            "hebrew": "מתקדם",
+            "english": "progresses (m)",
+            "pronunciation": "mitkadem",
+            "exampleSentence": "הוא לאט לאט ______ בקצב שלו."
+        },
+        "presentFeminineSingular": {
+            "hebrew": "מתקדמת",
+            "english": "progresses (f)",
+            "pronunciation": "mitkademet",
+            "exampleSentence": "היא יפה ______ בכל שיעור."
+        },
+        "presentMasculinePlural": {
+            "hebrew": "מתקדמים",
+            "english": "progress (m pl)",
+            "pronunciation": "mitkad­mim",
+            "exampleSentence": "הם ______ צעד צעד."
+        },
+        "presentFemininePlural": {
+            "hebrew": "מתקדמות",
+            "english": "progress (f pl)",
+            "pronunciation": "mitkad­mot",
+            "exampleSentence": "הן ______ יחד ומעודדות אחת את השנייה."
+        },
+        "futureFirstSingular": {
+            "hebrew": "אתקדם",
+            "english": "I will progress",
+            "pronunciation": "etkadem",
+            "exampleSentence": "אם אתמיד, אני ______ למשרה טובה יותר."
+        },
+        "futureSecondMasculine": {
+            "hebrew": "תתקדם",
+            "english": "you will progress (m)",
+            "pronunciation": "titkadem",
+            "exampleSentence": "אתה ______ מהר אם תהיה ממושמע."
+        },
+        "futureSecondFeminine": {
+            "hebrew": "תתקדמי",
+            "english": "you will progress (f)",
+            "pronunciation": "titkadmi",
+            "exampleSentence": "את ______ אם תבקשי משימות מאתגרות."
+        },
+        "futureThirdMasculine": {
+            "hebrew": "יתקדם",
+            "english": "he will progress",
+            "pronunciation": "yitkadem",
+            "exampleSentence": "הוא ______ כשייתנו לו הזדמנות."
+        },
+        "futureThirdFeminine": {
+            "hebrew": "תתקדם",
+            "english": "she will progress",
+            "pronunciation": "titkadem",
+            "exampleSentence": "היא ______ אם תאמין בעצמה."
+        },
+        "futureFirstPlural": {
+            "hebrew": "נתקדם",
+            "english": "we will progress",
+            "pronunciation": "nitkadem",
+            "exampleSentence": "אנחנו ______ אם נעבוד כצוות."
+        },
+        "futureSecondPlural": {
+            "hebrew": "תתקדמו",
+            "english": "you will progress (pl)",
+            "pronunciation": "titkadmu",
+            "exampleSentence": "אתם ______ אם תמשיכו להשקיע."
+        },
+        "futureThirdPlural": {
+            "hebrew": "יתקדמו",
+            "english": "they will progress",
+            "pronunciation": "yitkadmu",
+            "exampleSentence": "הם ______ רחוק אם לא יוותרו."
+        }
+    },
+    {
+        "infinitive": "לגלות",
+        "infinitiveEnglish": "to discover / to reveal",
+        "root": [
+            "ג",
+            "ל",
+            "ה"
+        ],
+        "pastFirstSingular": {
+            "hebrew": "גיליתי",
+            "english": "I discovered",
+            "pronunciation": "giliti",
+            "exampleSentence": "אתמול אני ______ משהו חדש על עצמי."
+        },
+        "pastSecondMasculine": {
+            "hebrew": "גילית",
+            "english": "you discovered (m)",
+            "pronunciation": "gilita",
+            "exampleSentence": "איך אתה ______ את הטעות?"
+        },
+        "pastSecondFeminine": {
+            "hebrew": "גילית",
+            "english": "you discovered (f)",
+            "pronunciation": "gilit",
+            "exampleSentence": "את ______ את הסוד במקרה."
+        },
+        "pastThirdMasculine": {
+            "hebrew": "גילה",
+            "english": "he discovered / revealed",
+            "pronunciation": "gila",
+            "exampleSentence": "הוא ______ את המידע המסווג."
+        },
+        "pastThirdFeminine": {
+            "hebrew": "גילתה",
+            "english": "she discovered",
+            "pronunciation": "gilta",
+            "exampleSentence": "היא ______ את המסמך החסר."
+        },
+        "pastFirstPlural": {
+            "hebrew": "גילינו",
+            "english": "we discovered",
+            "pronunciation": "gilinu",
+            "exampleSentence": "אנחנו ______ מקום חדש בעיר."
+        },
+        "pastSecondPlural": {
+            "hebrew": "גיליתם",
+            "english": "you discovered (pl m)",
+            "pronunciation": "gilitem",
+            "exampleSentence": "אתם ______ את זה לפני כולם."
+        },
+        "pastThirdPlural": {
+            "hebrew": "גילו",
+            "english": "they discovered",
+            "pronunciation": "gilu",
+            "exampleSentence": "הם ______ מקור אחר לבעיה."
+        },
+        "presentMasculineSingular": {
+            "hebrew": "מגלה",
+            "english": "discovers (m)",
+            "pronunciation": "megale",
+            "exampleSentence": "הוא כל הזמן ______ פרטים חדשים."
+        },
+        "presentFeminineSingular": {
+            "hebrew": "מגלה",
+            "english": "discovers (f)",
+            "pronunciation": "megala",
+            "exampleSentence": "היא ______ סבלנות שלא הכרנו."
+        },
+        "presentMasculinePlural": {
+            "hebrew": "מגלים",
+            "english": "discover (m pl)",
+            "pronunciation": "megalim",
+            "exampleSentence": "הם ______ עוד ועוד נתונים."
+        },
+        "presentFemininePlural": {
+            "hebrew": "מגלות",
+            "english": "discover (f pl)",
+            "pronunciation": "megalot",
+            "exampleSentence": "הן ______ פתרונות יצירתיים."
+        },
+        "futureFirstSingular": {
+            "hebrew": "אגלה",
+            "english": "I will discover / reveal",
+            "pronunciation": "agale",
+            "exampleSentence": "מחר אני ______ מה באמת קרה."
+        },
+        "futureSecondMasculine": {
+            "hebrew": "תגלה",
+            "english": "you will discover (m)",
+            "pronunciation": "tagale",
+            "exampleSentence": "אם תחפש טוב, אתה ______ את זה."
+        },
+        "futureSecondFeminine": {
+            "hebrew": "תגלי",
+            "english": "you will discover (f)",
+            "pronunciation": "tagli",
+            "exampleSentence": "את ______ את הכישרון שלך."
+        },
+        "futureThirdMasculine": {
+            "hebrew": "יגלה",
+            "english": "he will reveal",
+            "pronunciation": "yagale",
+            "exampleSentence": "הוא ______ את האמת בזמן הנכון."
+        },
+        "futureThirdFeminine": {
+            "hebrew": "תגלה",
+            "english": "she will reveal",
+            "pronunciation": "tagale",
+            "exampleSentence": "היא ______ הכול לבסוף."
+        },
+        "futureFirstPlural": {
+            "hebrew": "נגלה",
+            "english": "we will discover",
+            "pronunciation": "nagale",
+            "exampleSentence": "אנחנו ______ את זה ביחד."
+        },
+        "futureSecondPlural": {
+            "hebrew": "תגלו",
+            "english": "you will discover (pl)",
+            "pronunciation": "taglu",
+            "exampleSentence": "אתם ______ שהכול היה שווה את זה."
+        },
+        "futureThirdPlural": {
+            "hebrew": "יגלו",
+            "english": "they will discover",
+            "pronunciation": "yaglu",
+            "exampleSentence": "הם ______ בסוף את הסוד."
+        }
+    },
+    {
+        "infinitive": "לשכוח",
+        "infinitiveEnglish": "to forget",
+        "root": [
+            "ש",
+            "כ",
+            "ח"
+        ],
+        "pastFirstSingular": {
+            "hebrew": "שכחתי",
+            "english": "I forgot",
+            "pronunciation": "shachachti",
+            "exampleSentence": "שוב אני ______ את הטלפון בבית."
+        },
+        "pastSecondMasculine": {
+            "hebrew": "שכחת",
+            "english": "you forgot (m)",
+            "pronunciation": "shachachta",
+            "exampleSentence": "אתה ______ את הפגישה החשובה."
+        },
+        "pastSecondFeminine": {
+            "hebrew": "שכחת",
+            "english": "you forgot (f)",
+            "pronunciation": "shachacht",
+            "exampleSentence": "את ______ לשלוח את המייל."
+        },
+        "pastThirdMasculine": {
+            "hebrew": "שכח",
+            "english": "he forgot",
+            "pronunciation": "shachach",
+            "exampleSentence": "הוא ______ להביא את המסמכים."
+        },
+        "pastThirdFeminine": {
+            "hebrew": "שכחה",
+            "english": "she forgot",
+            "pronunciation": "shachcha",
+            "exampleSentence": "היא ______ את שם הרחוב."
+        },
+        "pastFirstPlural": {
+            "hebrew": "שכחנו",
+            "english": "we forgot",
+            "pronunciation": "shachachnu",
+            "exampleSentence": "אנחנו ______ לסגור את הדלת."
+        },
+        "pastSecondPlural": {
+            "hebrew": "שכחתם",
+            "english": "you forgot (pl m)",
+            "pronunciation": "shachachtem",
+            "exampleSentence": "אתם ______ להביא כיבוד."
+        },
+        "pastThirdPlural": {
+            "hebrew": "שכחו",
+            "english": "they forgot",
+            "pronunciation": "shachchu",
+            "exampleSentence": "הם ______ את יום ההולדת שלי."
+        },
+        "presentMasculineSingular": {
+            "hebrew": "שוכח",
+            "english": "forgets (m)",
+            "pronunciation": "shocheach",
+            "exampleSentence": "הוא כל הזמן ______ דברים קטנים."
+        },
+        "presentFeminineSingular": {
+            "hebrew": "שוכחת",
+            "english": "forgets (f)",
+            "pronunciation": "shochachat",
+            "exampleSentence": "היא ______ שמות של אנשים."
+        },
+        "presentMasculinePlural": {
+            "hebrew": "שוכחים",
+            "english": "forget (m pl)",
+            "pronunciation": "shochachim",
+            "exampleSentence": "הם ______ לסגור את האור."
+        },
+        "presentFemininePlural": {
+            "hebrew": "שוכחות",
+            "english": "forget (f pl)",
+            "pronunciation": "shochachot",
+            "exampleSentence": "הן ______ את הסיסמה כל פעם."
+        },
+        "futureFirstSingular": {
+            "hebrew": "אשכח",
+            "english": "I will forget",
+            "pronunciation": "eshkach",
+            "exampleSentence": "אני מקווה שלא ______ את מה שלמדתי."
+        },
+        "futureSecondMasculine": {
+            "hebrew": "תשכח",
+            "english": "you will forget (m)",
+            "pronunciation": "tishkach",
+            "exampleSentence": "אם לא תרשום, אתה ______ את זה."
+        },
+        "futureSecondFeminine": {
+            "hebrew": "תשכחי",
+            "english": "you will forget (f)",
+            "pronunciation": "tishkechi",
+            "exampleSentence": "את מהר ______ אם זה לא חשוב לך."
+        },
+        "futureThirdMasculine": {
+            "hebrew": "ישכח",
+            "english": "he will forget",
+            "pronunciation": "yishkach",
+            "exampleSentence": "הוא ______ הכול אחרי יומיים."
+        },
+        "futureThirdFeminine": {
+            "hebrew": "תשכח",
+            "english": "she will forget",
+            "pronunciation": "tishkach",
+            "exampleSentence": "היא ______ את זה ברגע שתהיה עסוקה."
+        },
+        "futureFirstPlural": {
+            "hebrew": "נשכח",
+            "english": "we will forget",
+            "pronunciation": "nishkach",
+            "exampleSentence": "אנחנו מהר ______ אם לא נתרגל."
+        },
+        "futureSecondPlural": {
+            "hebrew": "תשכחו",
+            "english": "you will forget (pl)",
+            "pronunciation": "tishkechu",
+            "exampleSentence": "אתם ______ את זה אם לא תכתבו."
+        },
+        "futureThirdPlural": {
+            "hebrew": "ישכחו",
+            "english": "they will forget",
+            "pronunciation": "yishkechu",
+            "exampleSentence": "הם ______ את הוויכוח הזה מהר."
         }
     }
 ]
