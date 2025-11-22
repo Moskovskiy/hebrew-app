@@ -5,17 +5,17 @@ struct PhraseBuilderView: View {
     let hint: String
     let initialWords: [String]
     let onCheck: ([String]) -> Void
-    @ObservedObject var viewModel: GameViewModel
+    @ObservedObject var controller: GameController
     
     @State private var availableWords: [String]
     @State private var placedWords: [String] = []
     @State private var draggedWord: String?
     
-    init(hint: String, currentWords: [String], onCheck: @escaping ([String]) -> Void, viewModel: GameViewModel) {
+    init(hint: String, currentWords: [String], onCheck: @escaping ([String]) -> Void, controller: GameController) {
         self.hint = hint
         self.initialWords = currentWords
         self.onCheck = onCheck
-        self.viewModel = viewModel
+        self.controller = controller
         self._availableWords = State(initialValue: currentWords)
     }
     
@@ -105,8 +105,8 @@ struct PhraseBuilderView: View {
                             Color.white.opacity(0.1)
                             
                             // Feedback color overlay
-                            if viewModel.feedbackMessage != nil {
-                                let feedbackColor = viewModel.isCorrectAnswer ? Color.green : Color.red
+                            if controller.feedbackMessage != nil {
+                                let feedbackColor = controller.isCorrectAnswer ? Color.green : Color.red
                                 feedbackColor.opacity(0.4)
                             }
                         }
@@ -117,15 +117,15 @@ struct PhraseBuilderView: View {
                     )
                     .cornerRadius(20)
                     .shadow(
-                        color: viewModel.feedbackMessage != nil 
-                            ? (viewModel.isCorrectAnswer ? Color.green.opacity(0.8) : Color.red.opacity(0.8))
+                        color: controller.feedbackMessage != nil 
+                            ? (controller.isCorrectAnswer ? Color.green.opacity(0.8) : Color.red.opacity(0.8))
                             : Color.black.opacity(0.1),
-                        radius: viewModel.feedbackMessage != nil ? 20 : 10,
+                        radius: controller.feedbackMessage != nil ? 20 : 10,
                         x: 0,
                         y: 10
                     )
             }
-            .disabled(placedWords.isEmpty || viewModel.feedbackMessage != nil) // Disable when empty or during feedback
+            .disabled(placedWords.isEmpty || controller.feedbackMessage != nil) // Disable when empty or during feedback
             .opacity(placedWords.isEmpty ? 0 : 1) // Hide but keep space
             .padding(.horizontal)
             .padding(.bottom, 20)

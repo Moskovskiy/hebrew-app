@@ -4,6 +4,8 @@ struct Word: Codable, Identifiable, Equatable {
     var id: String { hebrew }
     let hebrew: String
     let english: String
+    let root: [String]?
+    let construction: String?
 }
 
 struct Phrase: Codable, Identifiable, Equatable {
@@ -38,4 +40,13 @@ struct PrepositionSentence: Identifiable, Codable, Equatable {
     enum CodingKeys: String, CodingKey {
         case hebrew, english, correctPreposition, category
     }
+}
+
+enum ExerciseType: Equatable {
+    case englishToHebrew(question: Word, options: [Word])
+    case hebrewToEnglish(question: Word, options: [Word])
+    case phraseOrder(phrase: Phrase, shuffledWords: [String])
+    case typingPractice(question: Word, isHebrewToEnglish: Bool)
+    case phraseTyping(phrase: Phrase)
+    case prepositionPractice(sentence: PrepositionSentence, options: [String])
 }

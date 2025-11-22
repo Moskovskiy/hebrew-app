@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @StateObject private var viewModel = GameViewModel()
+    @StateObject private var controller = GameController()
     @State private var animateGradient = false
     
     var body: some View {
@@ -39,7 +39,7 @@ struct ContentView: View {
                         Text("Success")
                             .font(.caption)
                             .foregroundColor(.white.opacity(0.8))
-                        Text("\(viewModel.scoreCorrect)")
+                        Text("\(controller.scoreCorrect)")
                             .font(.title)
                             .bold()
                             .foregroundColor(.white)
@@ -49,7 +49,7 @@ struct ContentView: View {
                         Text("Miss")
                             .font(.caption)
                             .foregroundColor(.white.opacity(0.8))
-                        Text("\(viewModel.scoreWrong)")
+                        Text("\(controller.scoreWrong)")
                             .font(.title)
                             .bold()
                             .foregroundColor(.white)
@@ -61,46 +61,58 @@ struct ContentView: View {
                 Spacer()
                 
                 // Game Content
-                if let exercise = viewModel.currentExercise {
+                if let exercise = controller.currentExercise {
                     switch exercise {
                     case .englishToHebrew(let question, let options):
                         MultipleChoiceView(
                             question: question.english,
+                            questionWord: question,
                             options: options,
-                            onOptionSelected: { viewModel.checkAnswer($0) },
+                            onOptionSelected: { controller.checkAnswer($0) },
                             isHebrewQuestion: false,
-                            viewModel: viewModel
+                            controller: controller
                         )
                     case .hebrewToEnglish(let question, let options):
                         MultipleChoiceView(
                             question: question.hebrew,
+                            questionWord: question,
                             options: options,
-                            onOptionSelected: { viewModel.checkAnswer($0) },
+                            onOptionSelected: { controller.checkAnswer($0) },
                             isHebrewQuestion: true,
-                            viewModel: viewModel
+                            controller: controller
                         )
                     case .phraseOrder(let phrase, let shuffledWords):
                         PhraseBuilderView(
                             hint: phrase.english,
                             currentWords: shuffledWords,
-                            onCheck: { viewModel.checkAnswer($0) },
-                            viewModel: viewModel
+                            onCheck: { controller.checkAnswer($0) },
+                            controller: controller
                         )
                         .id(phrase.id) // Force rebuild when phrase changes
                     case .typingPractice(let question, let isHebrewToEnglish):
                         TypingExerciseView(
                             prompt: isHebrewToEnglish ? question.hebrew : question.english,
+                            questionWord: question,
                             isHebrewToEnglish: isHebrewToEnglish,
-                            onSubmit: { viewModel.checkAnswer($0) },
-                            viewModel: viewModel
+                            onSubmit: { controller.checkAnswer($0) },
+                            controller: controller
                         )
                         .id(question.id)
+                    case .phraseTyping(let phrase):
+                        TypingExerciseView(
+                            prompt: phrase.english,
+                            questionWord: nil,
+                            isHebrewToEnglish: false, // Target is Hebrew
+                            onSubmit: { controller.checkAnswer($0) },
+                            controller: controller
+                        )
+                        .id(phrase.id)
                     case .prepositionPractice(let sentence, let options):
                         PrepositionExerciseView(
                             sentence: sentence,
                             options: options,
-                            onOptionSelected: { viewModel.checkAnswer($0) },
-                            viewModel: viewModel
+                            onOptionSelected: { controller.checkAnswer($0) },
+                            controller: controller
                         )
                         .id(sentence.id)
                     }

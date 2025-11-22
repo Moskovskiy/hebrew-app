@@ -2034,5 +2034,1101 @@
     {
         "hebrew": "ללקות",
         "english": "to be afflicted; to suffer (from a disease)"
+    },
+    {
+        "hebrew": "קול",
+        "english": "voice; sound"
+    },
+    {
+        "hebrew": "כל",
+        "english": "all; every; everything"
+    },
+    {
+        "hebrew": "כזה",
+        "english": "such; like this"
+    },
+    {
+        "hebrew": "קול צרוד",
+        "english": "hoarse voice"
+    },
+    {
+        "hebrew": "אני מצוננת",
+        "english": "I have a cold (feminine)"
+    },
+    {
+        "hebrew": "מצונן",
+        "english": "having a cold; congested (masculine)"
+    },
+    {
+        "hebrew": "צינון",
+        "english": "cold; congestion (illness)"
+    },
+    {
+        "hebrew": "חיה",
+        "english": "animal; living creature"
+    },
+    {
+        "hebrew": "חיות",
+        "english": "animals"
+    },
+    {
+        "hebrew": "היות",
+        "english": "being; existence; since (literary)"
+    },
+    {
+        "hebrew": "להפסיק",
+        "english": "to stop; to cease; to quit"
+    },
+    {
+        "hebrew": "לעצור",
+        "english": "to stop; to halt"
+    },
+    {
+        "hebrew": "עצר",
+        "english": "he stopped; he halted"
+    },
+    {
+        "hebrew": "פעל",
+        "english": "he acted; functioned; also the basic verb pattern Pa’al"
+    },
+    {
+        "hebrew": "נפעל",
+        "english": "Nif’al (grammatical pattern); was done; was acted upon"
+    },
+    {
+        "hebrew": "נעצר",
+        "english": "was stopped; was arrested"
+    },
+    {
+        "hebrew": "נעצרתי",
+        "english": "I was stopped; I was arrested"
+    },
+    {
+        "hebrew": "להוסיף",
+        "english": "to add"
+    },
+    {
+        "hebrew": "מריר",
+        "english": "bitter"
+    },
+    {
+        "hebrew": "מעניין",
+        "english": "interesting"
+    },
+    {
+        "hebrew": "מיוחד",
+        "english": "special; unique"
+    },
+    {
+        "hebrew": "מעניין ומיוחד",
+        "english": "interesting and special"
+    },
+    {
+        "hebrew": "להמשיך",
+        "english": "to continue"
+    },
+    {
+        "hebrew": "להמשיך ישר",
+        "english": "to continue straight"
+    },
+    {
+        "hebrew": "לחוות",
+        "english": "to experience"
+    },
+    {
+        "hebrew": "נגישות",
+        "english": "accessibility"
+    },
+    {
+        "hebrew": "לבוא",
+        "english": "to come"
+    },
+    {
+        "hebrew": "דקדוק",
+        "english": "grammar"
+    },
+    {
+        "hebrew": "ללא הפרעות",
+        "english": "without disturbances; without interruptions"
+    },
+    {
+        "hebrew": "הפרעות",
+        "english": "disturbances; interruptions; disorders"
+    },
+    {
+        "hebrew": "מחקר",
+        "english": "research; study"
+    },
+    {
+        "hebrew": "בדיקות",
+        "english": "tests; examinations; checks"
+    },
+    {
+        "hebrew": "להחליט",
+        "english": "to decide"
+    },
+    {
+        "hebrew": "בכנות",
+        "english": "honestly; in all honesty"
+    },
+    {
+        "hebrew": "כנות",
+        "english": "honesty; sincerity"
+    },
+    {
+        "hebrew": "משחקי מילים",
+        "english": "word games; puns"
+    },
+    {
+        "hebrew": "עט",
+        "english": "pen"
+    },
+    {
+        "hebrew": "עיפרון",
+        "english": "pencil"
+    },
+    {
+        "hebrew": "מחוקק",
+        "english": "legislator; lawmaker; one who makes laws"
+    },
+    {
+        "hebrew": "חוקים",
+        "english": "laws; rules"
+    },
+    {
+        "hebrew": "חותמת",
+        "english": "stamp; seal (rubber stamp); she signs off"
+    },
+    {
+        "hebrew": "שאלה",
+        "english": "question"
+    },
+    {
+        "hebrew": "דייג",
+        "english": "fisherman"
+    },
+    {
+        "hebrew": "מאחר",
+        "english": "is late; being late"
+    },
+    {
+        "hebrew": "תמיד",
+        "english": "always"
+    },
+    {
+        "hebrew": "רשת",
+        "english": "net; network"
+    },
+    {
+        "hebrew": "לתפוס",
+        "english": "to catch; to grasp; to occupy"
+    },
+    {
+        "hebrew": "להעביר",
+        "english": "to transfer; to pass; to move something"
+    },
+    {
+        "hebrew": "להביא",
+        "english": "to bring"
+    },
+    {
+        "hebrew": "להזיז",
+        "english": "to move (something); to shift"
+    },
+    {
+        "hebrew": "להטוב",
+        "english": "to do good; to improve (non-standard spelling of להיטיב)"
+    },
+    {
+        "hebrew": "רוב הזמן",
+        "english": "most of the time"
+    },
+    {
+        "hebrew": "ליצור",
+        "english": "to create; to form"
+    },
+    {
+        "hebrew": "לפתח",
+        "english": "to develop"
+    },
+    {
+        "hebrew": "מפתח תוכנה",
+        "english": "software developer"
+    },
+    {
+        "hebrew": "מהנדס תוכנה",
+        "english": "software engineer"
+    },
+    {
+        "hebrew": "קולות",
+        "english": "voices; sounds"
+    },
+    {
+        "hebrew": "לבחור",
+        "english": "to choose; to select"
+    },
+    {
+        "hebrew": "הצבעה",
+        "english": "vote; voting"
+    },
+    {
+        "hebrew": "להצביע על",
+        "english": "to point at; to vote for"
+    },
+    {
+        "hebrew": "משהו",
+        "english": "something"
+    },
+    {
+        "hebrew": "להראות",
+        "english": "to show; to demonstrate; to look (appear)"
+    },
+    {
+        "hebrew": "מוכר",
+        "english": "familiar; known; salesperson (store clerk)"
+    },
+    {
+        "hebrew": "מראה",
+        "english": "appearance; mirror; he shows"
+    },
+    {
+        "hebrew": "לשפר",
+        "english": "to improve"
+    },
+    {
+        "hebrew": "לנשוב רוח חדשה",
+        "english": "for a new wind to blow; to bring fresh change"
+    },
+    {
+        "hebrew": "הרוח נושבת",
+        "english": "the wind is blowing"
+    },
+    {
+        "hebrew": "השכונה התפתחה",
+        "english": "the neighborhood developed"
+    },
+    {
+        "hebrew": "רוח רפאים",
+        "english": "ghost; phantom"
+    },
+    {
+        "hebrew": "לענות",
+        "english": "to answer; to reply"
+    },
+    {
+        "hebrew": "תשובה",
+        "english": "answer; response"
+    },
+    {
+        "hebrew": "חידה",
+        "english": "riddle; puzzle"
+    },
+    {
+        "hebrew": "אסע",
+        "english": "I will travel; I will go (by vehicle)"
+    },
+    {
+        "hebrew": "מתיישב",
+        "english": "sits down; settles (masculine)"
+    },
+    {
+        "hebrew": "עשיר",
+        "english": "rich; wealthy"
+    },
+    {
+        "hebrew": "מוצר",
+        "english": "product"
+    },
+    {
+        "hebrew": "אבקה",
+        "english": "powder"
+    },
+    {
+        "hebrew": "מפעל",
+        "english": "factory; plant"
+    },
+    {
+        "hebrew": "תפוח זהוב",
+        "english": "golden apple"
+    },
+    {
+        "hebrew": "רציתי הביתה",
+        "english": "I wanted to go home"
+    },
+    {
+        "hebrew": "רציתי הביתה עד כדי כך שלא נשארתי במסיבה ופספסתי הרבה דברים כיפים.",
+        "english": "I wanted to go home so much that I did not stay at the party and I missed many fun things."
+    },
+    {
+        "hebrew": "פעם שלישית",
+        "english": "third time"
+    },
+    {
+        "hebrew": "חוויה",
+        "english": "experience"
+    },
+    {
+        "hebrew": "ניסיון בעבודה",
+        "english": "work experience"
+    },
+    {
+        "hebrew": "ניסיון",
+        "english": "attempt; try; experience"
+    },
+    {
+        "hebrew": "קצפת",
+        "english": "whipped cream"
+    },
+    {
+        "hebrew": "לדרג",
+        "english": "to rate; to rank"
+    },
+    {
+        "hebrew": "מפורסן",
+        "english": "famous (misspelling of מפורסם)"
+    },
+    {
+        "hebrew": "מפורסם",
+        "english": "famous; well-known"
+    },
+    {
+        "hebrew": "מגבעת",
+        "english": "hat with a brim; top hat"
+    },
+    {
+        "hebrew": "צנוע",
+        "english": "modest"
+    },
+    {
+        "hebrew": "בני ברק יותר דתיה מבעבר",
+        "english": "Bnei Brak is more religious than it used to be."
+    },
+    {
+        "hebrew": "אשפה",
+        "english": "garbage; trash"
+    },
+    {
+        "hebrew": "אווירה",
+        "english": "atmosphere; ambiance"
+    },
+    {
+        "hebrew": "נתב\"ג",
+        "english": "Ben-Gurion Airport (abbreviation)"
+    },
+    {
+        "hebrew": "עליות",
+        "english": "ascents; climbs; uphills"
+    },
+    {
+        "hebrew": "ירידות",
+        "english": "descents; drops; downhills"
+    },
+    {
+        "hebrew": "לִבחוֹר",
+        "english": "to choose (vocalized form of לבחור)"
+    },
+    {
+        "hebrew": "בני ברק",
+        "english": "Bnei Brak (city in Israel)"
+    },
+    {
+        "hebrew": "מרגישה",
+        "english": "feels (feminine)"
+    },
+    {
+        "hebrew": "מדינה",
+        "english": "country; state"
+    },
+    {
+        "hebrew": "אחרת",
+        "english": "other; different (feminine)"
+    },
+    {
+        "hebrew": "צריך",
+        "english": "need to; must (masculine)"
+    },
+    {
+        "hebrew": "דקות",
+        "english": "minutes"
+    },
+    {
+        "hebrew": "רכבת",
+        "english": "train"
+    },
+    {
+        "hebrew": "עיר",
+        "english": "city"
+    },
+    {
+        "hebrew": "שקיעה",
+        "english": "sunset"
+    },
+    {
+        "hebrew": "מישהו",
+        "english": "someone"
+    },
+    {
+        "hebrew": "רוצה",
+        "english": "wants"
+    },
+    {
+        "hebrew": "לקנות",
+        "english": "to buy"
+    },
+    {
+        "hebrew": "עגלת ילדים",
+        "english": "baby stroller; pram"
+    },
+    {
+        "hebrew": "לנסוע לשם",
+        "english": "to travel there; to go there"
+    },
+    {
+        "hebrew": "לראות",
+        "english": "to see"
+    },
+    {
+        "hebrew": "סוגים",
+        "english": "types; kinds"
+    },
+    {
+        "hebrew": "עגלות",
+        "english": "carts; strollers"
+    },
+    {
+        "hebrew": "איזו",
+        "english": "which (feminine)"
+    },
+    {
+        "hebrew": "לקפוץ",
+        "english": "to jump"
+    },
+    {
+        "hebrew": "קללה",
+        "english": "curse; swear word"
+    },
+    {
+        "hebrew": "להתחתן",
+        "english": "to get married"
+    },
+    {
+        "hebrew": "חתן וכלה",
+        "english": "groom and bride"
+    },
+    {
+        "hebrew": "חתן",
+        "english": "groom"
+    },
+    {
+        "hebrew": "כלה",
+        "english": "bride"
+    },
+    {
+        "hebrew": "מסמך",
+        "english": "document"
+    },
+    {
+        "hebrew": "זכויות",
+        "english": "rights"
+    },
+    {
+        "hebrew": "שגרירות",
+        "english": "embassy"
+    },
+    {
+        "hebrew": "רֵאָיוֹן",
+        "english": "interview (vocalized form)"
+    },
+    {
+        "hebrew": "קרובי משפחה",
+        "english": "relatives; family members"
+    },
+    {
+        "hebrew": "דרגה ראשונה ושניה",
+        "english": "first and second degree (of kinship)"
+    },
+    {
+        "hebrew": "דרגה",
+        "english": "degree; rank; level"
+    },
+    {
+        "hebrew": "ראשונה",
+        "english": "first (feminine)"
+    },
+    {
+        "hebrew": "שניה",
+        "english": "second (feminine)"
+    },
+    {
+        "hebrew": "רשמית",
+        "english": "official (feminine)"
+    },
+    {
+        "hebrew": "חנויות שמוכרות אוכל כשר",
+        "english": "shops that sell kosher food"
+    },
+    {
+        "hebrew": "חנויות",
+        "english": "shops; stores"
+    },
+    {
+        "hebrew": "מוכרות",
+        "english": "sell (feminine plural); saleswomen"
+    },
+    {
+        "hebrew": "אוכל כשר",
+        "english": "kosher food"
+    },
+    {
+        "hebrew": "החות’ים",
+        "english": "the Houthis (group name)"
+    },
+    {
+        "hebrew": "שיגרו",
+        "english": "they launched; they fired (missile, rocket)"
+    },
+    {
+        "hebrew": "טיל",
+        "english": "missile; rocket"
+    },
+    {
+        "hebrew": "התרעה",
+        "english": "warning; alert"
+    },
+    {
+        "hebrew": "לתאר",
+        "english": "to describe"
+    },
+    {
+        "hebrew": "שופט",
+        "english": "judge"
+    },
+    {
+        "hebrew": "מתכון",
+        "english": "recipe"
+    },
+    {
+        "hebrew": "צנובר",
+        "english": "pine nut"
+    },
+    {
+        "hebrew": "שני צבעים",
+        "english": "two colors"
+    },
+    {
+        "hebrew": "שכבות",
+        "english": "layers"
+    },
+    {
+        "hebrew": "בצק",
+        "english": "dough"
+    },
+    {
+        "hebrew": "ספוג",
+        "english": "sponge"
+    },
+    {
+        "hebrew": "בוב ספוג",
+        "english": "SpongeBob"
+    },
+    {
+        "hebrew": "שכבה",
+        "english": "layer"
+    },
+    {
+        "hebrew": "לטגן",
+        "english": "to fry"
+    },
+    {
+        "hebrew": "תבנית אפייה",
+        "english": "baking tray; baking pan"
+    },
+    {
+        "hebrew": "לחזור על",
+        "english": "to repeat"
+    },
+    {
+        "hebrew": "קודם כל",
+        "english": "first of all"
+    },
+    {
+        "hebrew": "לערבב",
+        "english": "to mix; to stir"
+    },
+    {
+        "hebrew": "קמח",
+        "english": "flour"
+    },
+    {
+        "hebrew": "סוכר",
+        "english": "sugar"
+    },
+    {
+        "hebrew": "חמאה",
+        "english": "butter"
+    },
+    {
+        "hebrew": "ביצים",
+        "english": "eggs"
+    },
+    {
+        "hebrew": "תערובת",
+        "english": "mixture; blend"
+    },
+    {
+        "hebrew": "תנור",
+        "english": "oven"
+    },
+    {
+        "hebrew": "להפעיל",
+        "english": "to turn on; to operate"
+    },
+    {
+        "hebrew": "מעלות",
+        "english": "degrees"
+    },
+    {
+        "hebrew": "קרם",
+        "english": "cream (filling)"
+    },
+    {
+        "hebrew": "שמנת רוסית",
+        "english": "Russian-style cream (sour cream)"
+    },
+    {
+        "hebrew": "שמנת",
+        "english": "cream"
+    },
+    {
+        "hebrew": "תמצית",
+        "english": "extract (for flavoring)"
+    },
+    {
+        "hebrew": "רום",
+        "english": "rum"
+    },
+    {
+        "hebrew": "וניל",
+        "english": "vanilla"
+    },
+    {
+        "hebrew": "ריח",
+        "english": "smell; scent"
+    },
+    {
+        "hebrew": "אוהבים",
+        "english": "like; love (masculine plural)"
+    },
+    {
+        "hebrew": "להרכיב",
+        "english": "to assemble; to put together"
+    },
+    {
+        "hebrew": "תצוגה",
+        "english": "display; exhibition"
+    },
+    {
+        "hebrew": "מסך",
+        "english": "screen"
+    },
+    {
+        "hebrew": "לקדם",
+        "english": "to promote; to advance"
+    },
+    {
+        "hebrew": "לקרב",
+        "english": "to bring closer"
+    },
+    {
+        "hebrew": "להרחיק",
+        "english": "to move away; to distance"
+    },
+    {
+        "hebrew": "גובה",
+        "english": "height"
+    },
+    {
+        "hebrew": "פחד גבהים",
+        "english": "fear of heights"
+    },
+    {
+        "hebrew": "לפחד",
+        "english": "to be afraid"
+    },
+    {
+        "hebrew": "תצפית",
+        "english": "observation point; lookout"
+    },
+    {
+        "hebrew": "בטוח",
+        "english": "sure; certain; safe"
+    },
+    {
+        "hebrew": "רכבת הרים",
+        "english": "roller coaster"
+    },
+    {
+        "hebrew": "מצנח",
+        "english": "parachute"
+    },
+    {
+        "hebrew": "מפחיד",
+        "english": "scary; frightening"
+    },
+    {
+        "hebrew": "עלילה",
+        "english": "plot; storyline"
+    },
+    {
+        "hebrew": "דלעת",
+        "english": "pumpkin; squash"
+    },
+    {
+        "hebrew": "מנה",
+        "english": "portion; dish; course"
+    },
+    {
+        "hebrew": "אחוז",
+        "english": "percent; portion"
+    },
+    {
+        "hebrew": "זרעי דלעת",
+        "english": "pumpkin seeds"
+    },
+    {
+        "hebrew": "קישוט",
+        "english": "decoration; ornament"
+    },
+    {
+        "hebrew": "מעל",
+        "english": "above; over"
+    },
+    {
+        "hebrew": "מהירות",
+        "english": "speed"
+    },
+    {
+        "hebrew": "תסע",
+        "english": "you will travel/drive (masculine)"
+    },
+    {
+        "hebrew": "ריק",
+        "english": "empty"
+    },
+    {
+        "hebrew": "שטוח",
+        "english": "flat"
+    },
+    {
+        "hebrew": "הגיוני",
+        "english": "logical; makes sense"
+    },
+    {
+        "hebrew": "יקב",
+        "english": "winery; wine cellar"
+    },
+    {
+        "hebrew": "להישאר",
+        "english": "to stay; to remain"
+    },
+    {
+        "hebrew": "ביטול",
+        "english": "cancellation"
+    },
+    {
+        "hebrew": "החזרתי",
+        "english": "I returned (something); I brought back"
+    },
+    {
+        "hebrew": "חזרתי",
+        "english": "I returned; I came back"
+    },
+    {
+        "hebrew": "להחזיר",
+        "english": "to return (something); to give back"
+    },
+    {
+        "hebrew": "בונה",
+        "english": "builds; builder (masculine)"
+    },
+    {
+        "hebrew": "תאו",
+        "english": "oryx; wildebeest (animal)"
+    },
+    {
+        "hebrew": "משקפת",
+        "english": "telescope; binoculars"
+    },
+    {
+        "hebrew": "כיוון",
+        "english": "direction; orientation"
+    },
+    {
+        "hebrew": "לצלם",
+        "english": "to photograph; to film"
+    },
+    {
+        "hebrew": "בשום מקום",
+        "english": "nowhere"
+    },
+    {
+        "hebrew": "אף מקום",
+        "english": "no place; nowhere"
+    },
+    {
+        "hebrew": "קרן",
+        "english": "ray; beam; fund; horn"
+    },
+    {
+        "hebrew": "קרני השמש",
+        "english": "sun rays"
+    },
+    {
+        "hebrew": "חיסכון בבנק",
+        "english": "savings in the bank"
+    },
+    {
+        "hebrew": "דוושות",
+        "english": "pedals"
+    },
+    {
+        "hebrew": "פריחה",
+        "english": "blossom; rash"
+    },
+    {
+        "hebrew": "אני תוהה",
+        "english": "I wonder"
+    },
+    {
+        "hebrew": "קונה",
+        "english": "buyer; buys (masculine or feminine)"
+    },
+    {
+        "hebrew": "אליעזר בן יהודה",
+        "english": "Eliezer Ben-Yehuda (reviver of modern Hebrew)"
+    },
+    {
+        "hebrew": "עַצמְךָ",
+        "english": "yourself (masculine singular)"
+    },
+    {
+        "hebrew": "הפגנה",
+        "english": "demonstration; protest"
+    },
+    {
+        "hebrew": "איזשהו",
+        "english": "some; some sort of (masculine)"
+    },
+    {
+        "hebrew": "מתישהו השבוע",
+        "english": "sometime this week"
+    },
+    {
+        "hebrew": "נחגוג",
+        "english": "we will celebrate"
+    },
+    {
+        "hebrew": "מרפסת",
+        "english": "balcony"
+    },
+    {
+        "hebrew": "להיות",
+        "english": "to be"
+    },
+    {
+        "hebrew": "חילוני",
+        "english": "secular (non-religious)"
+    },
+    {
+        "hebrew": "נולדתי",
+        "english": "I was born"
+    },
+    {
+        "hebrew": "להסתמס",
+        "english": "to text with someone (by SMS/app)"
+    },
+    {
+        "hebrew": "להתכתב",
+        "english": "to correspond; to text; to exchange messages"
+    },
+    {
+        "hebrew": "התראות",
+        "english": "notifications; alerts"
+    },
+    {
+        "hebrew": "להדליק לכבות",
+        "english": "to turn on and off"
+    },
+    {
+        "hebrew": "ערים",
+        "english": "cities"
+    },
+    {
+        "hebrew": "בהיר",
+        "english": "light (color); bright"
+    },
+    {
+        "hebrew": "כהה",
+        "english": "dark (color)"
+    },
+    {
+        "hebrew": "בִּלתִי נִסבָּל",
+        "english": "unbearable"
+    },
+    {
+        "hebrew": "נורא",
+        "english": "terrible; awful"
+    },
+    {
+        "hebrew": "לְהַשְׁפִּיעַ על",
+        "english": "to influence; to affect"
+    },
+    {
+        "hebrew": "טייס",
+        "english": "pilot"
+    },
+    {
+        "hebrew": "להסביר",
+        "english": "to explain"
+    },
+    {
+        "hebrew": "משימות",
+        "english": "tasks; missions"
+    },
+    {
+        "hebrew": "לשחק",
+        "english": "to play"
+    },
+    {
+        "hebrew": "משחקים",
+        "english": "games; playing"
+    },
+    {
+        "hebrew": "כתבה",
+        "english": "article; news report"
+    },
+    {
+        "hebrew": "שחקן",
+        "english": "actor; player"
+    },
+    {
+        "hebrew": "דמות",
+        "english": "character; figure"
+    },
+    {
+        "hebrew": "אני משחק את הדמות",
+        "english": "I play the character"
+    },
+    {
+        "hebrew": "תכוף",
+        "english": "frequent; often"
+    },
+    {
+        "hebrew": "התקדמות במשחק",
+        "english": "progress in the game"
+    },
+    {
+        "hebrew": "להתקדם",
+        "english": "to advance; to progress"
+    },
+    {
+        "hebrew": "דמויות",
+        "english": "characters"
+    },
+    {
+        "hebrew": "המערב הפרוע",
+        "english": "the Wild West"
+    },
+    {
+        "hebrew": "מצפן",
+        "english": "compass"
+    },
+    {
+        "hebrew": "אחרון",
+        "english": "last; final"
+    },
+    {
+        "hebrew": "גג",
+        "english": "roof"
+    },
+    {
+        "hebrew": "מעגל",
+        "english": "circle"
+    },
+    {
+        "hebrew": "עם כיוון השעון",
+        "english": "clockwise"
+    },
+    {
+        "hebrew": "נדנדה",
+        "english": "swing (playground)"
+    },
+    {
+        "hebrew": "מוח",
+        "english": "brain"
+    },
+    {
+        "hebrew": "צריך להיות",
+        "english": "must be; should be"
+    },
+    {
+        "hebrew": "דוב",
+        "english": "bear"
+    },
+    {
+        "hebrew": "שועל",
+        "english": "fox"
+    },
+    {
+        "hebrew": "זאב",
+        "english": "wolf"
+    },
+    {
+        "hebrew": "יסעו",
+        "english": "they will travel; they will go (by vehicle)"
+    },
+    {
+        "hebrew": "יעשו",
+        "english": "they will do; they will make"
+    },
+    {
+        "hebrew": "להקליד",
+        "english": "to type (on keyboard)"
+    },
+    {
+        "hebrew": "עכבר",
+        "english": "mouse (animal or computer)"
+    },
+    {
+        "hebrew": "להתאמן",
+        "english": "to practice; to train"
+    },
+    {
+        "hebrew": "להתפלל",
+        "english": "to pray"
+    },
+    {
+        "hebrew": "לפספס",
+        "english": "to miss; to miss out; to overlook"
+    },
+    {
+        "hebrew": "להתגעגע",
+        "english": "to miss; to long for"
+    },
+    {
+        "hebrew": "עדיף",
+        "english": "preferable; better"
+    },
+    {
+        "hebrew": "יותר טוב",
+        "english": "better"
+    },
+    {
+        "hebrew": "המלצה",
+        "english": "recommendation"
+    },
+    {
+        "hebrew": "להשוות",
+        "english": "to compare"
     }
 ]

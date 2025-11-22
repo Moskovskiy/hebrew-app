@@ -4,7 +4,7 @@ struct PrepositionExerciseView: View {
     let sentence: PrepositionSentence
     let options: [String]
     let onOptionSelected: (String) -> Void
-    @ObservedObject var viewModel: GameViewModel
+    @ObservedObject var controller: GameController
     
     @State private var selectedPreposition: String?
     
@@ -39,7 +39,7 @@ struct PrepositionExerciseView: View {
             // Options grid
             LazyVGrid(columns: [GridItem(.flexible()), GridItem(.flexible())], spacing: 20) {
                 ForEach(options, id: \.self) { option in
-                    let isSelected = viewModel.showFeedback && selectedPreposition == option
+                    let isSelected = controller.showFeedback && selectedPreposition == option
                     let isCorrect = option == sentence.correctPreposition
                     let feedbackColor = isSelected ? (isCorrect ? Color.green : Color.red) : Color.clear
                     
@@ -83,14 +83,14 @@ struct PrepositionExerciseView: View {
                                 y: isSelected ? 10 : 5
                             )
                     }
-                    .disabled(viewModel.showFeedback)
+                    .disabled(controller.showFeedback)
                 }
             }
             .padding()
             
             Spacer()
         }
-        .onChange(of: viewModel.currentExercise) { _ in
+        .onChange(of: controller.currentExercise) { _ in
             selectedPreposition = nil
         }
     }

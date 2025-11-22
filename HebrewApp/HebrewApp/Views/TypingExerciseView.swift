@@ -2,35 +2,46 @@ import SwiftUI
 
 struct TypingExerciseView: View {
     let prompt: String
+    let questionWord: Word? // Optional word object for hints
     let isHebrewToEnglish: Bool
     let onSubmit: (String) -> Void
-    @ObservedObject var viewModel: GameViewModel
+    @ObservedObject var controller: GameController
     
     @State private var userInput: String = ""
     @FocusState private var isInputFocused: Bool
     
     var correctAnswer: String {
         // Extract correct answer from current exercise
-        if case .typingPractice(let question, let isHebrewToEnglish) = viewModel.currentExercise {
+        switch controller.currentExercise {
+        case .typingPractice(let question, let isHebrewToEnglish):
             return isHebrewToEnglish ? question.english : question.hebrew
+        case .phraseTyping(let phrase):
+            return phrase.hebrew
+        default:
+            return ""
         }
-        return ""
     }
     
     var body: some View {
         VStack(spacing: 40) {
             // Prompt
-            Text(prompt)
-                .font(.system(size: 40, weight: .bold))
-                .foregroundColor(.white)
-                .padding()
-                .multilineTextAlignment(.center)
-                .shadow(radius: 5)
+            VStack(spacing: 10) {
+                Text(prompt)
+                    .font(.system(size: 40, weight: .bold))
+                    .foregroundColor(.white)
+                    .multilineTextAlignment(.center)
+                    .shadow(radius: 5)
+                
+                if let word = questionWord {
+                    WordHintView(word: word)
+                }
+            }
+            .padding()
             
             Spacer()
             
             // Show correct answer if failed 3 times
-            if viewModel.showCorrectAnswer {
+            if controller.showCorrectAnswer {
                 correctAnswerView
             } else {
                 inputSection
@@ -41,11 +52,11 @@ struct TypingExerciseView: View {
         .onAppear {
             isInputFocused = true
         }
-        .onChange(of: viewModel.currentExercise) { _ in
+        .onChange(of: controller.currentExercise) { _ in
             userInput = ""
             isInputFocused = true
         }
-        .onChange(of: viewModel.isCorrectAnswer) { isCorrect in
+        .onChange(of: controller.isCorrectAnswer) { isCorrect in
             if isCorrect {
                 userInput = ""
             }
@@ -91,14 +102,14 @@ struct TypingExerciseView: View {
                 )
                 .overlay(
                     RoundedRectangle(cornerRadius: 20)
-                        .stroke(borderColor, lineWidth: viewModel.feedbackMessage != nil ? 3 : 2)
+                        .stroke(borderColor, lineWidth: controller.feedbackMessage != nil ? 3 : 2)
                 )
                 .cornerRadius(20)
-                .shadow(color: shadowColor, radius: viewModel.feedbackMessage != nil ? 20 : 5, x: 0, y: 5)
+                .shadow(color: shadowColor, radius: controller.feedbackMessage != nil ? 20 : 5, x: 0, y: 5)
                 .multilineTextAlignment(.trailing)
                 .environment(\.layoutDirection, .rightToLeft) // Always RTL
                 .focused($isInputFocused)
-                .disabled(viewModel.feedbackMessage != nil)
+                .disabled(controller.feedbackMessage != nil)
                 .onSubmit {
                     if !userInput.isEmpty {
                         onSubmit(userInput)
@@ -107,7 +118,7 @@ struct TypingExerciseView: View {
                 .padding(.horizontal)
             
             // Feedback Message Display
-            if let message = viewModel.feedbackMessage {
+            if let message = controller.feedbackMessage {
                 Text(message)
                     .font(.headline)
                     .foregroundColor(feedbackTextColor)
@@ -116,8 +127,8 @@ struct TypingExerciseView: View {
             }
             
             // Attempt counter
-            if viewModel.typingAttempts > 0 && viewModel.feedbackMessage == nil {
-                Text("Attempt \(viewModel.typingAttempts) of 3")
+            if controller.typingAttempts > 0 && controller.feedbackMessage == nil {
+                Text("Attempt \(controller.typingAttempts) of 3")
                     .font(.caption)
                     .foregroundColor(.white.opacity(0.6))
                     .padding(.top, 8)
@@ -152,19 +163,31 @@ struct TypingExerciseView: View {
                     .cornerRadius(20)
                     .shadow(color: Color.black.opacity(0.2), radius: 5, x: 0, y: 5)
             }
-            .disabled(userInput.isEmpty || viewModel.feedbackMessage != nil)
+            .disabled(userInput.isEmpty || controller.feedbackMessage != nil)
             .opacity(userInput.isEmpty ? 0.5 : 1)
             .padding(.horizontal)
             .padding(.top, 20)
+            
+            // Give Up Button
+            Button(action: {
+                controller.giveUp()
+            }) {
+                Text("Give Up")
+                    .font(.subheadline)
+                    .foregroundColor(.white.opacity(0.7))
+                    .padding()
+            }
+            .disabled(controller.feedbackMessage != nil)
+            .opacity(controller.feedbackMessage != nil ? 0 : 1)
         }
     }
     
     // MARK: - Computed Properties for Styling
     
     private var borderColor: Color {
-        if viewModel.feedbackMessage != nil {
-            if viewModel.isCorrectAnswer {
-                return viewModel.isCloseMatch ? Color.orange : Color.green
+        if controller.feedbackMessage != nil {
+            if controller.isCorrectAnswer {
+                return controller.isCloseMatch ? Color.orange : Color.green
             } else {
                 return Color.red
             }
@@ -174,9 +197,9 @@ struct TypingExerciseView: View {
     }
     
     private var shadowColor: Color {
-        if viewModel.feedbackMessage != nil {
-            if viewModel.isCorrectAnswer {
-                return viewModel.isCloseMatch ? Color.orange.opacity(0.6) : Color.green.opacity(0.6)
+        if controller.feedbackMessage != nil {
+            if controller.isCorrectAnswer {
+                return controller.isCloseMatch ? Color.orange.opacity(0.6) : Color.green.opacity(0.6)
             } else {
                 return Color.red.opacity(0.6)
             }
@@ -186,8 +209,8 @@ struct TypingExerciseView: View {
     }
     
     private var feedbackTextColor: Color {
-        if viewModel.isCorrectAnswer {
-            return viewModel.isCloseMatch ? .orange : .green
+        if controller.isCorrectAnswer {
+            return controller.isCloseMatch ? .orange : .green
         } else {
             return .red
         }

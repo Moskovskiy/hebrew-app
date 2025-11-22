@@ -2,24 +2,31 @@ import SwiftUI
 
 struct MultipleChoiceView: View {
     let question: String
+    let questionWord: Word? // Optional word object for hints
     let options: [Word]
     let onOptionSelected: (Word) -> Void
     let isHebrewQuestion: Bool
-    @ObservedObject var viewModel: GameViewModel
+    @ObservedObject var controller: GameController
     
     var body: some View {
         VStack(spacing: 30) {
-            Text(question)
-                .font(.system(size: 40, weight: .bold))
-                .foregroundColor(.white)
-                .padding()
-                .multilineTextAlignment(.center)
-                .shadow(radius: 5)
+            VStack(spacing: 10) {
+                Text(question)
+                    .font(.system(size: 40, weight: .bold))
+                    .foregroundColor(.white)
+                    .multilineTextAlignment(.center)
+                    .shadow(radius: 5)
+                
+                if let word = questionWord {
+                    WordHintView(word: word)
+                }
+            }
+            .padding()
             
             LazyVGrid(columns: [GridItem(.flexible()), GridItem(.flexible())], spacing: 20) {
                 ForEach(options) { option in
-                    let isSelected = viewModel.showFeedback && viewModel.selectedWord?.id == option.id
-                    let feedbackColor = isSelected ? (viewModel.isCorrectAnswer ? Color.green : Color.red) : Color.clear
+                    let isSelected = controller.showFeedback && controller.selectedWord?.id == option.id
+                    let feedbackColor = isSelected ? (controller.isCorrectAnswer ? Color.green : Color.red) : Color.clear
                     
                     Button(action: {
                         onOptionSelected(option)
@@ -62,7 +69,7 @@ struct MultipleChoiceView: View {
                                 y: isSelected ? 10 : 5
                             )
                     }
-                    .disabled(viewModel.showFeedback) // Disable buttons during feedback
+                    .disabled(controller.showFeedback) // Disable buttons during feedback
                 }
             }
             .padding()

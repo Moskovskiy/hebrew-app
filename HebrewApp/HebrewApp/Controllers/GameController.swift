@@ -2,15 +2,8 @@ import Foundation
 import SwiftUI
 import Combine
 
-enum ExerciseType: Equatable {
-    case englishToHebrew(question: Word, options: [Word])
-    case hebrewToEnglish(question: Word, options: [Word])
-    case phraseOrder(phrase: Phrase, shuffledWords: [String])
-    case typingPractice(question: Word, isHebrewToEnglish: Bool)
-    case prepositionPractice(sentence: PrepositionSentence, options: [String])
-}
-
-class GameViewModel: ObservableObject {
+class GameController: ObservableObject {
+    // MARK: - State
     @Published var currentExercise: ExerciseType?
     @Published var scoreCorrect: Int = 0
     @Published var scoreWrong: Int = 0
@@ -22,14 +15,18 @@ class GameViewModel: ObservableObject {
     @Published var showCorrectAnswer: Bool = false
     @Published var isCloseMatch: Bool = false
     
-    private var dataManager = DataManager.shared
+    // MARK: - Dependencies
+    private let generator = ExerciseGenerator()
     private var exerciseCounter: Int = 0
     
+    // MARK: - Initialization
     init() {
         nextExercise()
     }
     
+    // MARK: - Game Flow
     func nextExercise() {
+        // Reset State
         feedbackMessage = nil
         showFeedback = false
         selectedWord = nil
@@ -39,92 +36,44 @@ class GameViewModel: ObservableObject {
         
         exerciseCounter += 1
         
-        // Rotate through 5 exercise types
-        let exerciseType = exerciseCounter % 5
+        // Rotate through 6 exercise types
+        // 1: Eng->Heb, 2: Heb->Eng, 3: Phrase, 4: Typing, 5: Phrase Typing, 0: Preposition
+        let exerciseTypeIndex = exerciseCounter % 6
         
-        switch exerciseType {
+        switch exerciseTypeIndex {
         case 1:
-            generateEnglishToHebrew()
+            currentExercise = generator.generateEnglishToHebrew()
         case 2:
-            generateHebrewToEnglish()
+            currentExercise = generator.generateHebrewToEnglish()
         case 3:
-            generatePhraseOrder()
+            currentExercise = generator.generatePhraseOrder()
         case 4:
-            generateTypingPractice()
-        case 0: // 5th in cycle (0 because % 5)
-            generatePrepositionPractice()
+            currentExercise = generator.generateTypingPractice()
+        case 5:
+            currentExercise = generator.generatePhraseTyping()
+        case 0:
+            currentExercise = generator.generatePrepositionPractice()
         default:
-            generateEnglishToHebrew()
-        }
-    }
-    
-    private func generateEnglishToHebrew() {
-        guard let correctWord = dataManager.words.randomElement() else { return }
-        var options = [correctWord]
-        let wrongOptions = dataManager.words.filter { $0.id != correctWord.id }.shuffled().prefix(9)
-        options.append(contentsOf: wrongOptions)
-        options.shuffle()
-        currentExercise = .englishToHebrew(question: correctWord, options: options)
-    }
-    
-    private func generateHebrewToEnglish() {
-        guard let correctWord = dataManager.words.randomElement() else { return }
-        var options = [correctWord]
-        let wrongOptions = dataManager.words.filter { $0.id != correctWord.id }.shuffled().prefix(9)
-        options.append(contentsOf: wrongOptions)
-        options.shuffle()
-        currentExercise = .hebrewToEnglish(question: correctWord, options: options)
-    }
-    
-    private func generatePhraseOrder() {
-        print("DEBUG: Attempting to generate phrase exercise")
-        print("DEBUG: Phrases count: \(dataManager.phrases.count)")
-        guard let phrase = dataManager.phrases.randomElement() else { 
-            print("DEBUG: No phrases available, falling back to English->Hebrew")
-            generateEnglishToHebrew()
-            return 
-        }
-        let words = phrase.hebrew.components(separatedBy: " ").filter { !$0.isEmpty }
-        print("DEBUG: Generated phrase exercise with \(words.count) words")
-        currentExercise = .phraseOrder(phrase: phrase, shuffledWords: words.shuffled())
-    }
-    
-    private func generateTypingPractice() {
-        guard let word = dataManager.words.randomElement() else { 
-            print("DEBUG: No words available for typing practice, falling back")
-            generateEnglishToHebrew()
-            return 
-        }
-        // Randomly choose direction
-        let isHebrewToEnglish = Bool.random()
-        currentExercise = .typingPractice(question: word, isHebrewToEnglish: isHebrewToEnglish)
-    }
-    
-    private func generatePrepositionPractice() {
-        guard let sentence = dataManager.prepositionSentences.randomElement() else {
-            print("DEBUG: No preposition sentences available, falling back")
-            generateEnglishToHebrew()
-            return
+            currentExercise = generator.generateEnglishToHebrew()
         }
         
-        // Get all prepositions from the same category for options
-        guard let category = dataManager.prepositionCategories.first(where: { $0.category == sentence.category }) else {
-            print("DEBUG: No category found, falling back")
-            generateEnglishToHebrew()
-            return
+        // Fallback if generation failed
+        if currentExercise == nil {
+            currentExercise = generator.generateEnglishToHebrew()
         }
+    }
+    
+    // MARK: - User Actions
+    func giveUp() {
+        scoreWrong += 1
+        isCorrectAnswer = false
+        showCorrectAnswer = true
+        feedbackMessage = "Correct answer shown"
         
-        // Create options: correct answer + 3 random wrong answers from same category
-        var options = [sentence.correctPreposition]
-        let wrongOptions = category.prepositions
-            .map { $0.hebrew }
-            .filter { $0 != sentence.correctPreposition }
-            .shuffled()
-            .prefix(3)
-        options.append(contentsOf: wrongOptions)
-        options.shuffle()
-        
-        currentExercise = .prepositionPractice(sentence: sentence, options: Array(options))
+        // Move to next exercise after showing answer
+        DispatchQueue.main.asyncAfter(deadline: .now() + 2.0) {
+            self.nextExercise()
+        }
     }
     
     func checkAnswer(_ answer: Any) {
@@ -164,20 +113,43 @@ class GameViewModel: ObservableObject {
                     isCloseMatch = true // Flag for UI to show "Close!" message
                 }
             }
+        case .phraseTyping(let phrase):
+            if let typedText = answer as? String {
+                let correctAnswer = phrase.hebrew
+                
+                let normalizedInput = normalize(typedText)
+                let normalizedTarget = normalize(correctAnswer)
+                
+                if normalizedInput == normalizedTarget {
+                    isCorrect = true
+                } else if isFuzzyMatch(normalizedInput, normalizedTarget) {
+                    isCorrect = true
+                    isCloseMatch = true
+                }
+            }
         case .prepositionPractice(let sentence, _):
             if let selectedPreposition = answer as? String {
                 isCorrect = selectedPreposition == sentence.correctPreposition
             }
         }
         
+        handleResult(isCorrect: isCorrect, answer: answer, exercise: exercise)
+    }
+    
+    // MARK: - Internal Logic
+    private func handleResult(isCorrect: Bool, answer: Any, exercise: ExerciseType) {
         if isCorrect {
             scoreCorrect += 1
             isCorrectAnswer = true
             
             // Determine feedback message based on close match
-            if isCloseMatch, case .typingPractice(let question, let isHebrewToEnglish) = exercise {
-                let correctAnswerText = isHebrewToEnglish ? question.english : question.hebrew
-                feedbackMessage = "Close! Correct: \(correctAnswerText)"
+            if isCloseMatch {
+                if case .typingPractice(let question, let isHebrewToEnglish) = exercise {
+                    let correctAnswerText = isHebrewToEnglish ? question.english : question.hebrew
+                    feedbackMessage = "Close! Correct: \(correctAnswerText)"
+                } else if case .phraseTyping(let phrase) = exercise {
+                    feedbackMessage = "Close! Correct: \(phrase.hebrew)"
+                }
             } else {
                 feedbackMessage = "Correct!"
             }
@@ -189,7 +161,7 @@ class GameViewModel: ObservableObject {
                 selectedWord = word
                 showFeedback = true
                 delay = 1.5
-            } else if answer is String { // This covers TypingPractice and PrepositionPractice
+            } else if answer is String { // This covers TypingPractice, PhraseTyping and PrepositionPractice
                 showFeedback = true
                 // Longer delay for close matches to read the correction
                 delay = isCloseMatch ? 2.5 : 0.5
@@ -218,24 +190,9 @@ class GameViewModel: ObservableObject {
                     self.feedbackMessage = nil
                 }
             } else if case .typingPractice = exercise {
-                // For typing exercises, track attempts
-                typingAttempts += 1
-                
-                if typingAttempts >= 3 {
-                    // Show correct answer after 3 attempts
-                    showCorrectAnswer = true
-                    feedbackMessage = "Correct answer shown"
-                    
-                    // Move to next exercise after showing answer
-                    DispatchQueue.main.asyncAfter(deadline: .now() + 2.0) {
-                        self.nextExercise()
-                    }
-                } else {
-                    // Clear feedback after delay
-                    DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
-                        self.feedbackMessage = nil
-                    }
-                }
+                handleTypingFailure()
+            } else if case .phraseTyping = exercise {
+                handleTypingFailure()
             } else if case .prepositionPractice = exercise {
                 // For preposition exercises, show feedback
                 showFeedback = true
@@ -253,7 +210,27 @@ class GameViewModel: ObservableObject {
             }
         }
     }
-    // MARK: - Helper Methods
+    
+    private func handleTypingFailure() {
+        // For typing exercises, track attempts
+        typingAttempts += 1
+        
+        if typingAttempts >= 3 {
+            // Show correct answer after 3 attempts
+            showCorrectAnswer = true
+            feedbackMessage = "Correct answer shown"
+            
+            // Move to next exercise after showing answer
+            DispatchQueue.main.asyncAfter(deadline: .now() + 2.0) {
+                self.nextExercise()
+            }
+        } else {
+            // Clear feedback after delay
+            DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
+                self.feedbackMessage = nil
+            }
+        }
+    }
     
     private func normalize(_ text: String) -> String {
         // 1. Lowercase
@@ -264,7 +241,7 @@ class GameViewModel: ObservableObject {
         normalized = normalized.components(separatedBy: .punctuationCharacters).joined()
         
         // 3. Remove Hebrew Niqqudim (Vowels) - Unicode range 0591-05C7
-        normalized = normalized.replacingOccurrences(of: "[\u{0591}-\u{05C7}]", with: "", options: .regularExpression)
+        normalized = normalized.replacingOccurrences(of: "[\\u{0591}-\\u{05C7}]", with: "", options: .regularExpression)
         
         return normalized
     }

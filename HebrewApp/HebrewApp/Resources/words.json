@@ -1,0 +1,883 @@
+[
+    {
+        "hebrew": "להסכים",
+        "english": "to agree; to consent",
+        "pronunciation": "lehaskim",
+        "root": [
+            "ס",
+            "כ",
+            "מ"
+        ],
+        "construction": "Infinitive in binyan Hif'il from the root ס-כ-מ with the prefix לה-."
+    },
+    {
+        "hebrew": "לקבוע",
+        "english": "to set; to decide; to schedule; to determine",
+        "pronunciation": "likboa",
+        "root": [
+            "ק",
+            "ב",
+            "ע"
+        ],
+        "construction": "Infinitive with prefix ל- from the root ק-ב-ע meaning to fix/decide."
+    },
+    {
+        "hebrew": "מושב",
+        "english": "seat; sitting; session; moshav (type of rural community)",
+        "pronunciation": "moshav",
+        "root": [
+            "י",
+            "ש",
+            "ב"
+        ],
+        "construction": "Noun with prefix מ- from root י-ש-ב 'to sit', indicating a place of sitting or settlement."
+    },
+    {
+        "hebrew": "מול",
+        "english": "in front of; opposite; facing; versus",
+        "pronunciation": "mul",
+        "root": [
+            "מ",
+            "ו",
+            "ל"
+        ],
+        "construction": "Preposition historically related to root מ-ו-ל, expressing opposition or facing."
+    },
+    {
+        "hebrew": "נהיינו",
+        "english": "we became; we turned into",
+        "pronunciation": "nehinu",
+        "root": [
+            "ה",
+            "י",
+            "ה"
+        ],
+        "construction": "Past tense 1st person plural (נִהְיִינוּ) from root ה-י-ה 'to be', with נ- prefix and -נו suffix."
+    },
+    {
+        "hebrew": "ביישן",
+        "english": "shy; bashful (masculine singular)",
+        "pronunciation": "bayshan",
+        "root": [
+            "ב",
+            "י",
+            "ש"
+        ],
+        "construction": "Adjective from root ב-י-ש 'shame', with the pattern קַטְלָן indicating a habitual trait."
+    },
+    {
+        "hebrew": "מגיע",
+        "english": "arrives; comes; is due; (colloquial) deserves",
+        "pronunciation": "magia",
+        "root": [
+            "נ",
+            "ג",
+            "ע"
+        ],
+        "construction": "Present tense masculine singular in Hif'il from root נ-ג-ע in the sense of 'to reach, to be due'."
+    },
+    {
+        "hebrew": "לי",
+        "english": "to me; for me; mine",
+        "pronunciation": "li",
+        "root": [
+            "ל",
+            "י"
+        ],
+        "construction": "Prepositional ל- 'to/for' + 1st person singular pronominal ending -י 'me'."
+    },
+    {
+        "hebrew": "יותר",
+        "english": "more; greater",
+        "pronunciation": "yoter",
+        "root": [
+            "י",
+            "ת",
+            "ר"
+        ],
+        "construction": "Comparative form from root י-ת-ר related to surplus/excess, used as 'more'."
+    },
+    {
+        "hebrew": "מגיע לי יותר",
+        "english": "I deserve more; more is due to me",
+        "pronunciation": "magia li yoter",
+        "root": [
+            "נ",
+            "ג",
+            "ע"
+        ],
+        "construction": "Phrase built from verb מגיע (Hif'il of נ-ג-ע) + pronoun לי 'to me' + comparative יותר 'more'."
+    },
+    {
+        "hebrew": "הלוך",
+        "english": "going; outbound (direction)",
+        "pronunciation": "halokh",
+        "root": [
+            "ה",
+            "ל",
+            "ך"
+        ],
+        "construction": "Verbal noun from root ה-ל-ך 'to go', used as a noun meaning 'going'."
+    },
+    {
+        "hebrew": "חזור",
+        "english": "return; coming back",
+        "pronunciation": "khazor",
+        "root": [
+            "ח",
+            "ז",
+            "ר"
+        ],
+        "construction": "Verbal noun from root ח-ז-ר 'to return', meaning 'returning'."
+    },
+    {
+        "hebrew": "הלוך חזור",
+        "english": "back and forth; round trip",
+        "pronunciation": "halokh khazor",
+        "root": [
+            "ה",
+            "ל",
+            "ך",
+            "ח",
+            "ז",
+            "ר"
+        ],
+        "construction": "Fixed phrase combining הלוך (going) and חזור (returning) to express a round trip."
+    },
+    {
+        "hebrew": "מושב",
+        "english": "seat; session; moshav (type of village)",
+        "pronunciation": "moshav",
+        "root": [
+            "י",
+            "ש",
+            "ב"
+        ],
+        "construction": "Same as earlier: noun with prefix מ- from root י-ש-ב, a place where one sits or lives."
+    },
+    {
+        "hebrew": "מול",
+        "english": "in front of; opposite; versus",
+        "pronunciation": "mul",
+        "root": [
+            "מ",
+            "ו",
+            "ל"
+        ],
+        "construction": "Same preposition as above, expressing 'opposite, facing'."
+    },
+    {
+        "hebrew": "נהיינו",
+        "english": "we became; we turned into",
+        "pronunciation": "nehinu",
+        "root": [
+            "ה",
+            "י",
+            "ה"
+        ],
+        "construction": "Same form as above: נִהְיִינוּ from root ה-י-ה with 1st person plural ending."
+    },
+    {
+        "hebrew": "ביישן",
+        "english": "shy; bashful (masc.)",
+        "pronunciation": "bayshan",
+        "root": [
+            "ב",
+            "י",
+            "ש"
+        ],
+        "construction": "Same adjective as above: from root ב-י-ש with -ן ending for a character trait."
+    },
+    {
+        "hebrew": "מגיע",
+        "english": "arrives; comes; is due; (colloquial) deserves",
+        "pronunciation": "magia",
+        "root": [
+            "נ",
+            "ג",
+            "ע"
+        ],
+        "construction": "Same Hif'il present form of root נ-ג-ע meaning 'reaches / is due'."
+    },
+    {
+        "hebrew": "לי",
+        "english": "to me; for me; mine",
+        "pronunciation": "li",
+        "root": [
+            "ל",
+            "י"
+        ],
+        "construction": "Same pronominal preposition ל- + -י as above."
+    },
+    {
+        "hebrew": "יותר",
+        "english": "more; greater",
+        "pronunciation": "yoter",
+        "root": [
+            "י",
+            "ת",
+            "ר"
+        ],
+        "construction": "Same comparative form from root י-ת-ר used for 'more/greater'."
+    },
+    {
+        "hebrew": "מגיע לי יותר",
+        "english": "I deserve more; more is due to me",
+        "pronunciation": "magia li yoter",
+        "root": [
+            "נ",
+            "ג",
+            "ע"
+        ],
+        "construction": "Same phrase structure: מגיע (verb) + לי (indirect object) + יותר (comparative)."
+    },
+    {
+        "hebrew": "הלוך",
+        "english": "going; outbound (direction)",
+        "pronunciation": "halokh",
+        "root": [
+            "ה",
+            "ל",
+            "ך"
+        ],
+        "construction": "Same verbal noun from root ה-ל-ך as above."
+    },
+    {
+        "hebrew": "חזור",
+        "english": "return; coming back",
+        "pronunciation": "khazor",
+        "root": [
+            "ח",
+            "ז",
+            "ר"
+        ],
+        "construction": "Same verbal noun from root ח-ז-ר as above."
+    },
+    {
+        "hebrew": "הלוך חזור",
+        "english": "back and forth; round trip",
+        "pronunciation": "halokh khazor",
+        "root": [
+            "ה",
+            "ל",
+            "ך",
+            "ח",
+            "ז",
+            "ר"
+        ],
+        "construction": "Same fixed phrase combining 'going' and 'returning'."
+    },
+    {
+        "hebrew": "מעדיף",
+        "english": "prefer; would rather (masc. sg.)",
+        "pronunciation": "ma'adif",
+        "root": [
+            "ע",
+            "ד",
+            "ף"
+        ],
+        "construction": "Present masculine singular in Hif'il from root ע-ד-ף, pattern מַעֲדִיף with prefix מ-."
+    },
+    {
+        "hebrew": "התחלפה",
+        "english": "changed; was replaced (fem.)",
+        "pronunciation": "hitchalfa",
+        "root": [
+            "ח",
+            "ל",
+            "פ"
+        ],
+        "construction": "Past feminine singular in Hitpa'el from root ח-ל-פ, with הִתְ- prefix and -ה ending."
+    },
+    {
+        "hebrew": "המלחמה",
+        "english": "the war",
+        "pronunciation": "hamilchama",
+        "root": [
+            "ל",
+            "ח",
+            "מ"
+        ],
+        "construction": "Noun מלחמה from root ל-ח-מ 'to fight' with definite article ה-."
+    },
+    {
+        "hebrew": "המלחמה נגמרה",
+        "english": "the war ended; the war is over",
+        "pronunciation": "hamilchama nigmera",
+        "root": [
+            "ל",
+            "ח",
+            "מ",
+            "ג",
+            "מ",
+            "ר"
+        ],
+        "construction": "Phrase: subject המלחמה from root ל-ח-מ + verb נגמרה (past fem.) from root ג-מ-ר 'to finish'."
+    },
+    {
+        "hebrew": "נגמר",
+        "english": "finished; ended (masc.)",
+        "pronunciation": "nigmar",
+        "root": [
+            "ג",
+            "מ",
+            "ר"
+        ],
+        "construction": "Past masculine singular (usually Nif'al) from root ג-מ-ר 'to complete, finish'."
+    },
+    {
+        "hebrew": "החבר שלי",
+        "english": "my boyfriend; my (male) friend",
+        "pronunciation": "hachaver sheli",
+        "root": [
+            "ח",
+            "ב",
+            "ר"
+        ],
+        "construction": "Noun חבר from root ח-ב-ר 'to join' with definite article ה- and possessive pronoun שלי 'my'."
+    },
+    {
+        "hebrew": "חבר",
+        "english": "friend; boyfriend; member",
+        "pronunciation": "chaver",
+        "root": [
+            "ח",
+            "ב",
+            "ר"
+        ],
+        "construction": "Noun from root ח-ב-ר 'to connect, join', meaning a person you are joined to."
+    },
+    {
+        "hebrew": "יעד",
+        "english": "destination; target; goal",
+        "pronunciation": "ya'ad",
+        "root": [
+            "י",
+            "ע",
+            "ד"
+        ],
+        "construction": "Noun from root י-ע-ד 'to designate, aim', referring to a designated goal or target."
+    },
+    {
+        "hebrew": "היעד הפופולארי",
+        "english": "the popular destination",
+        "pronunciation": "haya'ad hapopulari",
+        "root": [
+            "י",
+            "ע",
+            "ד"
+        ],
+        "construction": "Noun phrase: ה- + יעד (root י-ע-ד) + adjective הפופולארי, an adopted foreign adjective with article ה-."
+    },
+    {
+        "hebrew": "סבתא רבתא",
+        "english": "great-grandmother",
+        "pronunciation": "savta rabta",
+        "root": [
+            "ס",
+            "ב",
+            "ת"
+        ],
+        "construction": "Phrase: סבתא 'grandmother' (from base סב with feminine ending) + רבתא 'great', an Aramaic-style form of רב."
+    },
+    {
+        "hebrew": "סבתא",
+        "english": "grandmother; grandma",
+        "pronunciation": "savta",
+        "root": [
+            "ס",
+            "ב",
+            "ת"
+        ],
+        "construction": "Family noun built on base סב 'grandfather/elder' with feminine-type ending -תא for 'grandmother'."
+    },
+    {
+        "hebrew": "סבא רבא",
+        "english": "great-grandfather",
+        "pronunciation": "saba raba",
+        "root": [
+            "ס",
+            "ב",
+            "א"
+        ],
+        "construction": "Phrase: סבא 'grandfather' + רבא 'great' (Aramaic form of רב), indicating one generation further."
+    },
+    {
+        "hebrew": "סבא",
+        "english": "grandfather; grandpa",
+        "pronunciation": "saba",
+        "root": [
+            "ס",
+            "ב",
+            "א"
+        ],
+        "construction": "Family noun from base סב 'elder' with -א ending, used familiarly for 'grandfather'."
+    },
+    {
+        "hebrew": "סיבוב",
+        "english": "turn; spin; round; lap",
+        "pronunciation": "sivuv",
+        "root": [
+            "ס",
+            "ב",
+            "ב"
+        ],
+        "construction": "Noun from root ס-ב-ב 'to turn' in the pattern קִטּוּל, describing a circular movement."
+    },
+    {
+        "hebrew": "להצליח",
+        "english": "to succeed",
+        "pronunciation": "lehatsliach",
+        "root": [
+            "צ",
+            "ל",
+            "ח"
+        ],
+        "construction": "Infinitive in Hif'il with prefix לה- from root צ-ל-ח 'to succeed', pattern הִצְלִיחַ."
+    },
+    {
+        "hebrew": "הצליחה",
+        "english": "she succeeded",
+        "pronunciation": "hitzlichah",
+        "root": [
+            "צ",
+            "ל",
+            "ח"
+        ],
+        "construction": "Past tense feminine singular in Hif'il from root צ-ל-ח, with ה- prefix and -ה feminine ending."
+    },
+    {
+        "hebrew": "גדול",
+        "english": "big; large; grown-up; older",
+        "pronunciation": "gadol",
+        "root": [
+            "ג",
+            "ד",
+            "ל"
+        ],
+        "construction": "Adjective from root ג-ד-ל meaning growth or greatness."
+    },
+    {
+        "hebrew": "קטן",
+        "english": "small; little; young",
+        "pronunciation": "katan",
+        "root": [
+            "ק",
+            "ט",
+            "נ"
+        ],
+        "construction": "Adjective from root ק-ט-נ meaning smallness or youth."
+    },
+    {
+        "hebrew": "גדולה",
+        "english": "big (fem.)",
+        "pronunciation": "gdola",
+        "root": [
+            "ג",
+            "ד",
+            "ל"
+        ],
+        "construction": "Feminine form of גדול with -ה ending."
+    },
+    {
+        "hebrew": "קטנה",
+        "english": "small (fem.)",
+        "pronunciation": "ktana",
+        "root": [
+            "ק",
+            "ט",
+            "נ"
+        ],
+        "construction": "Feminine adjective form with -ה ending."
+    },
+    {
+        "hebrew": "חזרה",
+        "english": "return; repetition",
+        "pronunciation": "khazara",
+        "root": [
+            "ח",
+            "ז",
+            "ר"
+        ],
+        "construction": "Noun from root ח-ז-ר in meaning of returning or repeating."
+    },
+    {
+        "hebrew": "חוזר",
+        "english": "returns; repeats (masc.)",
+        "pronunciation": "khozer",
+        "root": [
+            "ח",
+            "ז",
+            "ר"
+        ],
+        "construction": "Present tense participle of root ח-ז-ר."
+    },
+    {
+        "hebrew": "חוזרת",
+        "english": "returns; repeats (fem.)",
+        "pronunciation": "khozeret",
+        "root": [
+            "ח",
+            "ז",
+            "ר"
+        ],
+        "construction": "Feminine present participle with -ת ending."
+    },
+    {
+        "hebrew": "לרדת",
+        "english": "to go down; to descend; to get off",
+        "pronunciation": "laredet",
+        "root": [
+            "י",
+            "ר",
+            "ד"
+        ],
+        "construction": "Infinitive with ל- prefix from root י-ר-ד."
+    },
+    {
+        "hebrew": "יורד",
+        "english": "goes down; descends; decreases (masc.)",
+        "pronunciation": "yored",
+        "root": [
+            "י",
+            "ר",
+            "ד"
+        ],
+        "construction": "Present tense masculine from root י-ר-ד."
+    },
+    {
+        "hebrew": "יורדת",
+        "english": "goes down; descends (fem.)",
+        "pronunciation": "yoredet",
+        "root": [
+            "י",
+            "ר",
+            "ד"
+        ],
+        "construction": "Feminine present participle ending in -ת."
+    },
+    {
+        "hebrew": "ירידה",
+        "english": "descent; decline; downturn",
+        "pronunciation": "yerida",
+        "root": [
+            "י",
+            "ר",
+            "ד"
+        ],
+        "construction": "Noun in pattern קְטִילָה from root י-ר-ד."
+    },
+    {
+        "hebrew": "עולה",
+        "english": "goes up; rises; costs",
+        "pronunciation": "ole",
+        "root": [
+            "ע",
+            "ל",
+            "ה"
+        ],
+        "construction": "Present participle from עלה meaning rise or ascend."
+    },
+    {
+        "hebrew": "עולה חדשה",
+        "english": "new immigrant (fem.)",
+        "pronunciation": "olah khadasha",
+        "root": [
+            "ע",
+            "ל",
+            "ה"
+        ],
+        "construction": "Phrase: עולה (immigrant) + adjective חדשה."
+    },
+    {
+        "hebrew": "עולה חדש",
+        "english": "new immigrant (masc.)",
+        "pronunciation": "oleh khadash",
+        "root": [
+            "ע",
+            "ל",
+            "ה"
+        ],
+        "construction": "Phrase: עולה (immigrant) + adjective חדש."
+    },
+    {
+        "hebrew": "עלייה",
+        "english": "ascent; immigration to Israel",
+        "pronunciation": "aliya",
+        "root": [
+            "ע",
+            "ל",
+            "ה"
+        ],
+        "construction": "Noun meaning 'ascent' or formal immigration."
+    },
+    {
+        "hebrew": "לעלות",
+        "english": "to rise; to go up; to immigrate",
+        "pronunciation": "la'alot",
+        "root": [
+            "ע",
+            "ל",
+            "ה"
+        ],
+        "construction": "Infinitive ל- + root עלה."
+    },
+    {
+        "hebrew": "ירושלים",
+        "english": "Jerusalem",
+        "pronunciation": "yerushalayim",
+        "root": [
+            "י",
+            "ר",
+            "ש"
+        ],
+        "construction": "Ancient proper noun; historically linked to roots for peace or foundation."
+    },
+    {
+        "hebrew": "כיוון",
+        "english": "direction; orientation",
+        "pronunciation": "kivun",
+        "root": [
+            "כ",
+            "ו",
+            "ן"
+        ],
+        "construction": "Noun form from root כ-ו-ן 'to direct, aim'."
+    },
+    {
+        "hebrew": "בכיוון",
+        "english": "toward; in the direction of",
+        "pronunciation": "bakivun",
+        "root": [
+            "כ",
+            "ו",
+            "ן"
+        ],
+        "construction": "Prepositional phrase ב- + כיוון."
+    },
+    {
+        "hebrew": "דרום",
+        "english": "south",
+        "pronunciation": "darom",
+        "root": [
+            "ד",
+            "ר",
+            "ם"
+        ],
+        "construction": "Directional noun from ancient Semitic root."
+    },
+    {
+        "hebrew": "צפון",
+        "english": "north",
+        "pronunciation": "tsafon",
+        "root": [
+            "צ",
+            "פ",
+            "ן"
+        ],
+        "construction": "Directional noun from root צ-פ-ן 'to hide', historically referencing shaded side."
+    },
+    {
+        "hebrew": "מערב",
+        "english": "west",
+        "pronunciation": "ma'arav",
+        "root": [
+            "ע",
+            "ר",
+            "ב"
+        ],
+        "construction": "From root ע-ר-ב 'evening'—where the sun sets."
+    },
+    {
+        "hebrew": "מזרח",
+        "english": "east",
+        "pronunciation": "mizrach",
+        "root": [
+            "ז",
+            "ר",
+            "ח"
+        ],
+        "construction": "From root ז-ר-ח 'to shine', sunrise direction."
+    },
+    {
+        "hebrew": "לנסוע",
+        "english": "to travel; to drive",
+        "pronunciation": "linsoa",
+        "root": [
+            "נ",
+            "ס",
+            "ע"
+        ],
+        "construction": "Infinitive ל- + root נ-ס-ע meaning movement."
+    },
+    {
+        "hebrew": "נוסע",
+        "english": "travels; drives (masc.)",
+        "pronunciation": "nosea",
+        "root": [
+            "נ",
+            "ס",
+            "ע"
+        ],
+        "construction": "Present tense participle from root נ-ס-ע."
+    },
+    {
+        "hebrew": "נוסעת",
+        "english": "travels; drives (fem.)",
+        "pronunciation": "nosa'at",
+        "root": [
+            "נ",
+            "ס",
+            "ע"
+        ],
+        "construction": "Feminine present participle ending in -ת."
+    },
+    {
+        "hebrew": "נסיעה",
+        "english": "trip; drive; ride; travel",
+        "pronunciation": "nesi'a",
+        "root": [
+            "נ",
+            "ס",
+            "ע"
+        ],
+        "construction": "Noun from root נ-ס-ע with pattern קְטִילָה."
+    },
+    {
+        "hebrew": "רחוק",
+        "english": "far",
+        "pronunciation": "rakhok",
+        "root": [
+            "ר",
+            "ח",
+            "ק"
+        ],
+        "construction": "Adjective from root ר-ח-ק expressing distance."
+    },
+    {
+        "hebrew": "קרוב",
+        "english": "close; near",
+        "pronunciation": "karov",
+        "root": [
+            "ק",
+            "ר",
+            "ב"
+        ],
+        "construction": "Adjective from root ק-ר-ב meaning nearness or closeness."
+    },
+    {
+        "hebrew": "כמעט",
+        "english": "almost; nearly",
+        "pronunciation": "kimat",
+        "root": [
+            "ק",
+            "מ",
+            "ע"
+        ],
+        "construction": "Adverb likely derived from root ק-מ-ע meaning slightness or smallness."
+    },
+    {
+        "hebrew": "אופניים",
+        "english": "bicycle",
+        "pronunciation": "ofanayim",
+        "root": [
+            "א",
+            "ו",
+            "פ"
+        ],
+        "construction": "Dual form -יים from root א-ו-פ referring to wheels."
+    },
+    {
+        "hebrew": "אופנוע",
+        "english": "motorcycle",
+        "pronunciation": "ofnoa",
+        "root": [
+            "א",
+            "ו",
+            "פ"
+        ],
+        "construction": "Compound from אוֹפַן 'wheel' + נוֹעַ 'movement'."
+    },
+    {
+        "hebrew": "נהג",
+        "english": "driver",
+        "pronunciation": "nahag",
+        "root": [
+            "נ",
+            "ה",
+            "ג"
+        ],
+        "construction": "Professional noun from root נ-ה-ג 'to drive, to lead'."
+    },
+    {
+        "hebrew": "נהגת",
+        "english": "female driver",
+        "pronunciation": "nahaget",
+        "root": [
+            "נ",
+            "ה",
+            "ג"
+        ],
+        "construction": "Feminine form of נהג with -ת ending."
+    },
+    {
+        "hebrew": "לנהוג",
+        "english": "to drive; to behave",
+        "pronunciation": "linhog",
+        "root": [
+            "נ",
+            "ה",
+            "ג"
+        ],
+        "construction": "Infinitive of root נ-ה-ג meaning driving or conducting oneself."
+    },
+    {
+        "hebrew": "טוב",
+        "english": "good",
+        "pronunciation": "tov",
+        "root": [
+            "ט",
+            "ו",
+            "ב"
+        ],
+        "construction": "Adjective from root ט-ו-ב meaning goodness, wellness."
+    },
+    {
+        "hebrew": "רע",
+        "english": "bad; evil",
+        "pronunciation": "ra",
+        "root": [
+            "ר",
+            "ע",
+            "ע"
+        ],
+        "construction": "Adjective from root ר-ע-ע conveying badness or harm."
+    },
+    {
+        "hebrew": "יותר טוב",
+        "english": "better",
+        "pronunciation": "yoter tov",
+        "root": [
+            "י",
+            "ת",
+            "ר",
+            "ט",
+            "ו",
+            "ב"
+        ],
+        "construction": "Comparative form: יותר + adjective טוב."
+    },
+    {
+        "hebrew": "פחות טוב",
+        "english": "less good; worse",
+        "pronunciation": "pakhot tov",
+        "root": [
+            "פ",
+            "ח",
+            "ת",
+            "ט",
+            "ו",
+            "ב"
+        ],
+        "construction": "Comparative form: פחות + adjective טוב."
+    }
