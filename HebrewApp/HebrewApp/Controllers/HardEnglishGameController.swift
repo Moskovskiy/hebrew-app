@@ -10,6 +10,7 @@ class HardEnglishGameController: ObservableObject {
     @Published var feedbackMessage: String?
     @Published var isCorrectAnswer: Bool = false
     @Published var showFeedback: Bool = false
+    @Published var selectedAnswerId: String?
     
     // MARK: - Dependencies
     private let dataManager = DataManager.shared
@@ -24,6 +25,7 @@ class HardEnglishGameController: ObservableObject {
         // Reset State
         feedbackMessage = nil
         showFeedback = false
+        selectedAnswerId = nil
         
         generateDefinitionExercise()
     }
@@ -56,6 +58,7 @@ class HardEnglishGameController: ObservableObject {
         switch exercise {
         case .definitionToWord(let question, _):
             if let selectedWord = answer as? HardEnglishWord {
+                selectedAnswerId = selectedWord.id
                 isCorrect = selectedWord.id == question.id
             }
         }

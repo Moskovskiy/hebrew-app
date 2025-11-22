@@ -6,10 +6,10 @@ struct ArabicView: View {
     
     var body: some View {
         ZStack {
-            // Animated Background - Deep Red/Purple for Arabic theme
-            LinearGradient(colors: [Color(red: 0.1, green: 0.0, blue: 0.05), 
-                                   Color(red: 0.15, green: 0.05, blue: 0.1), 
-                                   Color(red: 0.05, green: 0.0, blue: 0.05)], 
+            // Animated Background - Red for Arabic theme
+            LinearGradient(colors: [Color(red: 0.5, green: 0.0, blue: 0.0), 
+                                   Color(red: 0.6, green: 0.1, blue: 0.1), 
+                                   Color(red: 0.4, green: 0.0, blue: 0.0)], 
                           startPoint: animateGradient ? .topLeading : .bottomLeading, 
                           endPoint: animateGradient ? .bottomTrailing : .topTrailing)
                 .ignoresSafeArea()
@@ -44,9 +44,6 @@ struct ArabicView: View {
                 }
                 .padding()
                 .padding(.horizontal)
-                .padding()
-                .padding(.horizontal)
-                .padding()
                 
                 Spacer()
                 

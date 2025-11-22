@@ -6,10 +6,10 @@ struct HebrewView: View {
     
     var body: some View {
         ZStack {
-            // Animated Background - Very Dark
-            LinearGradient(colors: [Color(red: 0.02, green: 0.02, blue: 0.1), 
-                                   Color(red: 0.05, green: 0.05, blue: 0.15), 
-                                   Color(red: 0.0, green: 0.0, blue: 0.08)], 
+            // Animated Background - Blue for Hebrew theme
+            LinearGradient(colors: [Color(red: 0.0, green: 0.1, blue: 0.4), 
+                                   Color(red: 0.0, green: 0.2, blue: 0.5), 
+                                   Color(red: 0.0, green: 0.05, blue: 0.3)], 
                           startPoint: animateGradient ? .topLeading : .bottomLeading, 
                           endPoint: animateGradient ? .bottomTrailing : .topTrailing)
                 .ignoresSafeArea()

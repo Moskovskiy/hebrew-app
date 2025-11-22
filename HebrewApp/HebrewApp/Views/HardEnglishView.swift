@@ -6,10 +6,10 @@ struct HardEnglishView: View {
     
     var body: some View {
         ZStack {
-            // Animated Background - Teal/Green for English theme
-            LinearGradient(colors: [Color(red: 0.0, green: 0.1, blue: 0.1), 
-                                   Color(red: 0.0, green: 0.15, blue: 0.15), 
-                                   Color(red: 0.0, green: 0.05, blue: 0.1)], 
+            // Animated Background - Green for English theme
+            LinearGradient(colors: [Color(red: 0.0, green: 0.4, blue: 0.1), 
+                                   Color(red: 0.1, green: 0.5, blue: 0.2), 
+                                   Color(red: 0.0, green: 0.3, blue: 0.05)], 
                           startPoint: animateGradient ? .topLeading : .bottomLeading, 
                           endPoint: animateGradient ? .bottomTrailing : .topTrailing)
                 .ignoresSafeArea()
