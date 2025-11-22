@@ -54,4 +54,44 @@ class ExerciseGenerator {
         guard let phrase = dataManager.phrases.randomElement() else { return nil }
         return .phraseTyping(phrase: phrase)
     }
+
+    func generateVerbConjugation() -> ExerciseType? {
+        guard let verb = dataManager.verbs.randomElement() else { return nil }
+
+        // Get all conjugation forms
+        let allForms: [(VerbForm, String)] = [
+            (verb.pastFirstSingular, "I (past)"),
+            (verb.pastSecondMasculine, "you masculine (past)"),
+            (verb.pastSecondFeminine, "you feminine (past)"),
+            (verb.pastThirdMasculine, "he (past)"),
+            (verb.pastThirdFeminine, "she (past)"),
+            (verb.pastFirstPlural, "we (past)"),
+            (verb.pastSecondPlural, "you plural (past)"),
+            (verb.pastThirdPlural, "they (past)"),
+            (verb.presentMasculineSingular, "masculine singular (present)"),
+            (verb.presentFeminineSingular, "feminine singular (present)"),
+            (verb.presentMasculinePlural, "masculine plural (present)"),
+            (verb.presentFemininePlural, "feminine plural (present)"),
+            (verb.futureFirstSingular, "I (future)"),
+            (verb.futureSecondMasculine, "you masculine (future)"),
+            (verb.futureSecondFeminine, "you feminine (future)"),
+            (verb.futureThirdMasculine, "he (future)"),
+            (verb.futureThirdFeminine, "she (future)"),
+            (verb.futureFirstPlural, "we (future)"),
+            (verb.futureSecondPlural, "you plural (future)"),
+            (verb.futureThirdPlural, "they (future)")
+        ]
+
+        // Pick two different random forms
+        guard let fromIndex = (0..<allForms.count).randomElement(),
+              let toIndex = (0..<allForms.count).filter({ $0 != fromIndex }).randomElement() else {
+            return nil
+        }
+
+        let fromForm = allForms[fromIndex].0
+        let toFormData = allForms[toIndex]
+        let prompt = "Type the form for \(toFormData.1):"
+
+        return .verbConjugation(fromForm: fromForm, toForm: toFormData.0, prompt: prompt)
+    }
 }

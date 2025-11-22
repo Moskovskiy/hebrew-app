@@ -11,14 +11,34 @@ struct MultipleChoiceView: View {
     var body: some View {
         VStack(spacing: 30) {
             VStack(spacing: 10) {
-                Text(question)
-                    .font(.system(size: 40, weight: .bold))
-                    .foregroundColor(.white)
-                    .multilineTextAlignment(.center)
-                    .minimumScaleFactor(0.5)
-                    .fixedSize(horizontal: false, vertical: true)
-                    .shadow(radius: 5)
-                
+                // Display question as pills if it contains semicolons
+                if question.contains(";") {
+                    VStack(spacing: 8) {
+                        ForEach(question.components(separatedBy: ";").map { $0.trimmingCharacters(in: .whitespaces) }, id: \.self) { item in
+                            Text(item)
+                                .font(.title2)
+                                .fontWeight(.semibold)
+                                .foregroundColor(.white)
+                                .padding(.horizontal, 16)
+                                .padding(.vertical, 8)
+                                .background(
+                                    Capsule()
+                                        .fill(Color.white.opacity(0.2))
+                                )
+                                .background(.ultraThinMaterial, in: Capsule())
+                                .shadow(radius: 5)
+                        }
+                    }
+                } else {
+                    Text(question)
+                        .font(.system(size: 40, weight: .bold))
+                        .foregroundColor(.white)
+                        .multilineTextAlignment(.center)
+                        .minimumScaleFactor(0.5)
+                        .fixedSize(horizontal: false, vertical: true)
+                        .shadow(radius: 5)
+                }
+
                 if let word = questionWord {
                     WordHintView(word: word)
                 }

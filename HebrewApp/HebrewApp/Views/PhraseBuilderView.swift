@@ -3,32 +3,114 @@ import UniformTypeIdentifiers
 
 struct PhraseBuilderView: View {
     let hint: String
+    let phrase: Phrase?
     let initialWords: [String]
     let onCheck: ([String]) -> Void
     @ObservedObject var controller: GameController
-    
+
     @State private var availableWords: [String]
     @State private var placedWords: [String] = []
     @State private var draggedWord: String?
-    
-    init(hint: String, currentWords: [String], onCheck: @escaping ([String]) -> Void, controller: GameController) {
+    @State private var isHintExpanded: Bool = false
+
+    init(hint: String, phrase: Phrase? = nil, currentWords: [String], onCheck: @escaping ([String]) -> Void, controller: GameController) {
         self.hint = hint
+        self.phrase = phrase
         self.initialWords = currentWords
         self.onCheck = onCheck
         self.controller = controller
         self._availableWords = State(initialValue: currentWords)
     }
-    
+
     var body: some View {
         VStack(spacing: 30) {
             // Hint - Smaller font
-            Text(hint)
-                .font(.body)
-                .fontWeight(.semibold)
-                .foregroundColor(.white)
-                .padding()
-                .multilineTextAlignment(.center)
-                .shadow(radius: 5)
+            VStack(spacing: 10) {
+                // Display hint as list if it contains semicolons
+                if hint.contains(";") {
+                    VStack(alignment: .leading, spacing: 4) {
+                        ForEach(hint.components(separatedBy: ";").map { $0.trimmingCharacters(in: .whitespaces) }, id: \.self) { item in
+                            HStack(alignment: .top, spacing: 6) {
+                                Text("•")
+                                    .font(.body)
+                                    .foregroundColor(.white)
+                                Text(item)
+                                    .font(.body)
+                                    .fontWeight(.semibold)
+                                    .foregroundColor(.white)
+                            }
+                        }
+                    }
+                    .shadow(radius: 5)
+                } else {
+                    Text(hint)
+                        .font(.body)
+                        .fontWeight(.semibold)
+                        .foregroundColor(.white)
+                        .multilineTextAlignment(.center)
+                        .shadow(radius: 5)
+                }
+
+                // Show hint button if construction exists
+                if let phrase = phrase, let construction = phrase.construction {
+                    Button(action: {
+                        withAnimation(.spring()) {
+                            isHintExpanded.toggle()
+                        }
+                    }) {
+                        HStack {
+                            Image(systemName: isHintExpanded ? "chevron.up" : "lightbulb.fill")
+                                .foregroundColor(isHintExpanded ? .white : .yellow)
+                            Text(isHintExpanded ? "Hide Hint" : "Show Hint")
+                                .fontWeight(.medium)
+                        }
+                        .padding(.horizontal, 16)
+                        .padding(.vertical, 8)
+                        .background(
+                            Capsule()
+                                .fill(Color.white.opacity(0.2))
+                        )
+                        .background(.ultraThinMaterial, in: Capsule())
+                        .foregroundColor(.white)
+                    }
+
+                    if isHintExpanded {
+                        VStack(spacing: 10) {
+                            // Display construction as list if it contains semicolons
+                            if construction.contains(";") {
+                                VStack(alignment: .leading, spacing: 6) {
+                                    ForEach(construction.components(separatedBy: ";").map { $0.trimmingCharacters(in: .whitespaces) }, id: \.self) { item in
+                                        HStack(alignment: .top, spacing: 6) {
+                                            Text("•")
+                                                .font(.body)
+                                                .foregroundColor(.white)
+                                            Text(item)
+                                                .font(.body)
+                                                .foregroundColor(.white)
+                                                .fixedSize(horizontal: false, vertical: true)
+                                        }
+                                    }
+                                }
+                            } else {
+                                Text(construction)
+                                    .font(.body)
+                                    .foregroundColor(.white)
+                                    .multilineTextAlignment(.center)
+                                    .fixedSize(horizontal: false, vertical: true)
+                            }
+                        }
+                        .padding()
+                        .background(
+                            RoundedRectangle(cornerRadius: 16)
+                                .fill(Color.black.opacity(0.3))
+                        )
+                        .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 16))
+                        .padding(.horizontal)
+                        .transition(.opacity.combined(with: .scale(scale: 0.95, anchor: .top)))
+                    }
+                }
+            }
+            .padding()
             
             // Target Field (Sentence Construction) - RTL Text Display
             VStack(alignment: .trailing, spacing: 0) {

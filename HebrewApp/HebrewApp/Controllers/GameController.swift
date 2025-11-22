@@ -35,11 +35,11 @@ class GameController: ObservableObject {
         isCloseMatch = false
         
         exerciseCounter += 1
-        
-        // Rotate through 6 exercise types
-        // 1: Eng->Heb, 2: Heb->Eng, 3: Phrase, 4: Typing, 5: Phrase Typing, 0: Preposition
-        let exerciseTypeIndex = exerciseCounter % 6
-        
+
+        // Rotate through 7 exercise types
+        // 1: Eng->Heb, 2: Heb->Eng, 3: Phrase, 4: Typing, 5: Phrase Typing, 6: Preposition, 0: Verb Conjugation
+        let exerciseTypeIndex = exerciseCounter % 7
+
         switch exerciseTypeIndex {
         case 1:
             currentExercise = generator.generateEnglishToHebrew()
@@ -51,8 +51,10 @@ class GameController: ObservableObject {
             currentExercise = generator.generateTypingPractice()
         case 5:
             currentExercise = generator.generatePhraseTyping()
-        case 0:
+        case 6:
             currentExercise = generator.generatePrepositionPractice()
+        case 0:
+            currentExercise = generator.generateVerbConjugation()
         default:
             currentExercise = generator.generateEnglishToHebrew()
         }
@@ -90,24 +92,47 @@ class GameController: ObservableObject {
         case .phraseOrder(let phrase, _):
             if let orderedWords = answer as? [String] {
                 let constructedPhrase = orderedWords.joined(separator: " ")
-                isCorrect = constructedPhrase == phrase.hebrew
+
+                // Split by semicolon to handle multiple acceptable answers
+                let acceptableAnswers = phrase.hebrew.components(separatedBy: ";").map { $0.trimmingCharacters(in: .whitespaces) }
+
+                // Normalize constructed phrase by removing all spaces
+                let normalizedConstructed = constructedPhrase.replacingOccurrences(of: " ", with: "")
+
+                // Check against each acceptable answer (also normalized)
+                for acceptableAnswer in acceptableAnswers {
+                    let normalizedTarget = acceptableAnswer.replacingOccurrences(of: " ", with: "")
+                    if normalizedConstructed == normalizedTarget {
+                        isCorrect = true
+                        break
+                    }
+                }
             }
         case .typingPractice(let question, let isHebrewToEnglish):
             if let typedText = answer as? String {
                 let correctAnswer = isHebrewToEnglish ? question.english : question.hebrew
                 
-                // 1. Normalize both strings
-                let normalizedInput = normalize(typedText)
-                let normalizedTarget = normalize(correctAnswer)
+                // Split by semicolon to handle multiple acceptable answers
+                let acceptableAnswers = correctAnswer.components(separatedBy: ";").map { $0.trimmingCharacters(in: .whitespaces) }
                 
-                // 2. Check exact match (after normalization)
-                if normalizedInput == normalizedTarget {
-                    isCorrect = true
-                } 
-                // 3. Check fuzzy match (if not English)
-                else if !isHebrewToEnglish && isFuzzyMatch(normalizedInput, normalizedTarget) {
-                    isCorrect = true
-                    isCloseMatch = true // Flag for UI to show "Close!" message
+                // 1. Normalize user input
+                let normalizedInput = normalize(typedText)
+                
+                // 2. Check against each acceptable answer
+                for acceptableAnswer in acceptableAnswers {
+                    let normalizedTarget = normalize(acceptableAnswer)
+                    
+                    // Check exact match (after normalization)
+                    if normalizedInput == normalizedTarget {
+                        isCorrect = true
+                        break
+                    }
+                    // Check fuzzy match (if not English)
+                    else if !isHebrewToEnglish && isFuzzyMatch(normalizedInput, normalizedTarget) {
+                        isCorrect = true
+                        isCloseMatch = true
+                        break
+                    }
                 }
             }
         case .phraseTyping(let phrase):
@@ -128,8 +153,37 @@ class GameController: ObservableObject {
             if let selectedPreposition = answer as? String {
                 isCorrect = selectedPreposition == sentence.correctPreposition
             }
+        case .verbConjugation(_, let toForm, _):
+            if let typedText = answer as? String {
+                // Get the complete sentence with the verb filled in
+                if let exampleSentence = toForm.exampleSentence {
+                    let completeSentence = exampleSentence.replacingOccurrences(of: "______", with: toForm.hebrew)
+
+                    // Normalize both by removing all spaces
+                    let normalizedInput = normalize(typedText)
+                    let normalizedTarget = normalize(completeSentence)
+
+                    if normalizedInput == normalizedTarget {
+                        isCorrect = true
+                    } else if isFuzzyMatch(normalizedInput, normalizedTarget) {
+                        isCorrect = true
+                        isCloseMatch = true
+                    }
+                } else {
+                    // Fallback: just check the verb if no example sentence
+                    let normalizedInput = normalize(typedText)
+                    let normalizedTarget = normalize(toForm.hebrew)
+
+                    if normalizedInput == normalizedTarget {
+                        isCorrect = true
+                    } else if isFuzzyMatch(normalizedInput, normalizedTarget) {
+                        isCorrect = true
+                        isCloseMatch = true
+                    }
+                }
+            }
         }
-        
+
         handleResult(isCorrect: isCorrect, answer: answer, exercise: exercise)
     }
     
@@ -146,6 +200,13 @@ class GameController: ObservableObject {
                     feedbackMessage = "Close! Correct: \(correctAnswerText)"
                 } else if case .phraseTyping(let phrase) = exercise {
                     feedbackMessage = "Close! Correct: \(phrase.hebrew)"
+                } else if case .verbConjugation(_, let toForm, _) = exercise {
+                    if let exampleSentence = toForm.exampleSentence {
+                        let completeSentence = exampleSentence.replacingOccurrences(of: "______", with: toForm.hebrew)
+                        feedbackMessage = "Close! Correct: \(completeSentence)"
+                    } else {
+                        feedbackMessage = "Close! Correct: \(toForm.hebrew)"
+                    }
                 }
             } else {
                 feedbackMessage = "Correct!"
@@ -189,6 +250,8 @@ class GameController: ObservableObject {
             } else if case .typingPractice = exercise {
                 handleTypingFailure()
             } else if case .phraseTyping = exercise {
+                handleTypingFailure()
+            } else if case .verbConjugation = exercise {
                 handleTypingFailure()
             } else if case .prepositionPractice = exercise {
                 // For preposition exercises, show feedback

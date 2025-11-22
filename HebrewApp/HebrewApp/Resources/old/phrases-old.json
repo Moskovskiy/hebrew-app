@@ -1,0 +1,1194 @@
+[
+    {
+        "hebrew": "אני רוצה לקבוע פגישה",
+        "english": "I want to schedule a meeting"
+    },
+    {
+        "hebrew": "אני מסכים איתך",
+        "english": "I agree with you"
+    },
+    {
+        "hebrew": "אני מעדיף לשבת מול החלון",
+        "english": "I prefer to sit in front of the window"
+    },
+    {
+        "hebrew": "המלחמה נגמרה סוף סוף",
+        "english": "The war is finally over"
+    },
+    {
+        "hebrew": "אני מתגעגע אליך",
+        "english": "I miss you"
+    },
+    {
+        "hebrew": "שנינו רוצים יותר זמן חופש",
+        "english": "Both of us want more time off"
+    },
+    {
+        "hebrew": "אין קשר בין הדברים",
+        "english": "There is no connection between the things"
+    },
+    {
+        "hebrew": "אני רוצה להכין חביתה",
+        "english": "I want to make an omelette"
+    },
+    {
+        "hebrew": "אני צריך לבדוק את זה",
+        "english": "I need to check this"
+    },
+    {
+        "hebrew": "אני חייב לזכור את זה",
+        "english": "I must remember this"
+    },
+    {
+        "hebrew": "אני מנסה לא לשכוח",
+        "english": "I am trying not to forget"
+    },
+    {
+        "hebrew": "אנחנו מבשלים יחד רוב הזמן",
+        "english": "We cook together most of the time"
+    },
+    {
+        "hebrew": "אני מחכה לתשובה שלך",
+        "english": "I am waiting for your answer"
+    },
+    {
+        "hebrew": "אני מעדיף מזג אוויר קריר",
+        "english": "I prefer cool weather"
+    },
+    {
+        "hebrew": "אני רוצה להכיר מקומות חדשים",
+        "english": "I want to get to know new places"
+    },
+    {
+        "hebrew": "אני צריך יום חופש",
+        "english": "I need a day off"
+    },
+    {
+        "hebrew": "אני עובד יותר מדי",
+        "english": "I work too much"
+    },
+    {
+        "hebrew": "אני רוצה ללמוד מדעי המחשב",
+        "english": "I want to study computer science"
+    },
+    {
+        "hebrew": "זה נשמע מעניין",
+        "english": "That sounds interesting"
+    },
+    {
+        "hebrew": "אני מפחד מגבהים",
+        "english": "I am afraid of heights"
+    },
+    {
+        "hebrew": "אני מחכה לידידה שלי",
+        "english": "I am waiting for my female friend"
+    },
+    {
+        "hebrew": "הוא לימד אותי הרבה",
+        "english": "He taught me a lot"
+    },
+    {
+        "hebrew": "אני רוצה לנסוע לאנגליה",
+        "english": "I want to travel to England"
+    },
+    {
+        "hebrew": "יש לי כאב בטן",
+        "english": "I have a stomachache"
+    },
+    {
+        "hebrew": "אני צריך להוסיף קצת סוכר",
+        "english": "I need to add a bit of sugar"
+    },
+    {
+        "hebrew": "אני לא רוצה להפסיד שום דבר",
+        "english": "I don't want to miss anything"
+    },
+    {
+        "hebrew": "אני רוצה לתכנן את היום",
+        "english": "I want to plan the day"
+    },
+    {
+        "hebrew": "אני אוהב אומנות מופשטת",
+        "english": "I love abstract art"
+    },
+    {
+        "hebrew": "הרבה זמן לא נפגשנו",
+        "english": "We haven’t met for a long time"
+    },
+    {
+        "hebrew": "אני צריך לקנות מתנה",
+        "english": "I need to buy a gift"
+    },
+    {
+        "hebrew": "אני רוצה לתאר משהו",
+        "english": "I want to describe something"
+    },
+    {
+        "hebrew": "אני צריך לנוח קצת",
+        "english": "I need to rest a little"
+    },
+    {
+        "hebrew": "זה נשמע הגיוני",
+        "english": "That sounds logical"
+    },
+    {
+        "hebrew": "אני רוצה להמשיך ישר",
+        "english": "I want to continue straight"
+    },
+    {
+        "hebrew": "אני מתאמן כל יום",
+        "english": "I practice every day"
+    },
+    {
+        "hebrew": "אני מנסה לשפר את העברית שלי",
+        "english": "I am trying to improve my Hebrew"
+    },
+    {
+        "hebrew": "אני צריך להחליט בקרוב",
+        "english": "I need to decide soon"
+    },
+    {
+        "hebrew": "אני רוצה לענות על השאלה",
+        "english": "I want to answer the question"
+    },
+    {
+        "hebrew": "אני אוהב לשחק משחקים",
+        "english": "I like to play games"
+    },
+    {
+        "hebrew": "אני מחפש מסמך חשוב",
+        "english": "I am looking for an important document"
+    },
+    {
+        "hebrew": "אני רוצה לעשות קניות",
+        "english": "I want to do some shopping"
+    },
+    {
+        "hebrew": "אני צריך להביא את המזוודה",
+        "english": "I need to bring the suitcase"
+    },
+    {
+        "hebrew": "אני רוצה לכתוב משהו",
+        "english": "I want to write something"
+    },
+    {
+        "hebrew": "אני צריך להתאמן יותר",
+        "english": "I need to practice more"
+    },
+    {
+        "hebrew": "אני מעדיף ללכת ברגל",
+        "english": "I prefer to walk"
+    },
+    {
+        "hebrew": "אני רוצה לחזור הביתה",
+        "english": "I want to go back home"
+    },
+    {
+        "hebrew": "אני תוהה מה יקרה",
+        "english": "I wonder what will happen"
+    },
+    {
+        "hebrew": "אני רוצה להשוות בין האפשרויות",
+        "english": "I want to compare the options"
+    },
+    {
+        "hebrew": "אני צריך לקבל אישור",
+        "english": "I need to get approval"
+    },
+    {
+        "hebrew": "אני רוצה לחכות עוד קצת",
+        "english": "I want to wait a bit more"
+    },
+    {
+        "hebrew": "אני מנסה להסביר את המשמעות של המילה",
+        "english": "I am trying to explain the meaning of the word"
+    },
+    {
+        "hebrew": "הוא ביקש ממני לשמור על הכללים",
+        "english": "He asked me to follow the rules"
+    },
+    {
+        "hebrew": "אנחנו צריכים לתכנן את היום בעבודה",
+        "english": "We need to plan the day at work"
+    },
+    {
+        "hebrew": "אני מקווה שהמזג אוויר ישתנה בקרוב",
+        "english": "I hope the weather will change soon"
+    },
+    {
+        "hebrew": "המנה הזאת יותר מדי מלוחה בשבילי",
+        "english": "This dish is too salty for me"
+    },
+    {
+        "hebrew": "הוא ניסה לברוח אבל לא הצליח",
+        "english": "He tried to escape but did not succeed"
+    },
+    {
+        "hebrew": "הם רוצים לבחור את אותם המקומות שוב",
+        "english": "They want to choose the same places again"
+    },
+    {
+        "hebrew": "אנחנו צריכים להגיע לשם מהר יותר",
+        "english": "We need to get there faster"
+    },
+    {
+        "hebrew": "אני מעדיף לחקור את האזור לפני שאני מחליט",
+        "english": "I prefer to explore the area before I decide"
+    },
+    {
+        "hebrew": "הוא מפחד מהצל ולכן הוא לא יוצא החוצה",
+        "english": "He is afraid of the shade, so he does not go outside"
+    },
+    {
+        "hebrew": "אני מנסה לשנות כמה הרגלים ישנים",
+        "english": "I am trying to change some old habits"
+    },
+    {
+        "hebrew": "הוא הגיע באיחור בגלל עיכוב ברכבת",
+        "english": "He arrived late because of a delay in the train"
+    },
+    {
+        "hebrew": "הם צריכים להישאר כאן עד הערב",
+        "english": "They need to stay here until the evening"
+    },
+    {
+        "hebrew": "אני רוצה להוסיף שכבה נוספת של קרם",
+        "english": "I want to add another layer of cream"
+    },
+    {
+        "hebrew": "הוא אמר שהעלילה בסדרה מאוד מעניינת",
+        "english": "He said the plot of the series is very interesting"
+    },
+    {
+        "hebrew": "הם מתכוננים למבחן כבר שבוע",
+        "english": "They have been preparing for the exam for a week"
+    },
+    {
+        "hebrew": "אני מתבייש לדבר מול הרבה אנשים",
+        "english": "I am embarrassed to speak in front of many people"
+    },
+    {
+        "hebrew": "אני צריך לבחור בין שתי אפשרויות קשות",
+        "english": "I need to choose between two difficult options"
+    },
+    {
+        "hebrew": "הוא ניסה להסביר אבל אף אחד לא הקשיב",
+        "english": "He tried to explain but nobody listened"
+    },
+    {
+        "hebrew": "אני מנסה לא להתעכב יותר מדי",
+        "english": "I am trying not to be delayed too much"
+    },
+    {
+        "hebrew": "הוא נראה עייף אחרי יום עבודה ארוך",
+        "english": "He looks tired after a long workday"
+    },
+    {
+        "hebrew": "אני רוצה להתאמן כדי להשתפר",
+        "english": "I want to practice in order to improve"
+    },
+    {
+        "hebrew": "זה שווה את הזמן ואת המאמץ",
+        "english": "It is worth the time and the effort"
+    },
+    {
+        "hebrew": "אנחנו צריכים להחזיר את המסמך למשרד",
+        "english": "We need to return the document to the office"
+    },
+    {
+        "hebrew": "אני רוצה להבין למה זה קרה",
+        "english": "I want to understand why this happened"
+    },
+    {
+        "hebrew": "היא הצליחה להכין מנה ממש טעימה",
+        "english": "She succeeded in making a really tasty dish"
+    },
+    {
+        "hebrew": "אני תוהה אם זה הגיוני או לא",
+        "english": "I wonder if this makes sense or not"
+    },
+    {
+        "hebrew": "אני מתכנן עם עצמי את כל השבוע",
+        "english": "I am planning my whole week by myself"
+    },
+    {
+        "hebrew": "הוא צריך להישאר בבית כי הוא חולה",
+        "english": "He needs to stay home because he is sick"
+    },
+    {
+        "hebrew": "יש להם תוכניות לטוס לחו״ל בקיץ",
+        "english": "They have plans to fly abroad in the summer"
+    },
+    {
+        "hebrew": "אני רוצה לחכות עד שהוא יחזור",
+        "english": "I want to wait until he comes back"
+    },
+    {
+        "hebrew": "היא נראית שמחה יותר מבעבר",
+        "english": "She looks happier than before"
+    },
+    {
+        "hebrew": "אני מתלבט בין שני סוגים של עגלות",
+        "english": "I am undecided between two types of strollers"
+    },
+    {
+        "hebrew": "הוא צריך להשאיר הודעה למטפל",
+        "english": "He needs to leave a message for the therapist"
+    },
+    {
+        "hebrew": "אני רוצה לבחור את הצבעים המתאימים",
+        "english": "I want to choose the appropriate colors"
+    },
+    {
+        "hebrew": "הם רצים כל בוקר כדי לשמור על בריאות",
+        "english": "They run every morning to stay healthy"
+    },
+    {
+        "hebrew": "אנחנו לא רוצים לפספס את הרכבת",
+        "english": "We don't want to miss the train"
+    },
+    {
+        "hebrew": "אני צריך לבדוק את ההבדל בין המוצרים",
+        "english": "I need to check the difference between the products"
+    },
+    {
+        "hebrew": "הוא מנסה להתרחק מהרעש",
+        "english": "He is trying to move away from the noise"
+    },
+    {
+        "hebrew": "אני אוהב לחוות מקומות חדשים",
+        "english": "I love experiencing new places"
+    },
+    {
+        "hebrew": "הם רוצים לשמור על קשר דרך רשת חברתית",
+        "english": "They want to stay in touch through social media"
+    },
+    {
+        "hebrew": "אני מנסה לכתוב תשובה ברורה",
+        "english": "I am trying to write a clear answer"
+    },
+    {
+        "hebrew": "הוא רוצה להוסיף עוד פרטים למסמך",
+        "english": "He wants to add more details to the document"
+    },
+    {
+        "hebrew": "היא מתאמן כדי להשתפר במשחק",
+        "english": "She practices to improve in the game"
+    },
+    {
+        "hebrew": "אני צריך להחליף חולצה כי קר לי",
+        "english": "I need to change my shirt because I am cold"
+    },
+    {
+        "hebrew": "הם צריכים לתת תשובה רשמית",
+        "english": "They need to give an official answer"
+    },
+    {
+        "hebrew": "אני מתכנן לחזור על החומר לפני המבחן",
+        "english": "I plan to review the material before the exam"
+    },
+    {
+        "hebrew": "הוא רוצה ליצור משהו חדש ומיוחד",
+        "english": "He wants to create something new and special"
+    },
+    {
+        "hebrew": "היא מנסה להתקרב למטרה שלה",
+        "english": "She is trying to get closer to her goal"
+    },
+    {
+        "hebrew": "אני מעדיף לסיים את העבודה בלי הפרעות",
+        "english": "I prefer to finish the work without interruptions"
+    },
+    {
+        "hebrew": "אני מקווה שתהיה לנו חוויה מעניינת ומיוחדת",
+        "english": "I hope we will have an interesting and special experience"
+    },
+    {
+        "hebrew": "הוא מנסה להבין איך הם נראים במציאות",
+        "english": "He is trying to understand how they look in reality"
+    },
+    {
+        "hebrew": "אני רוצה לשנות את הכיוון של השיחה",
+        "english": "I want to change the direction of the conversation"
+    },
+    {
+        "hebrew": "היא ביקשה ממני לבדוק את המסמך לפני השליחה",
+        "english": "She asked me to check the document before sending it"
+    },
+    {
+        "hebrew": "אנחנו צריכים להחליט אם לנסוע עכשיו או לחכות",
+        "english": "We need to decide whether to travel now or wait"
+    },
+    {
+        "hebrew": "הוא ניסה להוסיף עוד פרטים אבל זה לא עזר",
+        "english": "He tried to add more details but it did not help"
+    },
+    {
+        "hebrew": "אני רוצה לגלות מקומות חדשים בעיר",
+        "english": "I want to discover new places in the city"
+    },
+    {
+        "hebrew": "הם רוצים להתקרב אחד לשני אחרי הפרידה",
+        "english": "They want to get closer to each other after the breakup"
+    },
+    {
+        "hebrew": "אני צריך להתאמן על הדקדוק שלי",
+        "english": "I need to practice my grammar"
+    },
+    {
+        "hebrew": "הוא מתכנן לנסוע לשם ברכבת",
+        "english": "He is planning to travel there by train"
+    },
+    {
+        "hebrew": "אני תוהה אם הם יצליחו להגיע בזמן",
+        "english": "I wonder if they will manage to arrive on time"
+    },
+    {
+        "hebrew": "אנחנו רוצים לחזור לאותו המקום בשנה הבאה",
+        "english": "We want to return to the same place next year"
+    },
+    {
+        "hebrew": "היא צריכה לנוח כי היא מאוד עייפה",
+        "english": "She needs to rest because she is very tired"
+    },
+    {
+        "hebrew": "אני מנסה להבין את השלבים של התהליך",
+        "english": "I am trying to understand the stages of the process"
+    },
+    {
+        "hebrew": "הם רוצים להוסיף שכבה חדשה של צבע",
+        "english": "They want to add a new layer of paint"
+    },
+    {
+        "hebrew": "אני רוצה לבחור את הצד הנכון",
+        "english": "I want to choose the right side"
+    },
+    {
+        "hebrew": "הוא צריך לסדר את המטבח לפני הביקור",
+        "english": "He needs to tidy the kitchen before the visit"
+    },
+    {
+        "hebrew": "אני רוצה לשמור על הכללים כדי לא להסתבך",
+        "english": "I want to follow the rules so I don't get into trouble"
+    },
+    {
+        "hebrew": "הם מתכננים חופשה קצרה ליד הים",
+        "english": "They are planning a short vacation near the sea"
+    },
+    {
+        "hebrew": "היא רוצה להישאר בבית כי מזג האוויר קר",
+        "english": "She wants to stay home because the weather is cold"
+    },
+    {
+        "hebrew": "אנחנו צריכים לתת תשובה עד מחר בבוקר",
+        "english": "We need to give an answer by tomorrow morning"
+    },
+    {
+        "hebrew": "אני מנסה לתאר את המקום אבל זה קשה",
+        "english": "I am trying to describe the place but it is difficult"
+    },
+    {
+        "hebrew": "הוא לא רוצה להפסיד את ההופעה",
+        "english": "He does not want to miss the performance"
+    },
+    {
+        "hebrew": "אני מתכנן להוסיף תבלינים בשביל הטעם",
+        "english": "I am planning to add spices for the flavor"
+    },
+    {
+        "hebrew": "הם רוצים לחוות משהו חדש יחד",
+        "english": "They want to experience something new together"
+    },
+    {
+        "hebrew": "היא נראית כאילו היא מתלבטת",
+        "english": "She looks like she is unsure"
+    },
+    {
+        "hebrew": "אני רוצה להתקדם למרות הקשיים",
+        "english": "I want to make progress despite the difficulties"
+    },
+    {
+        "hebrew": "הוא מנסה לתפוס את הרעיון המרכזי",
+        "english": "He is trying to grasp the main idea"
+    },
+    {
+        "hebrew": "אנחנו רוצים לשמור על קשר אחרי הנסיעה",
+        "english": "We want to stay in touch after the trip"
+    },
+    {
+        "hebrew": "אני צריך לאשר את הפרטים לפני שאשלח",
+        "english": "I need to confirm the details before I send"
+    },
+    {
+        "hebrew": "היא מתביישת לשאול את השאלה",
+        "english": "She is embarrassed to ask the question"
+    },
+    {
+        "hebrew": "אנחנו רוצים לנסות מתכון חדש",
+        "english": "We want to try a new recipe"
+    },
+    {
+        "hebrew": "הוא צריך לבחור בין שתי מטרות חשובות",
+        "english": "He needs to choose between two important goals"
+    },
+    {
+        "hebrew": "אני מנסה להבין את הכיוון של הרוח",
+        "english": "I am trying to understand the direction of the wind"
+    },
+    {
+        "hebrew": "הם רוצים להתקרב אחד לשני אחרי ויכוח",
+        "english": "They want to get closer to each other after an argument"
+    },
+    {
+        "hebrew": "אני רוצה לכתוב הזמנה לחברים שלי",
+        "english": "I want to write an invitation for my friends"
+    },
+    {
+        "hebrew": "היא צריכה לזכור לקחת את המזוודה",
+        "english": "She needs to remember to take the suitcase"
+    },
+    {
+        "hebrew": "אני מנסה לשפר את הכישורים שלי",
+        "english": "I am trying to improve my skills"
+    },
+    {
+        "hebrew": "הוא רוצה לחקור את האזור לעומק",
+        "english": "He wants to explore the area in depth"
+    },
+    {
+        "hebrew": "אני מחפש מקום עם אווירה רגועה",
+        "english": "I am looking for a place with a calm atmosphere"
+    },
+    {
+        "hebrew": "הם צריכים להחזיר הכל למקום",
+        "english": "They need to return everything to its place"
+    },
+    {
+        "hebrew": "אני רוצה לבחור מתנה מתאימה",
+        "english": "I want to choose an appropriate gift"
+    },
+    {
+        "hebrew": "הוא מתכנן להוסיף שכבת קישוט מעל העוגה",
+        "english": "He is planning to add a decoration layer on top of the cake"
+    },
+    {
+        "hebrew": "אנחנו מנסים להתקרב למטרה של השנה",
+        "english": "We are trying to get closer to the goal of the year"
+    },
+    {
+        "hebrew": "אני צריך לבדוק את המהירות של הרכב",
+        "english": "I need to check the speed of the car"
+    },
+    {
+        "hebrew": "היא רוצה להמשיך ישר בלי לעצור",
+        "english": "She wants to continue straight without stopping"
+    },
+    {
+        "hebrew": "אני תוהה אם הם מתכוונים להגיע מוקדם",
+        "english": "I wonder if they intend to arrive early"
+    },
+    {
+        "hebrew": "הוא רוצה להישאר באזור עוד כמה דקות",
+        "english": "He wants to stay in the area for a few more minutes"
+    },
+    {
+        "hebrew": "אני מנסה ליצור שילוב בין שני רעיונות",
+        "english": "I am trying to create a combination of two ideas"
+    },
+    {
+        "hebrew": "מה אתה עושה היום",
+        "english": "What are you doing today"
+    },
+    {
+        "hebrew": "אני רוצה לשאול אותך משהו",
+        "english": "I want to ask you something"
+    },
+    {
+        "hebrew": "אני צריך לחשוב על זה עוד קצת",
+        "english": "I need to think about it a bit more"
+    },
+    {
+        "hebrew": "אתה יכול לעזור לי בבקשה",
+        "english": "Can you help me please"
+    },
+    {
+        "hebrew": "אני מחכה לתשובה שלך",
+        "english": "I am waiting for your answer"
+    },
+    {
+        "hebrew": "יש לנו הרבה תוכניות לשבוע",
+        "english": "We have many plans for the week"
+    },
+    {
+        "hebrew": "אני צריך להגיע מוקדם לעבודה",
+        "english": "I need to arrive early to work"
+    },
+    {
+        "hebrew": "אני רוצה לשתף אותך במשהו",
+        "english": "I want to share something with you"
+    },
+    {
+        "hebrew": "אפשר לדבר רגע",
+        "english": "Can we talk for a moment"
+    },
+    {
+        "hebrew": "אני עייף ואני צריך לנוח",
+        "english": "I am tired and I need to rest"
+    },
+    {
+        "hebrew": "אני לא מבין מה אתה מתכוון",
+        "english": "I don’t understand what you mean"
+    },
+    {
+        "hebrew": "אני רוצה לחזור הביתה מוקדם",
+        "english": "I want to go back home early"
+    },
+    {
+        "hebrew": "אני מחפש מקום לשבת",
+        "english": "I am looking for a place to sit"
+    },
+    {
+        "hebrew": "אנחנו צריכים לקבוע זמן לפגישה",
+        "english": "We need to set a time for a meeting"
+    },
+    {
+        "hebrew": "אני שמח לראות אותך",
+        "english": "I am happy to see you"
+    },
+    {
+        "hebrew": "אני רוצה לבחור משהו לאכול",
+        "english": "I want to choose something to eat"
+    },
+    {
+        "hebrew": "אתה רוצה לבוא איתי",
+        "english": "Do you want to come with me"
+    },
+    {
+        "hebrew": "אני מנסה להבין את המצב",
+        "english": "I am trying to understand the situation"
+    },
+    {
+        "hebrew": "אני צריך להוסיף עוד מידע",
+        "english": "I need to add more information"
+    },
+    {
+        "hebrew": "אני מעדיף לדבר אחר כך",
+        "english": "I prefer to talk later"
+    },
+    {
+        "hebrew": "אני רוצה שתסביר לי שוב",
+        "english": "I want you to explain it to me again"
+    },
+    {
+        "hebrew": "היום שלי היה ממש עמוס",
+        "english": "My day was really busy"
+    },
+    {
+        "hebrew": "אני עדיין מחכה לו",
+        "english": "I am still waiting for him"
+    },
+    {
+        "hebrew": "אני מנסה לא לשכוח כלום",
+        "english": "I am trying not to forget anything"
+    },
+    {
+        "hebrew": "יש משהו שאתה רוצה לשאול",
+        "english": "Is there something you want to ask"
+    },
+    {
+        "hebrew": "אני צריך להישאר בבית היום",
+        "english": "I need to stay home today"
+    },
+    {
+        "hebrew": "אני רוצה להמשיך לדבר על זה",
+        "english": "I want to continue talking about this"
+    },
+    {
+        "hebrew": "אתה יכול להתקשר אלי מאוחר יותר",
+        "english": "You can call me later"
+    },
+    {
+        "hebrew": "אני רוצה לתכנן את השבוע הבא",
+        "english": "I want to plan next week"
+    },
+    {
+        "hebrew": "אני מתלבט מה לעשות",
+        "english": "I am unsure what to do"
+    },
+    {
+        "hebrew": "אפשר לשבת כאן",
+        "english": "Can I sit here"
+    },
+    {
+        "hebrew": "אני צריך לבדוק את לוח הזמנים",
+        "english": "I need to check the schedule"
+    },
+    {
+        "hebrew": "אתה נראה עייף היום",
+        "english": "You look tired today"
+    },
+    {
+        "hebrew": "אני רוצה לספר לך משהו חשוב",
+        "english": "I want to tell you something important"
+    },
+    {
+        "hebrew": "מה אתה מעדיף לעשות עכשיו",
+        "english": "What do you prefer to do now"
+    },
+    {
+        "hebrew": "אני צריך להחליט בקרוב",
+        "english": "I need to decide soon"
+    },
+    {
+        "hebrew": "אני מנסה לא להפסיד שום דבר חשוב",
+        "english": "I am trying not to miss anything important"
+    },
+    {
+        "hebrew": "אני לא בטוח אם זה רעיון טוב",
+        "english": "I’m not sure if this is a good idea"
+    },
+    {
+        "hebrew": "אנחנו צריכים לדבר על זה ברצינות",
+        "english": "We need to talk about this seriously"
+    },
+    {
+        "hebrew": "אני רוצה לשמור על קשר",
+        "english": "I want to stay in touch"
+    },
+    {
+        "hebrew": "אני אוהב לבלות איתך",
+        "english": "I enjoy spending time with you"
+    },
+    {
+        "hebrew": "יש הרבה דברים שאני צריך לעשות",
+        "english": "There are many things I need to do"
+    },
+    {
+        "hebrew": "אני רוצה להבין מה קורה",
+        "english": "I want to understand what is happening"
+    },
+    {
+        "hebrew": "אתה יכול להסביר לי לאט",
+        "english": "Can you explain to me slowly"
+    },
+    {
+        "hebrew": "אני לא רוצה להתעכב כאן",
+        "english": "I don't want to be delayed here"
+    },
+    {
+        "hebrew": "אני צריך זמן לחשוב",
+        "english": "I need time to think"
+    },
+    {
+        "hebrew": "הוא ביקש ממני לחכות לו",
+        "english": "He asked me to wait for him"
+    },
+    {
+        "hebrew": "אני מנסה לשפר את העברית שלי",
+        "english": "I am trying to improve my Hebrew"
+    },
+    {
+        "hebrew": "אני רוצה לבוא מוקדם מחר",
+        "english": "I want to come early tomorrow"
+    },
+    {
+        "hebrew": "אני צריך להגיע לנתבג מוקדם",
+        "english": "I need to arrive at Ben Gurion Airport early"
+    },
+    {
+        "hebrew": "אני רוצה לקבוע טיסה ישירה",
+        "english": "I want to book a direct flight"
+    },
+    {
+        "hebrew": "יש לי עיכוב בטיסה",
+        "english": "My flight has a delay"
+    },
+    {
+        "hebrew": "אני רוצה לראות את לוח הזמנים של הטיסות",
+        "english": "I want to see the flight schedule"
+    },
+    {
+        "hebrew": "אני מחפש את היעד הפופולרי ביותר",
+        "english": "I am looking for the most popular destination"
+    },
+    {
+        "hebrew": "אני רוצה להזמין חדר במלון",
+        "english": "I want to book a room at the hotel"
+    },
+    {
+        "hebrew": "איפה המקום לשים את המזוודה",
+        "english": "Where is the place to put the suitcase"
+    },
+    {
+        "hebrew": "אני צריך להביא דרכון",
+        "english": "I need to bring a passport"
+    },
+    {
+        "hebrew": "אני רוצה לברוח מהחום ולנסוע לחו״ל",
+        "english": "I want to escape the heat and travel abroad"
+    },
+    {
+        "hebrew": "אני צריך להגיע לשער לפני הזמן",
+        "english": "I need to arrive at the gate ahead of time"
+    },
+    {
+        "hebrew": "איפה תחנת הרכבת הקרובה",
+        "english": "Where is the nearest train station"
+    },
+    {
+        "hebrew": "אני מעדיף לנסוע ברכבת ולא באוטובוס",
+        "english": "I prefer to travel by train and not by bus"
+    },
+    {
+        "hebrew": "אני רוצה לשמור מקום ישיבה ליד החלון",
+        "english": "I want to keep a seat by the window"
+    },
+    {
+        "hebrew": "כמה זמן לוקח להגיע לעיר",
+        "english": "How long does it take to arrive in the city"
+    },
+    {
+        "hebrew": "אני צריך להחליף כסף לפני הנסיעה",
+        "english": "I need to exchange money before the trip"
+    },
+    {
+        "hebrew": "אני רוצה לראות את כל המקומות המיוחדים",
+        "english": "I want to see all the special places"
+    },
+    {
+        "hebrew": "זה שווה לנסוע לשם אפילו רחוק",
+        "english": "It is worth traveling there even if it's far"
+    },
+    {
+        "hebrew": "אני מחכה לרכבת כבר עשר דקות",
+        "english": "I have been waiting for the train for ten minutes"
+    },
+    {
+        "hebrew": "אני רוצה לבחור חדר עם נוף יפה",
+        "english": "I want to choose a room with a beautiful view"
+    },
+    {
+        "hebrew": "אפשר לקבל אישור להזמנה שלי",
+        "english": "Can I get confirmation for my reservation"
+    },
+    {
+        "hebrew": "אני מחפש מקום לנוח קצת",
+        "english": "I am looking for a place to rest a bit"
+    },
+    {
+        "hebrew": "אני צריך להגיע לעיר לפני שקיעה",
+        "english": "I need to arrive in the city before sunset"
+    },
+    {
+        "hebrew": "אני רוצה לחוות משהו חדש בטיול הזה",
+        "english": "I want to experience something new on this trip"
+    },
+    {
+        "hebrew": "אני מנסה להבין איזה כיוון לקחת",
+        "english": "I am trying to understand which direction to take"
+    },
+    {
+        "hebrew": "אני צריך לשמור על המסמכים שלי",
+        "english": "I need to take care of my documents"
+    },
+    {
+        "hebrew": "אני רוצה להישאר במלון עוד לילה",
+        "english": "I want to stay at the hotel for one more night"
+    },
+    {
+        "hebrew": "אני צריך לבדוק את ההבדל בין שני המחירים",
+        "english": "I need to check the difference between the two prices"
+    },
+    {
+        "hebrew": "אני רוצה להתקרב למרכז העיר",
+        "english": "I want to get closer to the city center"
+    },
+    {
+        "hebrew": "אפשר לקבל מפה של האזור",
+        "english": "Can I get a map of the area"
+    },
+    {
+        "hebrew": "אני צריך להחזיר את המפתח לקבלה",
+        "english": "I need to return the key to the front desk"
+    },
+    {
+        "hebrew": "אני מחפש אוכל כשר באזור",
+        "english": "I am looking for kosher food in the area"
+    },
+    {
+        "hebrew": "אני מעדיף להגיע מוקדם כדי לא להתעכב",
+        "english": "I prefer to arrive early so I won’t be delayed"
+    },
+    {
+        "hebrew": "אני צריך לשמור על הזמן כדי לא לפספס את הטיסה",
+        "english": "I need to keep track of time so I won’t miss the flight"
+    },
+    {
+        "hebrew": "אני רוצה לראות את האגם המפורסם",
+        "english": "I want to see the famous lake"
+    },
+    {
+        "hebrew": "זה המקום הנכון לעלות לרכבת",
+        "english": "This is the correct place to board the train"
+    },
+    {
+        "hebrew": "אני מתכנן לחזור הביתה בשבוע הבא",
+        "english": "I am planning to return home next week"
+    },
+    {
+        "hebrew": "אני צריך לנשום אוויר צח אחרי הטיסה",
+        "english": "I need to breathe fresh air after the flight"
+    },
+    {
+        "hebrew": "אני רוצה לקנות מתנה לפני שאני חוזר",
+        "english": "I want to buy a gift before I return"
+    },
+    {
+        "hebrew": "אני מחפש מסעדה עם אווירה נעימה",
+        "english": "I am looking for a restaurant with a pleasant atmosphere"
+    },
+    {
+        "hebrew": "אני רוצה לראות את כל המקומות המעניינים בעיר",
+        "english": "I want to see all the interesting places in the city"
+    },
+    {
+        "hebrew": "אני צריך להישאר בצל כי חם מדי",
+        "english": "I need to stay in the shade because it is too hot"
+    },
+    {
+        "hebrew": "אני רוצה להתקדם במסלול בלי לעצור",
+        "english": "I want to move forward on the route without stopping"
+    },
+    {
+        "hebrew": "אני צריך לאשר את הכרטיסים לפני הכניסה",
+        "english": "I need to confirm the tickets before entering"
+    },
+    {
+        "hebrew": "אני מחפש מקום גבוה לתצפית",
+        "english": "I am looking for a high place for a lookout"
+    },
+    {
+        "hebrew": "אני מעדיף לנסוע מוקדם בבוקר",
+        "english": "I prefer to travel early in the morning"
+    },
+    {
+        "hebrew": "אני צריך לבדוק את המהירות של הרכבת",
+        "english": "I need to check the speed of the train"
+    },
+    {
+        "hebrew": "אני מתכנן לעבור לעיר אחרת בעתיד",
+        "english": "I am planning to move to another city in the future"
+    },
+    {
+        "hebrew": "אני רוצה לראות שקיעה ליד הים",
+        "english": "I want to see the sunset by the sea"
+    },
+    {
+        "hebrew": "אני מחפש חדר עם מרפסת",
+        "english": "I am looking for a room with a balcony"
+    },
+    {
+        "hebrew": "אני רוצה להגיע הביתה כמה שיותר מהר",
+        "english": "I want to get home as fast as possible"
+    },
+    {
+        "hebrew": "אני צריך לקבוע פגישה עם הצוות",
+        "english": "I need to schedule a meeting with the team"
+    },
+    {
+        "hebrew": "אפשר לקבל אישור למהלך הזה",
+        "english": "Can we get approval for this action"
+    },
+    {
+        "hebrew": "אני מנסה להבין את המשימות להיום",
+        "english": "I am trying to understand the tasks for today"
+    },
+    {
+        "hebrew": "אנחנו צריכים לסיים את העבודה לפני הערב",
+        "english": "We need to finish the work before evening"
+    },
+    {
+        "hebrew": "אני רוצה לשמור על הכללים של המשרד",
+        "english": "I want to follow the rules of the office"
+    },
+    {
+        "hebrew": "הוא ביקש ממני לבדוק את המסמך שוב",
+        "english": "He asked me to check the document again"
+    },
+    {
+        "hebrew": "אנחנו צריכים להחליט על כיוון חדש לפרויקט",
+        "english": "We need to decide on a new direction for the project"
+    },
+    {
+        "hebrew": "אני צריך להוסיף עוד פרטים לתוכנית",
+        "english": "I need to add more details to the plan"
+    },
+    {
+        "hebrew": "הם רוצים לשפר את התהליך כדי לחסוך זמן",
+        "english": "They want to improve the process to save time"
+    },
+    {
+        "hebrew": "אני צריך לכתוב הזמנה לפגישה",
+        "english": "I need to write an invitation for the meeting"
+    },
+    {
+        "hebrew": "אפשר להעביר לי את הקובץ בבקשה",
+        "english": "Can you send me the file please"
+    },
+    {
+        "hebrew": "אני רוצה להבין מה המטרה של המשימה",
+        "english": "I want to understand the purpose of the task"
+    },
+    {
+        "hebrew": "אני צריך לסדר את המשרד לפני הביקור",
+        "english": "I need to tidy the office before the visit"
+    },
+    {
+        "hebrew": "אנחנו מתקרבים לדדליין וצריך לעבוד מהר",
+        "english": "We are getting close to the deadline and must work fast"
+    },
+    {
+        "hebrew": "אני צריך זמן לחשוב על ההצעה",
+        "english": "I need time to think about the proposal"
+    },
+    {
+        "hebrew": "אני רוצה לשתף אותך ברעיון חדש",
+        "english": "I want to share a new idea with you"
+    },
+    {
+        "hebrew": "אנחנו צריכים לאשר את התקציב",
+        "english": "We need to approve the budget"
+    },
+    {
+        "hebrew": "אני מנסה להבין איך לשפר את התוצאות",
+        "english": "I am trying to understand how to improve the results"
+    },
+    {
+        "hebrew": "הוא לא רוצה להתעכב על דברים קטנים",
+        "english": "He does not want to get delayed by small things"
+    },
+    {
+        "hebrew": "אני מעדיף לעבוד בלי הפרעות",
+        "english": "I prefer to work without interruptions"
+    },
+    {
+        "hebrew": "אפשר להסביר לי את השלבים של המשימה",
+        "english": "Can you explain the steps of the task to me"
+    },
+    {
+        "hebrew": "אני רוצה לבחור פתרון יותר יעיל",
+        "english": "I want to choose a more efficient solution"
+    },
+    {
+        "hebrew": "אנחנו צריכים להתקדם מהר יותר",
+        "english": "We need to make progress faster"
+    },
+    {
+        "hebrew": "אני רוצה להתכונן היטב לראיון",
+        "english": "I want to prepare well for the interview"
+    },
+    {
+        "hebrew": "אני צריך להחזיר את המסמך בסוף היום",
+        "english": "I need to return the document by the end of the day"
+    },
+    {
+        "hebrew": "אנחנו צריכים לתאם פגישה עם הלקוחות",
+        "english": "We need to coordinate a meeting with the clients"
+    },
+    {
+        "hebrew": "אני מנסה לסיים את העבודה בזמן",
+        "english": "I am trying to finish the work on time"
+    },
+    {
+        "hebrew": "הוא צריך להוסיף מידע חשוב למערכת",
+        "english": "He needs to add important information to the system"
+    },
+    {
+        "hebrew": "אני רוצה לבחור את האנשים המתאימים לצוות",
+        "english": "I want to choose the right people for the team"
+    },
+    {
+        "hebrew": "אנחנו צריכים להגיע להסכמה",
+        "english": "We need to reach an agreement"
+    },
+    {
+        "hebrew": "אני צריך לנוח כדי להמשיך לעבוד טוב",
+        "english": "I need to rest so I can continue working well"
+    },
+    {
+        "hebrew": "אפשר לשלוח לי את הפרטים בכתב",
+        "english": "Can you send me the details in writing"
+    },
+    {
+        "hebrew": "אני רוצה להבין את ההבדל בין שני המסמכים",
+        "english": "I want to understand the difference between the two documents"
+    },
+    {
+        "hebrew": "אנחנו צריכים לבחור כיוון אחד ולהתקדם",
+        "english": "We need to choose one direction and move forward"
+    },
+    {
+        "hebrew": "אני מעדיף לעבוד בשקט במשרד",
+        "english": "I prefer to work quietly in the office"
+    },
+    {
+        "hebrew": "הוא ביקש ממני לחזור אליו עם תשובה",
+        "english": "He asked me to get back to him with an answer"
+    },
+    {
+        "hebrew": "אני מנסה לשמור על סדר בזמנים",
+        "english": "I am trying to keep the timing organized"
+    },
+    {
+        "hebrew": "אנחנו צריכים ליצור תהליך יותר ברור",
+        "english": "We need to create a clearer process"
+    },
+    {
+        "hebrew": "אני צריך להחליט מהי המשימה החשובה ביותר",
+        "english": "I need to decide what the most important task is"
+    },
+    {
+        "hebrew": "אני רוצה להתקדם שלב אחר שלב",
+        "english": "I want to move forward step by step"
+    },
+    {
+        "hebrew": "אנחנו צריכים לשפר את שיתוף הפעולה",
+        "english": "We need to improve the cooperation"
+    },
+    {
+        "hebrew": "אני מחפש פתרון שיתאים לכולם",
+        "english": "I am looking for a solution that fits everyone"
+    },
+    {
+        "hebrew": "אני צריך להוסיף את הנתונים למערכת",
+        "english": "I need to add the data to the system"
+    },
+    {
+        "hebrew": "אנחנו רוצים להגיע לתוצאות טובות יותר",
+        "english": "We want to achieve better results"
+    },
+    {
+        "hebrew": "אני צריך לאשר את הזמנים עם המנהל",
+        "english": "I need to confirm the times with the manager"
+    },
+    {
+        "hebrew": "אנחנו מתכננים פגישה חשובה לשבוע הבא",
+        "english": "We are planning an important meeting for next week"
+    },
+    {
+        "hebrew": "אני רוצה לבחור מטרה ברורה לפרויקט",
+        "english": "I want to choose a clear goal for the project"
+    },
+    {
+        "hebrew": "אני צריך לסיים את הבדיקה לפני הצהריים",
+        "english": "I need to finish the test before noon"
+    },
+    {
+        "hebrew": "אנחנו צריכים לשמור על סדר יום קבוע",
+        "english": "We need to maintain a regular schedule"
+    },
+    {
+        "hebrew": "אני מנסה להבין את המשמעות של ההחלטה",
+        "english": "I am trying to understand the meaning of the decision"
+    }
+]

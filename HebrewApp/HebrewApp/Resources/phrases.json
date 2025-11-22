@@ -1,1194 +1,1492 @@
 [
     {
         "hebrew": "אני רוצה לקבוע פגישה",
-        "english": "I want to schedule a meeting"
+        "english": "I want to schedule a meeting",
+        "construction": "רוצה is the main verb 'want' followed by the infinitive לקבוע 'to schedule/set'; פגישה is the noun 'meeting'. Same pattern as English 'want to + verb'."
     },
     {
         "hebrew": "אני מסכים איתך",
-        "english": "I agree with you"
+        "english": "I agree with you",
+        "construction": "מסכים is the verb 'agree' (from להסכים) and איתך is 'with you'. Main elements: מסכים + איתך 'agree with you'."
     },
     {
         "hebrew": "אני מעדיף לשבת מול החלון",
-        "english": "I prefer to sit in front of the window"
+        "english": "I prefer to sit in front of the window",
+        "construction": "מעדיף is the verb 'prefer' followed by the infinitive לשבת 'to sit'; מול החלון literally 'in front of the window'. Structure: מעדיף + infinitive + location phrase."
     },
     {
         "hebrew": "המלחמה נגמרה סוף סוף",
-        "english": "The war is finally over"
+        "english": "The war is finally over",
+        "construction": "המלחמה is the noun 'the war'; נגמרה is a passive past form 'ended/was finished'; סוף סוף is an adverbial 'finally'."
     },
     {
         "hebrew": "אני מתגעגע אליך",
-        "english": "I miss you"
+        "english": "I miss you",
+        "construction": "מתגעגע is the verb 'to miss/long for'; אליך is 'to you'. The pattern is מתגעגע ל/אל + someone, unlike English which uses a direct object 'miss you'."
     },
     {
         "hebrew": "שנינו רוצים יותר זמן חופש",
-        "english": "Both of us want more time off"
+        "english": "Both of us want more time off",
+        "construction": "שנינו is 'both of us'; רוצים is plural 'want'; יותר זמן חופש literally 'more time of freedom' = 'more time off'."
     },
     {
         "hebrew": "אין קשר בין הדברים",
-        "english": "There is no connection between the things"
+        "english": "There is no connection between the things",
+        "construction": "אין קשר is 'there is no connection'; בין הדברים 'between the things'. Main noun phrase: קשר 'connection' with בין 'between'."
     },
     {
         "hebrew": "אני רוצה להכין חביתה",
-        "english": "I want to make an omelette"
+        "english": "I want to make an omelette",
+        "construction": "רוצה 'want' + infinitive להכין 'to prepare/make'; חביתה is the noun 'omelette'. Same pattern as English 'want to make'."
     },
     {
         "hebrew": "אני צריך לבדוק את זה",
-        "english": "I need to check this"
+        "english": "I need to check this",
+        "construction": "צריך is 'need (to)'; לבדוק is the infinitive 'to check'; את זה is the object 'this'. Pattern: צריך + infinitive."
     },
     {
         "hebrew": "אני חייב לזכור את זה",
-        "english": "I must remember this"
+        "english": "I must remember this",
+        "construction": "חייב expresses obligation 'must'; לזכור is 'to remember'; את זה is 'this' as the object. Structure: חייב + infinitive."
     },
     {
         "hebrew": "אני מנסה לא לשכוח",
-        "english": "I am trying not to forget"
+        "english": "I am trying not to forget",
+        "construction": "מנסה is 'trying'; לא לשכוח is 'not to forget' (negated infinitive). Pattern: מנסה + infinitive phrase."
     },
     {
         "hebrew": "אנחנו מבשלים יחד רוב הזמן",
-        "english": "We cook together most of the time"
+        "english": "We cook together most of the time",
+        "construction": "מבשלים is the main verb 'cook'; יחד 'together'; רוב הזמן 'most of the time'."
     },
     {
         "hebrew": "אני מחכה לתשובה שלך",
-        "english": "I am waiting for your answer"
+        "english": "I am waiting for your answer",
+        "construction": "מחכה is 'wait'; לתשובה שלך is 'for your answer'. Verb pattern: לחכות ל־ + something, while English uses 'wait for'."
     },
     {
         "hebrew": "אני מעדיף מזג אוויר קריר",
-        "english": "I prefer cool weather"
+        "english": "I prefer cool weather",
+        "construction": "מעדיף is 'prefer'; מזג אוויר is the noun phrase 'weather'; קריר is the adjective 'cool' modifying מזג אוויר."
     },
     {
         "hebrew": "אני רוצה להכיר מקומות חדשים",
-        "english": "I want to get to know new places"
+        "english": "I want to get to know new places",
+        "construction": "רוצה 'want' + infinitive להכיר 'to get to know/meet'; מקומות חדשים is 'new places' (noun + adjective)."
     },
     {
         "hebrew": "אני צריך יום חופש",
-        "english": "I need a day off"
+        "english": "I need a day off",
+        "construction": "צריך is 'need'; יום חופש literally 'day of freedom' = 'day off'."
     },
     {
         "hebrew": "אני עובד יותר מדי",
-        "english": "I work too much"
+        "english": "I work too much",
+        "construction": "עובד is the verb 'work'; יותר מדי is 'too much'."
     },
     {
         "hebrew": "אני רוצה ללמוד מדעי המחשב",
-        "english": "I want to study computer science"
+        "english": "I want to study computer science",
+        "construction": "רוצה 'want' + infinitive ללמוד 'to study/learn'; מדעי המחשב is the noun phrase 'computer science'."
     },
     {
         "hebrew": "זה נשמע מעניין",
-        "english": "That sounds interesting"
+        "english": "That sounds interesting",
+        "construction": "זה is 'that/this'; נשמע is a passive form 'is heard/sounds'; מעניין is adjective 'interesting'. Pattern: subject + נשמע + adjective."
     },
     {
         "hebrew": "אני מפחד מגבהים",
-        "english": "I am afraid of heights"
+        "english": "I am afraid of heights",
+        "construction": "מפחד is 'afraid'; מגבהים literally 'from heights'. Verb pattern: לפחד מ־ + something, while English uses 'afraid of'."
     },
     {
         "hebrew": "אני מחכה לידידה שלי",
-        "english": "I am waiting for my female friend"
+        "english": "I am waiting for my female friend",
+        "construction": "מחכה 'wait'; לידידה שלי is 'for my (female) friend'. Pattern: לחכות ל־ + person, whereas English uses 'wait for'."
     },
     {
         "hebrew": "הוא לימד אותי הרבה",
-        "english": "He taught me a lot"
+        "english": "He taught me a lot",
+        "construction": "לימד is past of 'teach'; אותי is 'me' as object; הרבה 'a lot'."
     },
     {
         "hebrew": "אני רוצה לנסוע לאנגליה",
-        "english": "I want to travel to England"
+        "english": "I want to travel to England",
+        "construction": "רוצה 'want' + infinitive לנסוע 'to travel/go (by vehicle)'; לאנגליה is 'to England' with preposition ל־."
     },
     {
         "hebrew": "יש לי כאב בטן",
-        "english": "I have a stomachache"
+        "english": "I have a stomachache",
+        "construction": "יש לי is the possessive 'I have'; כאב בטן literally 'pain of belly' = 'stomachache'."
     },
     {
         "hebrew": "אני צריך להוסיף קצת סוכר",
-        "english": "I need to add a bit of sugar"
+        "english": "I need to add a bit of sugar",
+        "construction": "צריך 'need'; להוסיף is infinitive 'to add'; קצת סוכר 'a bit of sugar'."
     },
     {
         "hebrew": "אני לא רוצה להפסיד שום דבר",
-        "english": "I don't want to miss anything"
+        "english": "I don't want to miss anything",
+        "construction": "לא רוצה is 'do not want'; להפסיד is 'to lose/miss out on'; שום דבר 'anything/anything at all'."
     },
     {
         "hebrew": "אני רוצה לתכנן את היום",
-        "english": "I want to plan the day"
+        "english": "I want to plan the day",
+        "construction": "רוצה 'want' + לתכנן 'to plan'; את היום is 'the day' as direct object."
     },
     {
         "hebrew": "אני אוהב אומנות מופשטת",
-        "english": "I love abstract art"
+        "english": "I love abstract art",
+        "construction": "אוהב is 'love/like'; אומנות מופשטת 'abstract art' (noun + adjective)."
     },
     {
         "hebrew": "הרבה זמן לא נפגשנו",
-        "english": "We haven’t met for a long time"
+        "english": "We haven’t met for a long time",
+        "construction": "הרבה זמן 'a long time'; לא נפגשנו literally 'we did not meet'. Word order emphasizes the time phrase first."
     },
     {
         "hebrew": "אני צריך לקנות מתנה",
-        "english": "I need to buy a gift"
+        "english": "I need to buy a gift",
+        "construction": "צריך 'need'; לקנות is 'to buy'; מתנה 'gift'. Pattern: צריך + infinitive."
     },
     {
         "hebrew": "אני רוצה לתאר משהו",
-        "english": "I want to describe something"
+        "english": "I want to describe something",
+        "construction": "רוצה 'want'; לתאר 'to describe'; משהו 'something'."
     },
     {
         "hebrew": "אני צריך לנוח קצת",
-        "english": "I need to rest a little"
+        "english": "I need to rest a little",
+        "construction": "צריך 'need'; לנוח 'to rest'; קצת 'a bit'."
     },
     {
         "hebrew": "זה נשמע הגיוני",
-        "english": "That sounds logical"
+        "english": "That sounds logical",
+        "construction": "זה 'that/this'; נשמע 'sounds'; הגיוני is adjective 'logical/reasonable'. Same pattern as 'sounds reasonable'."
     },
     {
         "hebrew": "אני רוצה להמשיך ישר",
-        "english": "I want to continue straight"
+        "english": "I want to continue straight",
+        "construction": "רוצה 'want'; להמשיך 'to continue'; ישר 'straight' describing direction."
     },
     {
         "hebrew": "אני מתאמן כל יום",
-        "english": "I practice every day"
+        "english": "I practice every day",
+        "construction": "מתאמן is reflexive 'practice/train'; כל יום 'every day'. Verb often used for physical or skill practice."
     },
     {
         "hebrew": "אני מנסה לשפר את העברית שלי",
-        "english": "I am trying to improve my Hebrew"
+        "english": "I am trying to improve my Hebrew",
+        "construction": "מנסה 'trying'; לשפר 'to improve'; את העברית שלי 'my Hebrew' as object. Pattern: מנסה + infinitive."
     },
     {
         "hebrew": "אני צריך להחליט בקרוב",
-        "english": "I need to decide soon"
+        "english": "I need to decide soon",
+        "construction": "צריך 'need'; להחליט is 'to decide'; בקרוב 'soon'."
     },
     {
         "hebrew": "אני רוצה לענות על השאלה",
-        "english": "I want to answer the question"
+        "english": "I want to answer the question",
+        "construction": "רוצה 'want'; לענות is 'to answer'; על השאלה literally 'on the question'. Verb pattern: לענות על־ something, whereas English uses 'answer the question' without a preposition."
     },
     {
         "hebrew": "אני אוהב לשחק משחקים",
-        "english": "I like to play games"
+        "english": "I like to play games",
+        "construction": "אוהב is 'like/love'; לשחק 'to play'; משחקים 'games' as object."
     },
     {
         "hebrew": "אני מחפש מסמך חשוב",
-        "english": "I am looking for an important document"
+        "english": "I am looking for an important document",
+        "construction": "מחפש is 'looking/searching'; מסמך חשוב 'important document' (noun + adjective). Hebrew does not need a preposition directly after מחפש like English 'for'."
     },
     {
         "hebrew": "אני רוצה לעשות קניות",
-        "english": "I want to do some shopping"
+        "english": "I want to do some shopping",
+        "construction": "רוצה 'want'; לעשות קניות literally 'to do shopping'. קניות is the noun 'shopping/purchases'."
     },
     {
         "hebrew": "אני צריך להביא את המזוודה",
-        "english": "I need to bring the suitcase"
+        "english": "I need to bring the suitcase",
+        "construction": "צריך 'need'; להביא 'to bring'; את המזוודה 'the suitcase' as object."
     },
     {
         "hebrew": "אני רוצה לכתוב משהו",
-        "english": "I want to write something"
+        "english": "I want to write something",
+        "construction": "רוצה 'want'; לכתוב 'to write'; משהו 'something'."
     },
     {
         "hebrew": "אני צריך להתאמן יותר",
-        "english": "I need to practice more"
+        "english": "I need to practice more",
+        "construction": "צריך 'need'; להתאמן 'to practice/train (oneself)'; יותר 'more'."
     },
     {
         "hebrew": "אני מעדיף ללכת ברגל",
-        "english": "I prefer to walk"
+        "english": "I prefer to walk",
+        "construction": "מעדיף 'prefer'; ללכת ברגל literally 'to go on foot', the standard phrase for 'to walk (as transportation)'."
     },
     {
         "hebrew": "אני רוצה לחזור הביתה",
-        "english": "I want to go back home"
+        "english": "I want to go back home",
+        "construction": "רוצה 'want'; לחזור 'to return/go back'; הביתה is the directional form 'home(ward)'."
     },
     {
         "hebrew": "אני תוהה מה יקרה",
-        "english": "I wonder what will happen"
+        "english": "I wonder what will happen",
+        "construction": "תוהה is the verb 'wonder'; מה יקרה 'what will happen'. The wondering is expressed by the verb itself, no extra 'if' or preposition needed."
     },
     {
         "hebrew": "אני רוצה להשוות בין האפשרויות",
-        "english": "I want to compare the options"
+        "english": "I want to compare the options",
+        "construction": "רוצה 'want'; להשוות 'to compare'; בין האפשרויות literally 'between the options'. Verb pattern: להשוות בין X לבין Y 'compare between', while English often omits a preposition after 'compare'."
     },
     {
         "hebrew": "אני צריך לקבל אישור",
-        "english": "I need to get approval"
+        "english": "I need to get approval",
+        "construction": "צריך 'need'; לקבל 'to receive/get'; אישור 'approval/authorization'."
     },
     {
         "hebrew": "אני רוצה לחכות עוד קצת",
-        "english": "I want to wait a bit more"
+        "english": "I want to wait a bit more",
+        "construction": "רוצה 'want'; לחכות 'to wait'; עוד קצת 'a bit more'. If an object is added, verb takes ל־: לחכות ל־something = 'wait for'."
     },
     {
         "hebrew": "אני מנסה להסביר את המשמעות של המילה",
-        "english": "I am trying to explain the meaning of the word"
+        "english": "I am trying to explain the meaning of the word",
+        "construction": "מנסה 'trying'; להסביר 'to explain'; את המשמעות 'the meaning' as object; של המילה 'of the word' attached to המשמעות."
     },
     {
         "hebrew": "הוא ביקש ממני לשמור על הכללים",
-        "english": "He asked me to follow the rules"
+        "english": "He asked me to follow the rules",
+        "construction": "ביקש ממני is 'asked from me' = 'asked me'; לשמור על הכללים literally 'to keep/guard on the rules'. Verb pattern: לשמור על־ 'to keep/maintain', used here where English says 'follow the rules'."
     },
     {
         "hebrew": "אנחנו צריכים לתכנן את היום בעבודה",
-        "english": "We need to plan the day at work"
+        "english": "We need to plan the day at work",
+        "construction": "צריכים 'need (to)'; לתכנן 'to plan'; את היום 'the day' as object; בעבודה 'at work/in work' is a location phrase."
     },
     {
         "hebrew": "אני מקווה שהמזג אוויר ישתנה בקרוב",
-        "english": "I hope the weather will change soon"
+        "english": "I hope the weather will change soon",
+        "construction": "מקווה is the verb 'hope'; שהמזג אוויר ישתנה is a clause 'that the weather will change'; בקרוב 'soon'."
     },
     {
         "hebrew": "המנה הזאת יותר מדי מלוחה בשבילי",
-        "english": "This dish is too salty for me"
+        "english": "This dish is too salty for me",
+        "construction": "המנה הזאת 'this dish'; יותר מדי מלוחה 'too salty'; בשבילי 'for me'. בשביל introduces 'for (someone)' in the sense of 'too X for me'."
     },
     {
         "hebrew": "הוא ניסה לברוח אבל לא הצליח",
-        "english": "He tried to escape but did not succeed"
+        "english": "He tried to escape but did not succeed",
+        "construction": "ניסה 'tried'; לברוח 'to escape/run away'; לא הצליח 'did not succeed'. Two coordinated clauses with אבל 'but'."
     },
     {
         "hebrew": "הם רוצים לבחור את אותם המקומות שוב",
-        "english": "They want to choose the same places again"
+        "english": "They want to choose the same places again",
+        "construction": "רוצים 'want'; לבחור 'to choose'; את אותם המקומות 'the same places'; שוב 'again'."
     },
     {
         "hebrew": "אנחנו צריכים להגיע לשם מהר יותר",
-        "english": "We need to get there faster"
+        "english": "We need to get there faster",
+        "construction": "צריכים 'need (to)'; להגיע לשם 'to arrive/get there'; מהר יותר 'faster'. Verb להגיע regularly takes ל־ 'to'."
     },
     {
         "hebrew": "אני מעדיף לחקור את האזור לפני שאני מחליט",
-        "english": "I prefer to explore the area before I decide"
+        "english": "I prefer to explore the area before I decide",
+        "construction": "מעדיף 'prefer'; לחקור 'to explore/investigate'; את האזור 'the area' as object; לפני שאני מחליט 'before I decide' is a subordinate time clause."
     },
     {
         "hebrew": "הוא מפחד מהצל ולכן הוא לא יוצא החוצה",
-        "english": "He is afraid of the shade, so he does not go outside"
+        "english": "He is afraid of the shade, so he does not go outside",
+        "construction": "מפחד is 'is afraid'; מהצל literally 'from the shade'. Verb pattern: לפחד מ־ + something (afraid of X), using the preposition מ־ 'from', unlike English 'afraid of'. יוצא החוצה is 'goes out / goes outside'."
     },
     {
         "hebrew": "אני מנסה לשנות כמה הרגלים ישנים",
-        "english": "I am trying to change some old habits"
+        "english": "I am trying to change some old habits",
+        "construction": "מנסה is 'trying'; לשנות is 'to change'; כמה הרגלים ישנים is 'some old habits' (noun הרגלים + adjective ישנים). Pattern: מנסה + infinitive."
     },
     {
         "hebrew": "הוא הגיע באיחור בגלל עיכוב ברכבת",
-        "english": "He arrived late because of a delay in the train"
+        "english": "He arrived late because of a delay in the train",
+        "construction": "הגיע is 'arrived'; באיחור 'late/with delay'; בגלל עיכוב 'because of a delay'; ברכבת 'on/by the train'."
     },
     {
         "hebrew": "הם צריכים להישאר כאן עד הערב",
-        "english": "They need to stay here until the evening"
+        "english": "They need to stay here until the evening",
+        "construction": "צריכים is 'need (to)'; להישאר is 'to stay/remain'; כאן 'here'; עד הערב 'until the evening'."
     },
     {
         "hebrew": "אני רוצה להוסיף שכבה נוספת של קרם",
-        "english": "I want to add another layer of cream"
+        "english": "I want to add another layer of cream",
+        "construction": "רוצה 'want'; להוסיף 'to add'; שכבה נוספת 'another/additional layer'; של קרם 'of cream'."
     },
     {
         "hebrew": "הוא אמר שהעלילה בסדרה מאוד מעניינת",
-        "english": "He said the plot of the series is very interesting"
+        "english": "He said the plot of the series is very interesting",
+        "construction": "אמר is 'said'; שהעלילה בסדרה מאוד מעניינת is a clause 'that the plot in the series is very interesting'. העלילה 'the plot'; מעניינת 'interesting' (adjective agreeing with a feminine noun)."
     },
     {
         "hebrew": "הם מתכוננים למבחן כבר שבוע",
-        "english": "They have been preparing for the exam for a week"
+        "english": "They have been preparing for the exam for a week",
+        "construction": "מתכוננים is reflexive 'prepare (themselves)'; למבחן 'for the exam' with ל־; כבר שבוע 'for a week already'. Verb pattern: להתכונן ל־ + thing, similar to 'prepare for'."
     },
     {
         "hebrew": "אני מתבייש לדבר מול הרבה אנשים",
-        "english": "I am embarrassed to speak in front of many people"
+        "english": "I am embarrassed to speak in front of many people",
+        "construction": "מתבייש is 'am embarrassed/ashamed'; לדבר 'to speak'; מול הרבה אנשים literally 'in front of many people'."
     },
     {
         "hebrew": "אני צריך לבחור בין שתי אפשרויות קשות",
-        "english": "I need to choose between two difficult options"
+        "english": "I need to choose between two difficult options",
+        "construction": "צריך 'need (to)'; לבחור 'to choose'; בין שתי אפשרויות קשות 'between two difficult options'. Verb pattern: לבחור בין X ל־Y 'choose between', like English."
     },
     {
         "hebrew": "הוא ניסה להסביר אבל אף אחד לא הקשיב",
-        "english": "He tried to explain but nobody listened"
+        "english": "He tried to explain but nobody listened",
+        "construction": "ניסה 'tried'; להסביר 'to explain'; אף אחד לא הקשיב 'nobody listened'. הקשיב is 'listened' and usually takes ל־: להקשיב ל־someone/something."
     },
     {
         "hebrew": "אני מנסה לא להתעכב יותר מדי",
-        "english": "I am trying not to be delayed too much"
+        "english": "I am trying not to be delayed too much",
+        "construction": "מנסה 'trying'; לא להתעכב is 'not to be delayed/linger'; יותר מדי 'too much'. Verb להתעכב often used for 'be held up / linger'."
     },
     {
         "hebrew": "הוא נראה עייף אחרי יום עבודה ארוך",
-        "english": "He looks tired after a long workday"
+        "english": "He looks tired after a long workday",
+        "construction": "נראה is 'looks/appears'; עייף 'tired'; אחרי יום עבודה ארוך 'after a long workday'."
     },
     {
         "hebrew": "אני רוצה להתאמן כדי להשתפר",
-        "english": "I want to practice in order to improve"
+        "english": "I want to practice in order to improve",
+        "construction": "רוצה 'want'; להתאמן 'to practice/train'; כדי להשתפר 'in order to improve' (reflexive verb להשתפר). Pattern: כדי + infinitive expresses purpose."
     },
     {
         "hebrew": "זה שווה את הזמן ואת המאמץ",
-        "english": "It is worth the time and the effort"
+        "english": "It is worth the time and the effort",
+        "construction": "שווה is adjective/verb 'worth'; את הזמן ואת המאמץ literally 'the time and the effort' marked as objects with את."
     },
     {
         "hebrew": "אנחנו צריכים להחזיר את המסמך למשרד",
-        "english": "We need to return the document to the office"
+        "english": "We need to return the document to the office",
+        "construction": "צריכים 'need (to)'; להחזיר 'to return/give back'; את המסמך 'the document'; למשרד 'to the office' with ל־."
     },
     {
         "hebrew": "אני רוצה להבין למה זה קרה",
-        "english": "I want to understand why this happened"
+        "english": "I want to understand why this happened",
+        "construction": "רוצה 'want'; להבין 'to understand'; למה זה קרה 'why this happened' is a subordinate clause."
     },
     {
         "hebrew": "היא הצליחה להכין מנה ממש טעימה",
-        "english": "She succeeded in making a really tasty dish"
+        "english": "She succeeded in making a really tasty dish",
+        "construction": "הצליחה is 'succeeded'; להכין 'to prepare/make'; מנה ממש טעימה 'a really tasty dish'. להצליח + infinitive = 'succeed in doing'."
     },
     {
         "hebrew": "אני תוהה אם זה הגיוני או לא",
-        "english": "I wonder if this makes sense or not"
+        "english": "I wonder if this makes sense or not",
+        "construction": "תוהה is 'wonder'; אם זה הגיוני או לא 'if this is logical or not'. הגיוני is 'logical/makes sense'."
     },
     {
         "hebrew": "אני מתכנן עם עצמי את כל השבוע",
-        "english": "I am planning my whole week by myself"
+        "english": "I am planning my whole week by myself",
+        "construction": "מתכנן is 'planning'; עם עצמי literally 'with myself' meaning 'by myself'; את כל השבוע 'the whole week' as object of planning."
     },
     {
         "hebrew": "הוא צריך להישאר בבית כי הוא חולה",
-        "english": "He needs to stay home because he is sick"
+        "english": "He needs to stay home because he is sick",
+        "construction": "צריך 'needs (to)'; להישאר בבית 'to stay at home'; כי הוא חולה 'because he is sick'."
     },
     {
         "hebrew": "יש להם תוכניות לטוס לחו״ל בקיץ",
-        "english": "They have plans to fly abroad in the summer"
+        "english": "They have plans to fly abroad in the summer",
+        "construction": "יש להם 'they have'; תוכניות 'plans'; לטוס לחו״ל 'to fly abroad' using לטוס; בקיץ 'in the summer'."
     },
     {
         "hebrew": "אני רוצה לחכות עד שהוא יחזור",
-        "english": "I want to wait until he comes back"
+        "english": "I want to wait until he comes back",
+        "construction": "רוצה 'want'; לחכות 'to wait'; עד שהוא יחזור 'until he returns'. Verb לחכות usually takes ל־ with an object (לחכות לו 'wait for him'), but here it's followed by a clause with עד."
     },
     {
         "hebrew": "היא נראית שמחה יותר מבעבר",
-        "english": "She looks happier than before"
+        "english": "She looks happier than before",
+        "construction": "נראית is 'looks/appears' (feminine); שמחה יותר 'happier'; מבעבר 'than before'."
     },
     {
         "hebrew": "אני מתלבט בין שני סוגים של עגלות",
-        "english": "I am undecided between two types of strollers"
+        "english": "I am undecided between two types of strollers",
+        "construction": "מתלבט is 'am undecided/hesitating'; בין שני סוגים 'between two types'; של עגלות 'of strollers'. Verb pattern: להתלבט בין X ל־Y 'be torn between'."
     },
     {
         "hebrew": "הוא צריך להשאיר הודעה למטפל",
-        "english": "He needs to leave a message for the therapist"
+        "english": "He needs to leave a message for the therapist",
+        "construction": "צריך 'needs (to)'; להשאיר 'to leave'; הודעה 'a message'; למטפל 'for the therapist' with ל־."
     },
     {
         "hebrew": "אני רוצה לבחור את הצבעים המתאימים",
-        "english": "I want to choose the appropriate colors"
+        "english": "I want to choose the appropriate colors",
+        "construction": "רוצה 'want'; לבחור 'to choose'; את הצבעים המתאימים 'the appropriate colors' (noun + adjective)."
     },
     {
         "hebrew": "הם רצים כל בוקר כדי לשמור על בריאות",
-        "english": "They run every morning to stay healthy"
+        "english": "They run every morning to stay healthy",
+        "construction": "רצים is 'run'; כל בוקר 'every morning'; כדי לשמור על בריאות literally 'in order to keep on health'. Verb לשמור על־ 'to keep/maintain' plus noun בריאות 'health'."
     },
     {
         "hebrew": "אנחנו לא רוצים לפספס את הרכבת",
-        "english": "We don't want to miss the train"
+        "english": "We don't want to miss the train",
+        "construction": "לא רוצים 'do not want'; לפספס 'to miss'; את הרכבת 'the train' as object."
     },
     {
         "hebrew": "אני צריך לבדוק את ההבדל בין המוצרים",
-        "english": "I need to check the difference between the products"
+        "english": "I need to check the difference between the products",
+        "construction": "צריך 'need'; לבדוק 'to check'; את ההבדל 'the difference'; בין המוצרים 'between the products'."
     },
     {
         "hebrew": "הוא מנסה להתרחק מהרעש",
-        "english": "He is trying to move away from the noise"
+        "english": "He is trying to move away from the noise",
+        "construction": "מנסה 'trying'; להתרחק 'to move away/keep distance'; מהרעש 'from the noise' with מ־. Verb pattern: להתרחק מ־ + something."
     },
     {
         "hebrew": "אני אוהב לחוות מקומות חדשים",
-        "english": "I love experiencing new places"
+        "english": "I love experiencing new places",
+        "construction": "אוהב 'love/like'; לחוות 'to experience'; מקומות חדשים 'new places' (noun + adjective)."
     },
     {
         "hebrew": "הם רוצים לשמור על קשר דרך רשת חברתית",
-        "english": "They want to stay in touch through social media"
+        "english": "They want to stay in touch through social media",
+        "construction": "רוצים 'want'; לשמור על קשר literally 'to keep on connection' = 'stay in touch'; דרך רשת חברתית 'through a social network/social media'. שוב לשמור על־ 'keep/maintain'."
     },
     {
         "hebrew": "אני מנסה לכתוב תשובה ברורה",
-        "english": "I am trying to write a clear answer"
+        "english": "I am trying to write a clear answer",
+        "construction": "מנסה 'trying'; לכתוב 'to write'; תשובה ברורה 'a clear answer' (noun + adjective)."
     },
     {
         "hebrew": "הוא רוצה להוסיף עוד פרטים למסמך",
-        "english": "He wants to add more details to the document"
+        "english": "He wants to add more details to the document",
+        "construction": "רוצה 'wants'; להוסיף 'to add'; עוד פרטים 'more details'; למסמך 'to the document' with ל־."
     },
     {
         "hebrew": "היא מתאמן כדי להשתפר במשחק",
-        "english": "She practices to improve in the game"
+        "english": "She practices to improve in the game",
+        "construction": "מתאמן (grammatically should be מתאמנת for feminine) is 'practices/trains'; כדי להשתפר 'in order to improve'; במשחק 'in the game'. Verb להתאמן is 'to practice/train (oneself)'."
     },
     {
         "hebrew": "אני צריך להחליף חולצה כי קר לי",
-        "english": "I need to change my shirt because I am cold"
+        "english": "I need to change my shirt because I am cold",
+        "construction": "צריך 'need (to)'; להחליף חולצה 'to change a shirt'; כי קר לי 'because I am cold' (literally 'cold to me')."
     },
     {
         "hebrew": "הם צריכים לתת תשובה רשמית",
-        "english": "They need to give an official answer"
+        "english": "They need to give an official answer",
+        "construction": "צריכים 'need (to)'; לתת 'to give'; תשובה רשמית 'an official answer' (noun + adjective)."
     },
     {
         "hebrew": "אני מתכנן לחזור על החומר לפני המבחן",
-        "english": "I plan to review the material before the exam"
+        "english": "I plan to review the material before the exam",
+        "construction": "מתכנן 'plan(ning)'; לחזור על החומר literally 'to go back over the material' = 'review'; לפני המבחן 'before the exam'. Verb לחזור על־ means 'review' (not just 'return')."
     },
     {
         "hebrew": "הוא רוצה ליצור משהו חדש ומיוחד",
-        "english": "He wants to create something new and special"
+        "english": "He wants to create something new and special",
+        "construction": "רוצה 'wants'; ליצור 'to create'; משהו חדש ומיוחד 'something new and special' with two adjectives."
     },
     {
         "hebrew": "היא מנסה להתקרב למטרה שלה",
-        "english": "She is trying to get closer to her goal"
+        "english": "She is trying to get closer to her goal",
+        "construction": "מנסה 'trying'; להתקרב 'to get closer/approach'; למטרה שלה 'to her goal' with ל־. Verb pattern: להתקרב ל־ + something."
     },
     {
         "hebrew": "אני מעדיף לסיים את העבודה בלי הפרעות",
-        "english": "I prefer to finish the work without interruptions"
+        "english": "I prefer to finish the work without interruptions",
+        "construction": "מעדיף 'prefer'; לסיים 'to finish'; את העבודה 'the work'; בלי הפרעות 'without interruptions'."
     },
     {
         "hebrew": "אני מקווה שתהיה לנו חוויה מעניינת ומיוחדת",
-        "english": "I hope we will have an interesting and special experience"
+        "english": "I hope we will have an interesting and special experience",
+        "construction": "מקווה 'hope'; שתהיה לנו חוויה is 'that we will have an experience' (literally 'that there will be to us an experience'); מעניינת ומיוחדת are adjectives 'interesting and special' agreeing with חוויה."
     },
     {
         "hebrew": "הוא מנסה להבין איך הם נראים במציאות",
-        "english": "He is trying to understand how they look in reality"
+        "english": "He is trying to understand how they look in reality",
+        "construction": "מנסה 'trying'; להבין 'to understand'; איך הם נראים 'how they look/appear'; במציאות 'in reality'."
     },
     {
         "hebrew": "אני רוצה לשנות את הכיוון של השיחה",
-        "english": "I want to change the direction of the conversation"
+        "english": "I want to change the direction of the conversation",
+        "construction": "רוצה 'want'; לשנות 'to change'; את הכיוון 'the direction'; של השיחה 'of the conversation'."
     },
     {
         "hebrew": "היא ביקשה ממני לבדוק את המסמך לפני השליחה",
-        "english": "She asked me to check the document before sending it"
+        "english": "She asked me to check the document before sending it",
+        "construction": "ביקשה ממני 'asked from me' = 'asked me'; לבדוק 'to check'; את המסמך 'the document'; לפני השליחה 'before the sending'. Again ביקשה מ־ + person is 'ask someone'."
     },
     {
         "hebrew": "אנחנו צריכים להחליט אם לנסוע עכשיו או לחכות",
-        "english": "We need to decide whether to travel now or wait"
+        "english": "We need to decide whether to travel now or wait",
+        "construction": "צריכים 'need (to)'; להחליט 'to decide'; אם לנסוע עכשיו או לחכות 'whether to travel now or wait'. לנסוע 'to travel/go by vehicle'; לחכות 'to wait'."
     },
     {
         "hebrew": "הוא ניסה להוסיף עוד פרטים אבל זה לא עזר",
-        "english": "He tried to add more details but it did not help"
+        "english": "He tried to add more details but it did not help",
+        "construction": "ניסה 'tried'; להוסיף עוד פרטים 'to add more details'; אבל זה לא עזר 'but it did not help'. עזר is 'helped'."
     },
     {
         "hebrew": "אני רוצה לגלות מקומות חדשים בעיר",
-        "english": "I want to discover new places in the city"
+        "english": "I want to discover new places in the city",
+        "construction": "רוצה 'want'; לגלות 'to discover'; מקומות חדשים 'new places'; בעיר 'in the city'."
     },
     {
         "hebrew": "הם רוצים להתקרב אחד לשני אחרי הפרידה",
-        "english": "They want to get closer to each other after the breakup"
+        "english": "They want to get closer to each other after the breakup",
+        "construction": "רוצים 'want'; להתקרב 'to get closer'; אחד לשני literally 'one to the other' = 'to each other'; אחרי הפרידה 'after the breakup'. Verb להתקרב again with ל־."
     },
     {
         "hebrew": "אני צריך להתאמן על הדקדוק שלי",
-        "english": "I need to practice my grammar"
+        "english": "I need to practice my grammar",
+        "construction": "צריך 'need (to)'; להתאמן על הדקדוק שלי literally 'to practice on my grammar'. Verb pattern: להתאמן על־ something (practice a specific thing)."
     },
     {
         "hebrew": "הוא מתכנן לנסוע לשם ברכבת",
-        "english": "He is planning to travel there by train"
+        "english": "He is planning to travel there by train",
+        "construction": "מתכנן 'planning'; לנסוע לשם 'to travel/go there'; ברכבת 'by train' with ב־."
     },
     {
         "hebrew": "אני תוהה אם הם יצליחו להגיע בזמן",
-        "english": "I wonder if they will manage to arrive on time"
+        "english": "I wonder if they will manage to arrive on time",
+        "construction": "תוהה 'wonder'; אם הם יצליחו להגיע בזמן 'if they will succeed to arrive on time'. יצליחו is future of להצליח; להגיע 'to arrive'; בזמן 'on time/in time'."
     },
     {
         "hebrew": "אנחנו רוצים לחזור לאותו המקום בשנה הבאה",
-        "english": "We want to return to the same place next year"
+        "english": "We want to return to the same place next year",
+        "construction": "רוצים 'want'; לחזור 'to return'; לאותו המקום 'to the same place'; בשנה הבאה 'next year' (literally 'in the coming year')."
     },
     {
         "hebrew": "היא צריכה לנוח כי היא מאוד עייפה",
-        "english": "She needs to rest because she is very tired"
+        "english": "She needs to rest because she is very tired",
+        "construction": "צריכה 'needs (to)' feminine; לנוח 'to rest'; כי היא מאוד עייפה 'because she is very tired'."
     },
     {
         "hebrew": "אני מנסה להבין את השלבים של התהליך",
-        "english": "I am trying to understand the stages of the process"
+        "english": "I am trying to understand the stages of the process",
+        "construction": "מנסה 'trying'; להבין 'to understand'; את השלבים 'the stages'; של התהליך 'of the process'."
     },
     {
         "hebrew": "הם רוצים להוסיף שכבה חדשה של צבע",
-        "english": "They want to add a new layer of paint"
+        "english": "They want to add a new layer of paint",
+        "construction": "רוצים 'want'; להוסיף 'to add'; שכבה חדשה 'a new layer'; של צבע 'of paint'."
     },
     {
         "hebrew": "אני רוצה לבחור את הצד הנכון",
-        "english": "I want to choose the right side"
+        "english": "I want to choose the right side",
+        "construction": "רוצה 'want'; לבחור 'to choose'; את הצד הנכון 'the right/correct side'."
     },
     {
         "hebrew": "הוא צריך לסדר את המטבח לפני הביקור",
-        "english": "He needs to tidy the kitchen before the visit"
+        "english": "He needs to tidy the kitchen before the visit",
+        "construction": "צריך 'needs (to)'; לסדר 'to tidy/arrange'; את המטבח 'the kitchen'; לפני הביקור 'before the visit'."
     },
     {
         "hebrew": "אני רוצה לשמור על הכללים כדי לא להסתבך",
-        "english": "I want to follow the rules so I don't get into trouble"
+        "english": "I want to follow the rules so I don't get into trouble",
+        "construction": "רוצה 'want'; לשמור על הכללים literally 'to keep/maintain on the rules' = 'follow the rules'; כדי לא להסתבך 'so as not to get into trouble', where להסתבך is 'to get involved/get into trouble'. Again לשמור על־ shows verb + על rather than an English preposition like 'follow'."
     },
     {
         "hebrew": "הם מתכננים חופשה קצרה ליד הים",
-        "english": "They are planning a short vacation near the sea"
+        "english": "They are planning a short vacation near the sea",
+        "construction": "מתכננים 'planning'; חופשה קצרה 'a short vacation'; ליד הים 'near the sea' with ליד 'near'."
     },
     {
         "hebrew": "היא רוצה להישאר בבית כי מזג האוויר קר",
-        "english": "She wants to stay home because the weather is cold"
+        "english": "She wants to stay home because the weather is cold",
+        "construction": "רוצה 'wants'; להישאר בבית 'to stay at home'; כי מזג האוויר קר 'because the weather is cold'. מזג האוויר is the noun phrase 'weather'."
     },
     {
         "hebrew": "אנחנו צריכים לתת תשובה עד מחר בבוקר",
-        "english": "We need to give an answer by tomorrow morning"
+        "english": "We need to give an answer by tomorrow morning",
+        "construction": "צריכים 'need (to)'; לתת תשובה 'to give an answer'; עד מחר בבוקר 'by/until tomorrow morning'."
     },
     {
         "hebrew": "אני מנסה לתאר את המקום אבל זה קשה",
-        "english": "I am trying to describe the place but it is difficult"
+        "english": "I am trying to describe the place but it is difficult",
+        "construction": "מנסה 'trying'; לתאר 'to describe'; את המקום 'the place'; אבל זה קשה 'but it is difficult'."
     },
     {
         "hebrew": "הוא לא רוצה להפסיד את ההופעה",
-        "english": "He does not want to miss the performance"
+        "english": "He does not want to miss the performance",
+        "construction": "לא רוצה 'does not want'; להפסיד 'to miss/lose out on'; את ההופעה 'the performance' as object."
     },
     {
         "hebrew": "אני מתכנן להוסיף תבלינים בשביל הטעם",
-        "english": "I am planning to add spices for the flavor"
+        "english": "I am planning to add spices for the flavor",
+        "construction": "מתכנן 'planning'; להוסיף תבלינים 'to add spices'; בשביל הטעם 'for the flavor'. בשביל 'for' in the sense of purpose/benefit."
     },
     {
         "hebrew": "הם רוצים לחוות משהו חדש יחד",
-        "english": "They want to experience something new together"
+        "english": "They want to experience something new together",
+        "construction": "רוצים 'want'; לחוות 'to experience'; משהו חדש 'something new'; יחד 'together'."
     },
     {
         "hebrew": "היא נראית כאילו היא מתלבטת",
-        "english": "She looks like she is unsure"
+        "english": "She looks like she is unsure",
+        "construction": "נראית 'looks/appears'; כאילו היא מתלבטת 'as if she is undecided'. מתלבטת is feminine of 'be undecided/hesitate'."
     },
     {
         "hebrew": "אני רוצה להתקדם למרות הקשיים",
-        "english": "I want to make progress despite the difficulties"
+        "english": "I want to make progress despite the difficulties",
+        "construction": "רוצה 'want'; להתקדם 'to progress/move forward'; למרות הקשיים 'despite the difficulties' with למרות 'despite'."
     },
     {
         "hebrew": "הוא מנסה לתפוס את הרעיון המרכזי",
-        "english": "He is trying to grasp the main idea"
+        "english": "He is trying to grasp the main idea",
+        "construction": "מנסה 'trying'; לתפוס 'to grasp/catch'; את הרעיון המרכזי 'the main idea'."
     },
     {
         "hebrew": "אנחנו רוצים לשמור על קשר אחרי הנסיעה",
-        "english": "We want to stay in touch after the trip"
+        "english": "We want to stay in touch after the trip",
+        "construction": "רוצים 'want'; לשמור על קשר 'to keep on connection' = 'stay in touch'; אחרי הנסיעה 'after the trip'. Again verb לשמור with על־."
     },
     {
         "hebrew": "אני צריך לאשר את הפרטים לפני שאשלח",
-        "english": "I need to confirm the details before I send"
+        "english": "I need to confirm the details before I send",
+        "construction": "צריך 'need (to)'; לאשר 'to confirm/approve'; את הפרטים 'the details'; לפני שאשלח 'before I send' (future form אשלח)."
     },
     {
         "hebrew": "היא מתביישת לשאול את השאלה",
-        "english": "She is embarrassed to ask the question"
+        "english": "She is embarrassed to ask the question",
+        "construction": "מתביישת is feminine 'is embarrassed/ashamed'; לשאול 'to ask'; את השאלה 'the question' as object."
     },
     {
         "hebrew": "אנחנו רוצים לנסות מתכון חדש",
-        "english": "We want to try a new recipe"
+        "english": "We want to try a new recipe",
+        "construction": "רוצים 'want'; לנסות 'to try'; מתכון חדש 'a new recipe'."
     },
     {
         "hebrew": "הוא צריך לבחור בין שתי מטרות חשובות",
-        "english": "He needs to choose between two important goals"
+        "english": "He needs to choose between two important goals",
+        "construction": "צריך 'needs (to)'; לבחור 'to choose'; בין שתי מטרות חשובות 'between two important goals'. בין again with 'between'."
     },
     {
         "hebrew": "אני מנסה להבין את הכיוון של הרוח",
-        "english": "I am trying to understand the direction of the wind"
+        "english": "I am trying to understand the direction of the wind",
+        "construction": "מנסה 'trying'; להבין 'to understand'; את הכיוון 'the direction'; של הרוח 'of the wind'."
     },
     {
         "hebrew": "הם רוצים להתקרב אחד לשני אחרי ויכוח",
-        "english": "They want to get closer to each other after an argument"
+        "english": "They want to get closer to each other after an argument",
+        "construction": "רוצים 'want'; להתקרב 'to get closer'; אחד לשני 'one to the other' = 'to each other'; אחרי ויכוח 'after an argument'."
     },
     {
         "hebrew": "אני רוצה לכתוב הזמנה לחברים שלי",
-        "english": "I want to write an invitation for my friends"
+        "english": "I want to write an invitation for my friends",
+        "construction": "רוצה 'want'; לכתוב 'to write'; הזמנה 'an invitation'; לחברים שלי 'for my friends' with ל־."
     },
     {
         "hebrew": "היא צריכה לזכור לקחת את המזוודה",
-        "english": "She needs to remember to take the suitcase"
+        "english": "She needs to remember to take the suitcase",
+        "construction": "צריכה 'needs (to)' feminine; לזכור 'to remember'; לקחת את המזוודה 'to take the suitcase'."
     },
     {
         "hebrew": "אני מנסה לשפר את הכישורים שלי",
-        "english": "I am trying to improve my skills"
+        "english": "I am trying to improve my skills",
+        "construction": "מנסה 'trying'; לשפר 'to improve'; את הכישורים שלי 'my skills' as object phrase."
     },
     {
         "hebrew": "הוא רוצה לחקור את האזור לעומק",
-        "english": "He wants to explore the area in depth"
+        "english": "He wants to explore the area in depth",
+        "construction": "רוצה 'wants'; לחקור 'to explore/investigate'; את האזור 'the area'; לעומק 'in depth' (literally 'to-depth')."
     },
     {
         "hebrew": "אני מחפש מקום עם אווירה רגועה",
-        "english": "I am looking for a place with a calm atmosphere"
+        "english": "I am looking for a place with a calm atmosphere",
+        "construction": "מחפש 'looking/searching'; מקום עם אווירה רגועה 'a place with a calm atmosphere'. Again no preposition after מחפש like 'for'; the 'for' is understood."
     },
     {
         "hebrew": "הם צריכים להחזיר הכל למקום",
-        "english": "They need to return everything to its place"
+        "english": "They need to return everything to its place",
+        "construction": "צריכים 'need (to)'; להחזיר 'to return/put back'; הכל 'everything'; למקום 'to (its) place'."
     },
     {
         "hebrew": "אני רוצה לבחור מתנה מתאימה",
-        "english": "I want to choose an appropriate gift"
+        "english": "I want to choose an appropriate gift",
+        "construction": "רוצה 'want'; לבחור 'to choose'; מתנה מתאימה 'an appropriate gift'."
     },
     {
         "hebrew": "הוא מתכנן להוסיף שכבת קישוט מעל העוגה",
-        "english": "He is planning to add a decoration layer on top of the cake"
+        "english": "He is planning to add a decoration layer on top of the cake",
+        "construction": "מתכנן 'planning'; להוסיף 'to add'; שכבת קישוט 'a decoration layer'; מעל העוגה 'above/on top of the cake' with מעל."
     },
     {
         "hebrew": "אנחנו מנסים להתקרב למטרה של השנה",
-        "english": "We are trying to get closer to the goal of the year"
+        "english": "We are trying to get closer to the goal of the year",
+        "construction": "מנסים 'trying'; להתקרב 'to get closer'; למטרה של השנה 'to the goal of the year' with ל־. Same verb pattern להתקרב ל־."
     },
     {
         "hebrew": "אני צריך לבדוק את המהירות של הרכב",
-        "english": "I need to check the speed of the car"
+        "english": "I need to check the speed of the car",
+        "construction": "צריך 'need'; לבדוק 'to check'; את המהירות 'the speed'; של הרכב 'of the car'."
     },
     {
         "hebrew": "היא רוצה להמשיך ישר בלי לעצור",
-        "english": "She wants to continue straight without stopping"
+        "english": "She wants to continue straight without stopping",
+        "construction": "רוצה 'wants'; להמשיך ישר 'to continue straight'; בלי לעצור 'without stopping'."
     },
     {
         "hebrew": "אני תוהה אם הם מתכוונים להגיע מוקדם",
-        "english": "I wonder if they intend to arrive early"
+        "english": "I wonder if they intend to arrive early",
+        "construction": "תוהה 'wonder'; אם הם מתכוונים להגיע מוקדם 'if they intend to arrive early'. מתכוונים is 'intend'; להגיע 'to arrive'."
     },
     {
         "hebrew": "הוא רוצה להישאר באזור עוד כמה דקות",
-        "english": "He wants to stay in the area for a few more minutes"
+        "english": "He wants to stay in the area for a few more minutes",
+        "construction": "רוצה 'wants'; להישאר באזור 'to stay in the area'; עוד כמה דקות 'a few more minutes'."
     },
     {
         "hebrew": "אני מנסה ליצור שילוב בין שני רעיונות",
-        "english": "I am trying to create a combination of two ideas"
+        "english": "I am trying to create a combination of two ideas",
+        "construction": "מנסה 'trying'; ליצור 'to create'; שילוב בין שני רעיונות 'a combination between two ideas'. Verb ליצור is 'create/form'."
     },
     {
         "hebrew": "מה אתה עושה היום",
-        "english": "What are you doing today"
+        "english": "What are you doing today",
+        "construction": "עושה is the main verb 'do/are doing'; היום 'today' is the time expression. Informal question without a question mark in Hebrew text here but structure is standard."
     },
     {
         "hebrew": "אני רוצה לשאול אותך משהו",
-        "english": "I want to ask you something"
+        "english": "I want to ask you something",
+        "construction": "רוצה 'want'; לשאול 'to ask'; אותך 'you' as object; משהו 'something'."
     },
     {
         "hebrew": "אני צריך לחשוב על זה עוד קצת",
-        "english": "I need to think about it a bit more"
+        "english": "I need to think about it a bit more",
+        "construction": "צריך 'need'; לחשוב 'to think'; על זה 'about it' with על. Verb לחשוב על־ 'think about', similar to English."
     },
     {
         "hebrew": "אתה יכול לעזור לי בבקשה",
-        "english": "Can you help me please"
+        "english": "Can you help me please",
+        "construction": "יכול 'can'; לעזור לי 'to help me' with ל־; בבקשה 'please'. Verb לעזור ל־ + person = 'help someone'."
     },
     {
         "hebrew": "אני מחכה לתשובה שלך",
-        "english": "I am waiting for your answer"
+        "english": "I am waiting for your answer",
+        "construction": "מחכה 'waiting'; לתשובה שלך 'for your answer' with ל־. Pattern: לחכות ל־ + object (different from English 'wait for')."
     },
     {
         "hebrew": "יש לנו הרבה תוכניות לשבוע",
-        "english": "We have many plans for the week"
+        "english": "We have many plans for the week",
+        "construction": "יש לנו 'we have'; הרבה תוכניות 'many plans'; לשבוע 'for the week' (literally 'to the week') with ל־ marking time span."
     },
     {
         "hebrew": "אני צריך להגיע מוקדם לעבודה",
-        "english": "I need to arrive early to work"
+        "english": "I need to arrive early to work",
+        "construction": "צריך 'need (to)'; להגיע מוקדם 'to arrive early'; לעבודה 'to work' with ל־. Verb להגיע ל־ + place."
     },
     {
         "hebrew": "אני רוצה לשתף אותך במשהו",
-        "english": "I want to share something with you"
+        "english": "I want to share something with you",
+        "construction": "רוצה 'want'; לשתף אותך במשהו literally 'to share you in something'. Verb לשתף מישהו במשהו uses direct object (אותך) + preposition ב־ for the thing shared; different from English 'share something with you'."
     },
     {
         "hebrew": "אפשר לדבר רגע",
-        "english": "Can we talk for a moment"
+        "english": "Can we talk for a moment",
+        "construction": "אפשר introduces possibility/permission 'is it possible/can (we)'; לדבר 'to talk'; רגע 'a moment'. The subject 'we' is implied."
     },
     {
         "hebrew": "אני עייף ואני צריך לנוח",
-        "english": "I am tired and I need to rest"
+        "english": "I am tired and I need to rest",
+        "construction": "עייף is the adjective 'tired'; צריך לנוח 'need to rest' with צריך + infinitive לנוח."
     },
     {
         "hebrew": "אני לא מבין מה אתה מתכוון",
-        "english": "I don’t understand what you mean"
+        "english": "I don’t understand what you mean",
+        "construction": "לא מבין is 'do not understand' (verb להבין 'to understand'); מה אתה מתכוון literally 'what you intend/mean', where מתכוון is 'intend/mean' (from להתכוון). English uses 'mean' directly; Hebrew uses a verb 'intend'."
     },
     {
         "hebrew": "אני רוצה לחזור הביתה מוקדם",
-        "english": "I want to go back home early"
+        "english": "I want to go back home early",
+        "construction": "רוצה is 'want'; לחזור 'to return/go back'; הביתה is the directional form 'home(ward)'; מוקדם 'early'. Structure: רוצה + infinitive + time adverb."
     },
     {
         "hebrew": "אני מחפש מקום לשבת",
-        "english": "I am looking for a place to sit"
+        "english": "I am looking for a place to sit",
+        "construction": "מחפש is 'am looking/searching'; מקום לשבת literally 'a place to sit', where לשבת is an infinitive functioning like 'to sit'. Hebrew does not need a preposition after מחפש, unlike English 'look for'."
     },
     {
         "hebrew": "אנחנו צריכים לקבוע זמן לפגישה",
-        "english": "We need to set a time for a meeting"
+        "english": "We need to set a time for a meeting",
+        "construction": "צריכים is 'need (to)'; לקבוע 'to set/fix/schedule'; זמן לפגישה 'time for a meeting', with ל־ marking 'for'."
     },
     {
         "hebrew": "אני שמח לראות אותך",
-        "english": "I am happy to see you"
+        "english": "I am happy to see you",
+        "construction": "שמח is adjective 'happy'; לראות 'to see'; אותך 'you' as object. Pattern: adjective (שמח) + infinitive phrase expressing the cause."
     },
     {
         "hebrew": "אני רוצה לבחור משהו לאכול",
-        "english": "I want to choose something to eat"
+        "english": "I want to choose something to eat",
+        "construction": "רוצה 'want'; לבחור 'to choose'; משהו לאכול 'something to eat', with לאכול as infinitive describing משהו."
     },
     {
         "hebrew": "אתה רוצה לבוא איתי",
-        "english": "Do you want to come with me"
+        "english": "Do you want to come with me",
+        "construction": "רוצה 'want'; לבוא 'to come'; איתי 'with me'. Same basic pattern as English 'want to come with me'."
     },
     {
         "hebrew": "אני מנסה להבין את המצב",
-        "english": "I am trying to understand the situation"
+        "english": "I am trying to understand the situation",
+        "construction": "מנסה is 'trying'; להבין 'to understand'; את המצב 'the situation' as direct object. Pattern: מנסה + infinitive."
     },
     {
         "hebrew": "אני צריך להוסיף עוד מידע",
-        "english": "I need to add more information"
+        "english": "I need to add more information",
+        "construction": "צריך 'need (to)'; להוסיף 'to add'; עוד מידע 'more information'."
     },
     {
         "hebrew": "אני מעדיף לדבר אחר כך",
-        "english": "I prefer to talk later"
+        "english": "I prefer to talk later",
+        "construction": "מעדיף 'prefer'; לדבר 'to speak/talk'; אחר כך 'later'."
     },
     {
         "hebrew": "אני רוצה שתסביר לי שוב",
-        "english": "I want you to explain it to me again"
+        "english": "I want you to explain it to me again",
+        "construction": "רוצה introduces a 'ש־' clause: שתסביר לי 'that you explain to me'. תסביר is future form used here as 'you will explain' = 'you explain'; לי 'to me' with ל־; שוב 'again'."
     },
     {
         "hebrew": "היום שלי היה ממש עמוס",
-        "english": "My day was really busy"
+        "english": "My day was really busy",
+        "construction": "היום שלי 'my day'; היה עמוס 'was busy/loaded'; עמוס is adjective 'busy/crowded'."
     },
     {
         "hebrew": "אני עדיין מחכה לו",
-        "english": "I am still waiting for him"
+        "english": "I am still waiting for him",
+        "construction": "עדיין 'still'; מחכה לו 'waiting for him', where לו is 'to him'. Verb לחכות takes ל־: לחכות ל־someone, unlike English 'wait for'."
     },
     {
         "hebrew": "אני מנסה לא לשכוח כלום",
-        "english": "I am trying not to forget anything"
+        "english": "I am trying not to forget anything",
+        "construction": "מנסה 'trying'; לא לשכוח 'not to forget' (negated infinitive); כלום 'anything/nothing'."
     },
     {
         "hebrew": "יש משהו שאתה רוצה לשאול",
-        "english": "Is there something you want to ask"
+        "english": "Is there something you want to ask",
+        "construction": "יש משהו 'there is something'; שאתה רוצה לשאול 'that you want to ask', with רוצה + לשאול 'to ask'."
     },
     {
         "hebrew": "אני צריך להישאר בבית היום",
-        "english": "I need to stay home today"
+        "english": "I need to stay home today",
+        "construction": "צריך 'need (to)'; להישאר 'to stay/remain'; בבית 'at home/in the house'; היום 'today'."
     },
     {
         "hebrew": "אני רוצה להמשיך לדבר על זה",
-        "english": "I want to continue talking about this"
+        "english": "I want to continue talking about this",
+        "construction": "רוצה 'want'; להמשיך לדבר 'to continue talking'; על זה 'about this' with על. Verb לדבר על־ 'talk about' uses על, like 'about'."
     },
     {
         "hebrew": "אתה יכול להתקשר אלי מאוחר יותר",
-        "english": "You can call me later"
+        "english": "You can call me later",
+        "construction": "יכול 'can'; להתקשר אלי 'to call me', literally 'to call to me', with אלי from אל + אני; מאוחר יותר 'later'. Verb pattern: להתקשר ל־/אל־ + person, different from English 'call someone' without preposition."
     },
     {
         "hebrew": "אני רוצה לתכנן את השבוע הבא",
-        "english": "I want to plan next week"
+        "english": "I want to plan next week",
+        "construction": "רוצה 'want'; לתכנן 'to plan'; את השבוע הבא 'next week' as direct object (literally 'the coming week')."
     },
     {
         "hebrew": "אני מתלבט מה לעשות",
-        "english": "I am unsure what to do"
+        "english": "I am unsure what to do",
+        "construction": "מתלבט is reflexive 'am hesitating/undecided'; מה לעשות 'what to do' with infinitive לעשות. Verb להתלבט describes internal uncertainty."
     },
     {
         "hebrew": "אפשר לשבת כאן",
-        "english": "Can I sit here"
+        "english": "Can I sit here",
+        "construction": "אפשר 'is it possible/can (one)'; לשבת 'to sit'; כאן 'here'. Impersonal structure; subject 'I/we' is understood from context."
     },
     {
         "hebrew": "אני צריך לבדוק את לוח הזמנים",
-        "english": "I need to check the schedule"
+        "english": "I need to check the schedule",
+        "construction": "צריך 'need (to)'; לבדוק 'to check'; את לוח הזמנים literally 'the timetable', used for 'schedule'."
     },
     {
         "hebrew": "אתה נראה עייף היום",
-        "english": "You look tired today"
+        "english": "You look tired today",
+        "construction": "נראה is 'look/appear'; עייף 'tired'; היום 'today'. Pattern: subject + נראה + adjective."
     },
     {
         "hebrew": "אני רוצה לספר לך משהו חשוב",
-        "english": "I want to tell you something important"
+        "english": "I want to tell you something important",
+        "construction": "רוצה 'want'; לספר לך 'to tell you', with לספר ל־ + person; משהו חשוב 'something important'."
     },
     {
         "hebrew": "מה אתה מעדיף לעשות עכשיו",
-        "english": "What do you prefer to do now"
+        "english": "What do you prefer to do now",
+        "construction": "מעדיף is 'prefer'; לעשות 'to do'; עכשיו 'now'. Question word מה 'what' at the beginning, but verb structure is the same."
     },
     {
         "hebrew": "אני צריך להחליט בקרוב",
-        "english": "I need to decide soon"
+        "english": "I need to decide soon",
+        "construction": "צריך 'need (to)'; להחליט 'to decide'; בקרוב 'soon' (literally 'in the near [time]')."
     },
     {
         "hebrew": "אני מנסה לא להפסיד שום דבר חשוב",
-        "english": "I am trying not to miss anything important"
+        "english": "I am trying not to miss anything important",
+        "construction": "מנסה 'trying'; לא להפסיד 'not to miss/lose out on'; שום דבר חשוב 'anything important'. Verb להפסיד covers both 'lose' and 'miss out on'."
     },
     {
         "hebrew": "אני לא בטוח אם זה רעיון טוב",
-        "english": "I’m not sure if this is a good idea"
+        "english": "I’m not sure if this is a good idea",
+        "construction": "לא בטוח is adjective phrase 'not sure'; אם זה רעיון טוב 'if this is a good idea'; רעיון 'idea'; טוב 'good'."
     },
     {
         "hebrew": "אנחנו צריכים לדבר על זה ברצינות",
-        "english": "We need to talk about this seriously"
+        "english": "We need to talk about this seriously",
+        "construction": "צריכים 'need (to)'; לדבר על זה 'to talk about this' with על; ברצינות 'seriously/in seriousness'."
     },
     {
         "hebrew": "אני רוצה לשמור על קשר",
-        "english": "I want to stay in touch"
+        "english": "I want to stay in touch",
+        "construction": "רוצה 'want'; לשמור על קשר literally 'to keep/maintain on connection' = 'stay in touch'. Verb לשמור with על־ here is different from English 'stay in touch' with no preposition on 'touch'."
     },
     {
         "hebrew": "אני אוהב לבלות איתך",
-        "english": "I enjoy spending time with you"
+        "english": "I enjoy spending time with you",
+        "construction": "אוהב 'like/love'; לבלות 'to spend time/hang out'; איתך 'with you'. לבלות is the verb specifically for 'spend leisure time'."
     },
     {
         "hebrew": "יש הרבה דברים שאני צריך לעשות",
-        "english": "There are many things I need to do"
+        "english": "There are many things I need to do",
+        "construction": "יש הרבה דברים 'there are many things'; שאני צריך לעשות 'that I need to do', with צריך + infinitive לעשות."
     },
     {
         "hebrew": "אני רוצה להבין מה קורה",
-        "english": "I want to understand what is happening"
+        "english": "I want to understand what is happening",
+        "construction": "רוצה 'want'; להבין 'to understand'; מה קורה 'what is happening/going on'."
     },
     {
         "hebrew": "אתה יכול להסביר לי לאט",
-        "english": "Can you explain to me slowly"
+        "english": "Can you explain to me slowly",
+        "construction": "יכול 'can'; להסביר לי 'to explain to me', with ל־ marking indirect object; לאט 'slowly'. Verb להסביר takes a direct object (the thing explained) and indirect object with ל־."
     },
     {
         "hebrew": "אני לא רוצה להתעכב כאן",
-        "english": "I don't want to be delayed here"
+        "english": "I don't want to be delayed here",
+        "construction": "לא רוצה 'do not want'; להתעכב 'to be delayed/linger'; כאן 'here'. להתעכב is reflexive, used for being held up or lingering."
     },
     {
         "hebrew": "אני צריך זמן לחשוב",
-        "english": "I need time to think"
+        "english": "I need time to think",
+        "construction": "צריך זמן 'need time'; לחשוב 'to think'. Infinitive functions as purpose: time for thinking."
     },
     {
         "hebrew": "הוא ביקש ממני לחכות לו",
-        "english": "He asked me to wait for him"
+        "english": "He asked me to wait for him",
+        "construction": "ביקש ממני literally 'asked from me' = 'asked me'; לחכות לו 'to wait for him', with לו from ל־ + הוא. Verb לחכות takes ל־, so 'wait for him' is לחכות לו, unlike English which uses 'for'."
     },
     {
         "hebrew": "אני מנסה לשפר את העברית שלי",
-        "english": "I am trying to improve my Hebrew"
+        "english": "I am trying to improve my Hebrew",
+        "construction": "מנסה 'trying'; לשפר 'to improve'; את העברית שלי 'my Hebrew' as direct object. Same pattern as before with לשפר."
     },
     {
         "hebrew": "אני רוצה לבוא מוקדם מחר",
-        "english": "I want to come early tomorrow"
+        "english": "I want to come early tomorrow",
+        "construction": "רוצה 'want'; לבוא 'to come'; מוקדם מחר 'early tomorrow' (adverb + time expression)."
     },
     {
         "hebrew": "אני צריך להגיע לנתבג מוקדם",
-        "english": "I need to arrive at Ben Gurion Airport early"
+        "english": "I need to arrive at Ben Gurion Airport early",
+        "construction": "צריך 'need (to)'; להגיע לנתבג 'to arrive at Ben Gurion Airport' with ל־; מוקדם 'early'. Verb להגיע + ל־ + place."
     },
     {
         "hebrew": "אני רוצה לקבוע טיסה ישירה",
-        "english": "I want to book a direct flight"
+        "english": "I want to book a direct flight",
+        "construction": "רוצה 'want'; לקבוע 'to set/fix', used here like 'book/schedule'; טיסה ישירה 'a direct flight' (noun + adjective)."
     },
     {
         "hebrew": "יש לי עיכוב בטיסה",
-        "english": "My flight has a delay"
+        "english": "My flight has a delay",
+        "construction": "יש לי 'I have'; עיכוב בטיסה 'delay in the flight', with ב־ marking 'in/during'. עיכוב is noun 'delay'."
     },
     {
         "hebrew": "אני רוצה לראות את לוח הזמנים של הטיסות",
-        "english": "I want to see the flight schedule"
+        "english": "I want to see the flight schedule",
+        "construction": "רוצה 'want'; לראות 'to see'; את לוח הזמנים 'the schedule'; של הטיסות 'of the flights'."
     },
     {
         "hebrew": "אני מחפש את היעד הפופולרי ביותר",
-        "english": "I am looking for the most popular destination"
+        "english": "I am looking for the most popular destination",
+        "construction": "מחפש 'am looking/searching'; את היעד 'the destination'; הפופולרי ביותר 'the most popular'. Again no preposition after מחפש, unlike 'looking for'."
     },
     {
         "hebrew": "אני רוצה להזמין חדר במלון",
-        "english": "I want to book a room at the hotel"
+        "english": "I want to book a room at the hotel",
+        "construction": "רוצה 'want'; להזמין 'to order/book/reserve'; חדר במלון 'a room in/at the hotel' with ב־ marking location."
     },
     {
         "hebrew": "איפה המקום לשים את המזוודה",
-        "english": "Where is the place to put the suitcase"
+        "english": "Where is the place to put the suitcase",
+        "construction": "איפה 'where'; המקום לשים 'the place to put', with לשים 'to put'; את המזוודה 'the suitcase' as object. Infinitive לשים attached to מקום describes its function."
     },
     {
         "hebrew": "אני צריך להביא דרכון",
-        "english": "I need to bring a passport"
+        "english": "I need to bring a passport",
+        "construction": "צריך 'need (to)'; להביא 'to bring'; דרכון 'passport'."
     },
     {
         "hebrew": "אני רוצה לברוח מהחום ולנסוע לחו״ל",
-        "english": "I want to escape the heat and travel abroad"
+        "english": "I want to escape the heat and travel abroad",
+        "construction": "רוצה 'want'; לברוח מהחום 'to run away/escape from the heat', with מ־ 'from', whereas English often just says 'escape the heat'; ולנסוע לחו״ל 'and to travel abroad', לנסוע 'travel/go (by transport)' + לחו״ל literally 'to abroad' (ל + חוץ לארץ)."
     },
     {
         "hebrew": "אני צריך להגיע לשער לפני הזמן",
-        "english": "I need to arrive at the gate ahead of time"
+        "english": "I need to arrive at the gate ahead of time",
+        "construction": "צריך 'need (to)'; להגיע לשער 'to arrive at the gate' with ל־; לפני הזמן literally 'before the time' = 'ahead of time/early'."
     },
     {
         "hebrew": "איפה תחנת הרכבת הקרובה",
-        "english": "Where is the nearest train station"
+        "english": "Where is the nearest train station",
+        "construction": "איפה 'where'; תחנת הרכבת 'the train station' (noun + genitive); הקרובה 'the nearest/closest' adjective agreeing with תחנה. Whole phrase is a noun phrase used as predicate: 'where [is] the nearest train station?'."
     },
     {
         "hebrew": "אני מעדיף לנסוע ברכבת ולא באוטובוס",
-        "english": "I prefer to travel by train and not by bus"
+        "english": "I prefer to travel by train and not by bus",
+        "construction": "מעדיף is 'prefer'; לנסוע 'to travel/go (by transportation)'; ברכבת 'by train' with ב־; ולא באוטובוס 'and not by bus'. Hebrew uses ב־ for transportation means."
     },
     {
         "hebrew": "אני רוצה לשמור מקום ישיבה ליד החלון",
-        "english": "I want to keep a seat by the window"
+        "english": "I want to keep a seat by the window",
+        "construction": "רוצה 'want'; לשמור מקום ישיבה 'to keep/reserve a seat' (literally 'keep seat of seating'); ליד החלון 'near the window' with ליד 'near'."
     },
     {
         "hebrew": "כמה זמן לוקח להגיע לעיר",
-        "english": "How long does it take to arrive in the city"
+        "english": "How long does it take to arrive in the city",
+        "construction": "כמה זמן 'how long'; לוקח 'takes'; להגיע לעיר 'to arrive to the city' with ל־. Verb להגיע ל־ + place."
     },
     {
         "hebrew": "אני צריך להחליף כסף לפני הנסיעה",
-        "english": "I need to exchange money before the trip"
+        "english": "I need to exchange money before the trip",
+        "construction": "צריך 'need (to)'; להחליף כסף 'to exchange money'; לפני הנסיעה 'before the trip'."
     },
     {
         "hebrew": "אני רוצה לראות את כל המקומות המיוחדים",
-        "english": "I want to see all the special places"
+        "english": "I want to see all the special places",
+        "construction": "רוצה 'want'; לראות 'to see'; את כל המקומות המיוחדים 'all the special places' with adjective modifying noun."
     },
     {
         "hebrew": "זה שווה לנסוע לשם אפילו רחוק",
-        "english": "It is worth traveling there even if it's far"
+        "english": "It is worth traveling there even if it's far",
+        "construction": "שווה 'worth'; לנסוע לשם 'to travel there'; אפילו רחוק 'even far'. Infinitive phrase after שווה indicates what is worth."
     },
     {
         "hebrew": "אני מחכה לרכבת כבר עשר דקות",
-        "english": "I have been waiting for the train for ten minutes"
+        "english": "I have been waiting for the train for ten minutes",
+        "construction": "מחכה 'waiting'; לרכבת 'for the train' with ל־; כבר עשר דקות 'already ten minutes'. Verb לחכות takes ל־ unlike English."
     },
     {
         "hebrew": "אני רוצה לבחור חדר עם נוף יפה",
-        "english": "I want to choose a room with a beautiful view"
+        "english": "I want to choose a room with a beautiful view",
+        "construction": "רוצה 'want'; לבחור 'to choose'; חדר עם נוף יפה 'a room with a beautiful view', נוף יפה = noun + adjective."
     },
     {
         "hebrew": "אפשר לקבל אישור להזמנה שלי",
-        "english": "Can I get confirmation for my reservation"
+        "english": "Can I get confirmation for my reservation",
+        "construction": "אפשר 'is it possible/can I'; לקבל 'to receive/get'; אישור 'confirmation'; להזמנה שלי 'for my reservation' with ל־ marking purpose/relation."
     },
     {
         "hebrew": "אני מחפש מקום לנוח קצת",
-        "english": "I am looking for a place to rest a bit"
+        "english": "I am looking for a place to rest a bit",
+        "construction": "מחפש 'looking'; מקום לנוח קצת 'a place to rest a little', where לנוח is infinitive modifying מקום."
     },
     {
         "hebrew": "אני צריך להגיע לעיר לפני שקיעה",
-        "english": "I need to arrive in the city before sunset"
+        "english": "I need to arrive in the city before sunset",
+        "construction": "צריך 'need'; להגיע לעיר 'arrive at the city' with ל־; לפני שקיעה 'before sunset'."
     },
     {
         "hebrew": "אני רוצה לחוות משהו חדש בטיול הזה",
-        "english": "I want to experience something new on this trip"
+        "english": "I want to experience something new on this trip",
+        "construction": "רוצה 'want'; לחוות 'to experience'; משהו חדש 'something new'; בטיול הזה 'on this trip' with ב־."
     },
     {
         "hebrew": "אני מנסה להבין איזה כיוון לקחת",
-        "english": "I am trying to understand which direction to take"
+        "english": "I am trying to understand which direction to take",
+        "construction": "מנסה 'trying'; להבין 'to understand'; איזה כיוון לקחת literally 'which direction to take', where לקחת 'to take' is infinitive."
     },
     {
         "hebrew": "אני צריך לשמור על המסמכים שלי",
-        "english": "I need to take care of my documents"
+        "english": "I need to take care of my documents",
+        "construction": "צריך 'need (to)'; לשמור על המסמכים שלי literally 'to keep/guard my documents', verb לשמור על־ means 'to take care of / maintain / keep safe'."
     },
     {
         "hebrew": "אני רוצה להישאר במלון עוד לילה",
-        "english": "I want to stay at the hotel for one more night"
+        "english": "I want to stay at the hotel for one more night",
+        "construction": "רוצה 'want'; להישאר 'to stay'; במלון 'at the hotel' with ב־; עוד לילה 'one more night'."
     },
     {
         "hebrew": "אני צריך לבדוק את ההבדל בין שני המחירים",
-        "english": "I need to check the difference between the two prices"
+        "english": "I need to check the difference between the two prices",
+        "construction": "צריך 'need'; לבדוק 'to check'; את ההבדל 'the difference'; בין שני המחירים 'between the two prices'."
     },
     {
         "hebrew": "אני רוצה להתקרב למרכז העיר",
-        "english": "I want to get closer to the city center"
+        "english": "I want to get closer to the city center",
+        "construction": "רוצה 'want'; להתקרב 'to get closer/approach'; למרכז העיר 'to the city center' with ל־. Verb להתקרב takes ל־."
     },
     {
         "hebrew": "אפשר לקבל מפה של האזור",
-        "english": "Can I get a map of the area"
+        "english": "Can I get a map of the area",
+        "construction": "אפשר 'is it possible'; לקבל 'to get/receive'; מפה של האזור 'a map of the area'."
     },
     {
         "hebrew": "אני צריך להחזיר את המפתח לקבלה",
-        "english": "I need to return the key to the front desk"
+        "english": "I need to return the key to the front desk",
+        "construction": "צריך 'need'; להחזיר 'to return/give back'; את המפתח 'the key'; לקבלה 'to the reception/front desk' with ל־."
     },
     {
         "hebrew": "אני מחפש אוכל כשר באזור",
-        "english": "I am looking for kosher food in the area"
+        "english": "I am looking for kosher food in the area",
+        "construction": "מחפש 'looking'; אוכל כשר 'kosher food'; באזור 'in the area'."
     },
     {
         "hebrew": "אני מעדיף להגיע מוקדם כדי לא להתעכב",
-        "english": "I prefer to arrive early so I won’t be delayed"
+        "english": "I prefer to arrive early so I won’t be delayed",
+        "construction": "מעדיף 'prefer'; להגיע מוקדם 'to arrive early'; כדי לא להתעכב 'so as not to be delayed'. כדי + infinitive expresses purpose."
     },
     {
         "hebrew": "אני צריך לשמור על הזמן כדי לא לפספס את הטיסה",
-        "english": "I need to keep track of time so I won’t miss the flight"
+        "english": "I need to keep track of time so I won’t miss the flight",
+        "construction": "צריך 'need'; לשמור על הזמן 'to keep on the time' = 'keep track of time'; כדי לא לפספס 'so as not to miss'; את הטיסה 'the flight'."
     },
     {
         "hebrew": "אני רוצה לראות את האגם המפורסם",
-        "english": "I want to see the famous lake"
+        "english": "I want to see the famous lake",
+        "construction": "רוצה 'want'; לראות 'to see'; את האגם המפורסם 'the famous lake'."
     },
     {
         "hebrew": "זה המקום הנכון לעלות לרכבת",
-        "english": "This is the correct place to board the train"
+        "english": "This is the correct place to board the train",
+        "construction": "זה המקום הנכון 'this is the correct place'; לעלות לרכבת 'to go up onto the train' (standard verb for boarding), with ל־."
     },
     {
         "hebrew": "אני מתכנן לחזור הביתה בשבוע הבא",
-        "english": "I am planning to return home next week"
+        "english": "I am planning to return home next week",
+        "construction": "מתכנן 'planning'; לחזור הביתה 'to return home'; בשבוע הבא 'next week'."
     },
     {
         "hebrew": "אני צריך לנשום אוויר צח אחרי הטיסה",
-        "english": "I need to breathe fresh air after the flight"
+        "english": "I need to breathe fresh air after the flight",
+        "construction": "צריך 'need'; לנשום 'to breathe'; אוויר צח 'fresh air'; אחרי הטיסה 'after the flight'."
     },
     {
         "hebrew": "אני רוצה לקנות מתנה לפני שאני חוזר",
-        "english": "I want to buy a gift before I return"
+        "english": "I want to buy a gift before I return",
+        "construction": "רוצה 'want'; לקנות 'to buy'; מתנה 'a gift'; לפני שאני חוזר 'before I (will) return'."
     },
     {
         "hebrew": "אני מחפש מסעדה עם אווירה נעימה",
-        "english": "I am looking for a restaurant with a pleasant atmosphere"
+        "english": "I am looking for a restaurant with a pleasant atmosphere",
+        "construction": "מחפש 'looking'; מסעדה עם אווירה נעימה 'a restaurant with a pleasant atmosphere'."
     },
     {
         "hebrew": "אני רוצה לראות את כל המקומות המעניינים בעיר",
-        "english": "I want to see all the interesting places in the city"
+        "english": "I want to see all the interesting places in the city",
+        "construction": "רוצה 'want'; לראות 'to see'; את כל המקומות המעניינים בעיר 'all the interesting places in the city'. מעניינים modifies מקומות."
     },
     {
         "hebrew": "אני צריך להישאר בצל כי חם מדי",
-        "english": "I need to stay in the shade because it is too hot"
+        "english": "I need to stay in the shade because it is too hot",
+        "construction": "צריך 'need (to)'; להישאר בצל 'to stay in the shade'; כי חם מדי 'because it is too hot', literally 'hot too-much'."
     },
     {
         "hebrew": "אני רוצה להתקדם במסלול בלי לעצור",
-        "english": "I want to move forward on the route without stopping"
+        "english": "I want to move forward on the route without stopping",
+        "construction": "רוצה 'want'; להתקדם 'to make progress/move forward'; במסלול 'on the route' with ב־; בלי לעצור 'without stopping'."
     },
     {
         "hebrew": "אני צריך לאשר את הכרטיסים לפני הכניסה",
-        "english": "I need to confirm the tickets before entering"
+        "english": "I need to confirm the tickets before entering",
+        "construction": "צריך 'need'; לאשר 'to confirm/approve'; את הכרטיסים 'the tickets'; לפני הכניסה 'before the entry'."
     },
     {
         "hebrew": "אני מחפש מקום גבוה לתצפית",
-        "english": "I am looking for a high place for a lookout"
+        "english": "I am looking for a high place for a lookout",
+        "construction": "מחפש 'looking'; מקום גבוה 'a high place'; לתצפית 'for observation/lookout' with ל־ indicating purpose."
     },
     {
         "hebrew": "אני מעדיף לנסוע מוקדם בבוקר",
-        "english": "I prefer to travel early in the morning"
+        "english": "I prefer to travel early in the morning",
+        "construction": "מעדיף 'prefer'; לנסוע 'to travel'; מוקדם בבוקר 'early in the morning'."
     },
     {
         "hebrew": "אני צריך לבדוק את המהירות של הרכבת",
-        "english": "I need to check the speed of the train"
+        "english": "I need to check the speed of the train",
+        "construction": "צריך 'need'; לבדוק 'to check'; את המהירות 'the speed'; של הרכבת 'of the train'."
     },
     {
         "hebrew": "אני מתכנן לעבור לעיר אחרת בעתיד",
-        "english": "I am planning to move to another city in the future"
+        "english": "I am planning to move to another city in the future",
+        "construction": "מתכנן 'planning'; לעבור 'to move/pass'; לעיר אחרת 'to another city' with ל־; בעתיד 'in the future'."
     },
     {
         "hebrew": "אני רוצה לראות שקיעה ליד הים",
-        "english": "I want to see the sunset by the sea"
+        "english": "I want to see the sunset by the sea",
+        "construction": "רוצה 'want'; לראות 'to see'; שקיעה 'sunset'; ליד הים 'near the sea'."
     },
     {
         "hebrew": "אני מחפש חדר עם מרפסת",
-        "english": "I am looking for a room with a balcony"
+        "english": "I am looking for a room with a balcony",
+        "construction": "מחפש 'looking'; חדר עם מרפסת 'room with a balcony'."
     },
     {
         "hebrew": "אני רוצה להגיע הביתה כמה שיותר מהר",
-        "english": "I want to get home as fast as possible"
+        "english": "I want to get home as fast as possible",
+        "construction": "רוצה 'want'; להגיע הביתה 'to arrive (to) home'; כמה שיותר מהר literally 'as much as possible fast'."
     },
     {
         "hebrew": "אני צריך לקבוע פגישה עם הצוות",
-        "english": "I need to schedule a meeting with the team"
+        "english": "I need to schedule a meeting with the team",
+        "construction": "צריך 'need'; לקבוע פגישה 'to schedule/set a meeting'; עם הצוות 'with the team'."
     },
     {
         "hebrew": "אפשר לקבל אישור למהלך הזה",
-        "english": "Can we get approval for this action"
+        "english": "Can we get approval for this action",
+        "construction": "אפשר 'is it possible'; לקבל 'to receive/get'; אישור 'approval'; למהלך הזה 'for this action/move' with ל־."
     },
     {
         "hebrew": "אני מנסה להבין את המשימות להיום",
-        "english": "I am trying to understand the tasks for today"
+        "english": "I am trying to understand the tasks for today",
+        "construction": "מנסה 'trying'; להבין 'to understand'; את המשימות 'the tasks'; להיום 'for today' with ל־ marking timeframe."
     },
     {
         "hebrew": "אנחנו צריכים לסיים את העבודה לפני הערב",
-        "english": "We need to finish the work before evening"
+        "english": "We need to finish the work before evening",
+        "construction": "צריכים 'need'; לסיים 'to finish'; את העבודה 'the work'; לפני הערב 'before the evening'."
     },
     {
         "hebrew": "אני רוצה לשמור על הכללים של המשרד",
-        "english": "I want to follow the rules of the office"
+        "english": "I want to follow the rules of the office",
+        "construction": "רוצה 'want'; לשמור על הכללים 'to keep/maintain the rules' = 'follow the rules'; של המשרד 'of the office'. Verb לשמור על־ again used."
     },
     {
         "hebrew": "הוא ביקש ממני לבדוק את המסמך שוב",
-        "english": "He asked me to check the document again"
+        "english": "He asked me to check the document again",
+        "construction": "ביקש ממני 'asked me' (literally 'asked from me'); לבדוק 'to check'; את המסמך שוב 'the document again'."
     },
     {
         "hebrew": "אנחנו צריכים להחליט על כיוון חדש לפרויקט",
-        "english": "We need to decide on a new direction for the project"
+        "english": "We need to decide on a new direction for the project",
+        "construction": "צריכים 'need'; להחליט על 'to decide on/about' with על; כיוון חדש 'a new direction'; לפרויקט 'for the project' with ל־."
     },
     {
         "hebrew": "אני צריך להוסיף עוד פרטים לתוכנית",
-        "english": "I need to add more details to the plan"
+        "english": "I need to add more details to the plan",
+        "construction": "צריך is 'need (to)'; להוסיף 'to add'; עוד פרטים 'more details'; לתוכנית 'to the plan' with ל־ indicating 'to/for'."
     },
     {
         "hebrew": "הם רוצים לשפר את התהליך כדי לחסוך זמן",
-        "english": "They want to improve the process to save time"
+        "english": "They want to improve the process to save time",
+        "construction": "רוצים is 'want'; לשפר 'to improve'; את התהליך 'the process'; כדי לחסוך זמן 'in order to save time', with כדי + infinitive expressing purpose and לחסוך 'to save (time/money)'."
     },
     {
         "hebrew": "אני צריך לכתוב הזמנה לפגישה",
-        "english": "I need to write an invitation for the meeting"
+        "english": "I need to write an invitation for the meeting",
+        "construction": "צריך 'need (to)'; לכתוב 'to write'; הזמנה 'an invitation'; לפגישה 'for the meeting' with ל־."
     },
     {
         "hebrew": "אפשר להעביר לי את הקובץ בבקשה",
-        "english": "Can you send me the file please"
+        "english": "Can you send me the file please",
+        "construction": "אפשר 'is it possible/can'; להעביר לי 'to transfer/send to me', לי being indirect object; את הקובץ 'the file' as direct object; בבקשה 'please'. Verb להעביר covers 'pass/send/transfer'."
     },
     {
         "hebrew": "אני רוצה להבין מה המטרה של המשימה",
-        "english": "I want to understand the purpose of the task"
+        "english": "I want to understand the purpose of the task",
+        "construction": "רוצה 'want'; להבין 'to understand'; מה המטרה 'what the goal/purpose is'; של המשימה 'of the task'."
     },
     {
         "hebrew": "אני צריך לסדר את המשרד לפני הביקור",
-        "english": "I need to tidy the office before the visit"
+        "english": "I need to tidy the office before the visit",
+        "construction": "צריך 'need (to)'; לסדר 'to tidy/organize'; את המשרד 'the office'; לפני הביקור 'before the visit'."
     },
     {
         "hebrew": "אנחנו מתקרבים לדדליין וצריך לעבוד מהר",
-        "english": "We are getting close to the deadline and must work fast"
+        "english": "We are getting close to the deadline and must work fast",
+        "construction": "מתקרבים is 'are getting closer'; לדדליין 'to the deadline' with ל־; וצריך לעבוד מהר 'and (one) needs to work fast', צריך + לעבוד 'to work'; מהר 'fast'."
     },
     {
         "hebrew": "אני צריך זמן לחשוב על ההצעה",
-        "english": "I need time to think about the proposal"
+        "english": "I need time to think about the proposal",
+        "construction": "צריך 'need'; זמן 'time'; לחשוב 'to think'; על ההצעה 'about the proposal' with על. Verb לחשוב על־ 'think about'."
     },
     {
         "hebrew": "אני רוצה לשתף אותך ברעיון חדש",
-        "english": "I want to share a new idea with you"
+        "english": "I want to share a new idea with you",
+        "construction": "רוצה 'want'; לשתף אותך ברעיון חדש literally 'to share you in a new idea': direct object אותך 'you' + ב־ marking what is shared (ברעיון חדש 'in a new idea'). This differs from English 'share an idea with you'."
     },
     {
         "hebrew": "אנחנו צריכים לאשר את התקציב",
-        "english": "We need to approve the budget"
+        "english": "We need to approve the budget",
+        "construction": "צריכים 'need (to)'; לאשר 'to approve'; את התקציב 'the budget' as direct object."
     },
     {
         "hebrew": "אני מנסה להבין איך לשפר את התוצאות",
-        "english": "I am trying to understand how to improve the results"
+        "english": "I am trying to understand how to improve the results",
+        "construction": "מנסה 'trying'; להבין 'to understand'; איך לשפר את התוצאות 'how to improve the results', with לשפר 'to improve' and את התוצאות 'the results' as object."
     },
     {
         "hebrew": "הוא לא רוצה להתעכב על דברים קטנים",
-        "english": "He does not want to get delayed by small things"
+        "english": "He does not want to get delayed by small things",
+        "construction": "לא רוצה 'does not want'; להתעכב על דברים קטנים literally 'to linger/be held up on small things', where להתעכב is 'be delayed/linger' and על + דברים קטנים shows what he doesn't want to dwell on."
     },
     {
         "hebrew": "אני מעדיף לעבוד בלי הפרעות",
-        "english": "I prefer to work without interruptions"
+        "english": "I prefer to work without interruptions",
+        "construction": "מעדיף 'prefer'; לעבוד 'to work'; בלי הפרעות 'without interruptions'."
     },
     {
         "hebrew": "אפשר להסביר לי את השלבים של המשימה",
-        "english": "Can you explain the steps of the task to me"
+        "english": "Can you explain the steps of the task to me",
+        "construction": "אפשר 'is it possible'; להסביר לי 'to explain to me', לי with ל־ as indirect object; את השלבים של המשימה 'the steps of the task' as direct object phrase."
     },
     {
         "hebrew": "אני רוצה לבחור פתרון יותר יעיל",
-        "english": "I want to choose a more efficient solution"
+        "english": "I want to choose a more efficient solution",
+        "construction": "רוצה 'want'; לבחור 'to choose'; פתרון יותר יעיל 'a more efficient solution', with יותר indicating comparative 'more'."
     },
     {
         "hebrew": "אנחנו צריכים להתקדם מהר יותר",
-        "english": "We need to make progress faster"
+        "english": "We need to make progress faster",
+        "construction": "צריכים 'need (to)'; להתקדם 'to progress/move forward'; מהר יותר 'faster'."
     },
     {
         "hebrew": "אני רוצה להתכונן היטב לראיון",
-        "english": "I want to prepare well for the interview"
+        "english": "I want to prepare well for the interview",
+        "construction": "רוצה 'want'; להתכונן 'to prepare oneself'; היטב 'well'; לראיון 'for the interview' with ל־. Verb להתכונן ל־ 'prepare for'."
     },
     {
         "hebrew": "אני צריך להחזיר את המסמך בסוף היום",
-        "english": "I need to return the document by the end of the day"
+        "english": "I need to return the document by the end of the day",
+        "construction": "צריך 'need (to)'; להחזיר 'to return/give back'; את המסמך 'the document'; בסוף היום 'at/by the end of the day'."
     },
     {
         "hebrew": "אנחנו צריכים לתאם פגישה עם הלקוחות",
-        "english": "We need to coordinate a meeting with the clients"
+        "english": "We need to coordinate a meeting with the clients",
+        "construction": "צריכים 'need (to)'; לתאם פגישה 'to coordinate/schedule a meeting'; עם הלקוחות 'with the clients'."
     },
     {
         "hebrew": "אני מנסה לסיים את העבודה בזמן",
-        "english": "I am trying to finish the work on time"
+        "english": "I am trying to finish the work on time",
+        "construction": "מנסה 'trying'; לסיים 'to finish'; את העבודה 'the work'; בזמן 'on time', literally 'in-time'."
     },
     {
         "hebrew": "הוא צריך להוסיף מידע חשוב למערכת",
-        "english": "He needs to add important information to the system"
+        "english": "He needs to add important information to the system",
+        "construction": "צריך 'needs (to)'; להוסיף 'to add'; מידע חשוב 'important information'; למערכת 'to the system' with ל־."
     },
     {
         "hebrew": "אני רוצה לבחור את האנשים המתאימים לצוות",
-        "english": "I want to choose the right people for the team"
+        "english": "I want to choose the right people for the team",
+        "construction": "רוצה 'want'; לבחור 'to choose'; את האנשים המתאימים 'the suitable/right people'; לצוות 'for the team' with ל־."
     },
     {
         "hebrew": "אנחנו צריכים להגיע להסכמה",
-        "english": "We need to reach an agreement"
+        "english": "We need to reach an agreement",
+        "construction": "צריכים 'need (to)'; להגיע להסכמה literally 'to arrive to an agreement', where להגיע 'arrive' + ל־ is used metaphorically like 'reach'."
     },
     {
         "hebrew": "אני צריך לנוח כדי להמשיך לעבוד טוב",
-        "english": "I need to rest so I can continue working well"
+        "english": "I need to rest so I can continue working well",
+        "construction": "צריך 'need (to)'; לנוח 'to rest'; כדי להמשיך לעבוד טוב 'in order to continue working well', with כדי expressing purpose and להמשיך לעבוד 'to continue to work'."
     },
     {
         "hebrew": "אפשר לשלוח לי את הפרטים בכתב",
-        "english": "Can you send me the details in writing"
+        "english": "Can you send me the details in writing",
+        "construction": "אפשר 'is it possible'; לשלוח לי 'to send to me'; את הפרטים 'the details'; בכתב 'in writing'. Verb לשלוח 'to send' plus indirect object לי."
     },
     {
         "hebrew": "אני רוצה להבין את ההבדל בין שני המסמכים",
-        "english": "I want to understand the difference between the two documents"
+        "english": "I want to understand the difference between the two documents",
+        "construction": "רוצה 'want'; להבין 'to understand'; את ההבדל 'the difference'; בין שני המסמכים 'between the two documents'."
     },
     {
         "hebrew": "אנחנו צריכים לבחור כיוון אחד ולהתקדם",
-        "english": "We need to choose one direction and move forward"
+        "english": "We need to choose one direction and move forward",
+        "construction": "צריכים 'need (to)'; לבחור כיוון אחד 'to choose one direction'; ולהתקדם 'and to move forward/progress', with להתקדם as the second infinitive joined by ו־."
     },
     {
         "hebrew": "אני מעדיף לעבוד בשקט במשרד",
-        "english": "I prefer to work quietly in the office"
+        "english": "I prefer to work quietly in the office",
+        "construction": "מעדיף 'prefer'; לעבוד בשקט 'to work in quiet/quietly'; במשרד 'in the office' with ב־."
     },
     {
         "hebrew": "הוא ביקש ממני לחזור אליו עם תשובה",
-        "english": "He asked me to get back to him with an answer"
+        "english": "He asked me to get back to him with an answer",
+        "construction": "ביקש ממני 'asked me' (literally 'asked from me'); לחזור אליו 'to return to him/get back to him' with אל־; עם תשובה 'with an answer'."
     },
     {
         "hebrew": "אני מנסה לשמור על סדר בזמנים",
-        "english": "I am trying to keep the timing organized"
+        "english": "I am trying to keep the timing organized",
+        "construction": "מנסה 'trying'; לשמור על סדר 'to keep order'; בזמנים 'in the timings/schedule' with ב־. לשמור על־ again 'keep/maintain'."
     },
     {
         "hebrew": "אנחנו צריכים ליצור תהליך יותר ברור",
-        "english": "We need to create a clearer process"
+        "english": "We need to create a clearer process",
+        "construction": "צריכים 'need (to)'; ליצור 'to create'; תהליך יותר ברור 'a more clear/clearer process'."
     },
     {
         "hebrew": "אני צריך להחליט מהי המשימה החשובה ביותר",
-        "english": "I need to decide what the most important task is"
+        "english": "I need to decide what the most important task is",
+        "construction": "צריך 'need (to)'; להחליט 'to decide'; מהי המשימה החשובה ביותר 'what the most important task is', with משימה 'task' and superlative החשובה ביותר 'the most important'."
     },
     {
         "hebrew": "אני רוצה להתקדם שלב אחר שלב",
-        "english": "I want to move forward step by step"
+        "english": "I want to move forward step by step",
+        "construction": "רוצה 'want'; להתקדם 'to progress/move forward'; שלב אחר שלב 'step after step' = 'step by step'."
     },
     {
         "hebrew": "אנחנו צריכים לשפר את שיתוף הפעולה",
-        "english": "We need to improve the cooperation"
+        "english": "We need to improve the cooperation",
+        "construction": "צריכים 'need (to)'; לשפר 'to improve'; את שיתוף הפעולה 'the cooperation/collaboration', literally 'sharing of the cooperation'."
     },
     {
         "hebrew": "אני מחפש פתרון שיתאים לכולם",
-        "english": "I am looking for a solution that fits everyone"
+        "english": "I am looking for a solution that fits everyone",
+        "construction": "מחפש 'looking'; פתרון 'a solution'; שיתאים לכולם 'that will fit/suit everyone', יתאים future form of להתאים 'to suit/fit' with ל־ marking 'to/for everyone'."
     },
     {
         "hebrew": "אני צריך להוסיף את הנתונים למערכת",
-        "english": "I need to add the data to the system"
+        "english": "I need to add the data to the system",
+        "construction": "צריך 'need (to)'; להוסיף 'to add'; את הנתונים 'the data'; למערכת 'to the system' with ל־."
     },
     {
         "hebrew": "אנחנו רוצים להגיע לתוצאות טובות יותר",
-        "english": "We want to achieve better results"
+        "english": "We want to achieve better results",
+        "construction": "רוצים 'want'; להגיע לתוצאות טובות יותר literally 'to arrive to better results', where להגיע ל־ is used metaphorically like 'reach/achieve'. תוצאות טובות יותר 'better results'."
     },
     {
         "hebrew": "אני צריך לאשר את הזמנים עם המנהל",
-        "english": "I need to confirm the times with the manager"
+        "english": "I need to confirm the times with the manager",
+        "construction": "צריך 'need (to)'; לאשר 'to confirm/approve'; את הזמנים 'the times'; עם המנהל 'with the manager'."
     },
     {
         "hebrew": "אנחנו מתכננים פגישה חשובה לשבוע הבא",
-        "english": "We are planning an important meeting for next week"
+        "english": "We are planning an important meeting for next week",
+        "construction": "מתכננים 'are planning'; פגישה חשובה 'an important meeting'; לשבוע הבא 'for next week' with ל־ indicating timeframe."
     },
     {
         "hebrew": "אני רוצה לבחור מטרה ברורה לפרויקט",
-        "english": "I want to choose a clear goal for the project"
+        "english": "I want to choose a clear goal for the project",
+        "construction": "רוצה 'want'; לבחור 'to choose'; מטרה ברורה 'a clear goal'; לפרויקט 'for the project' with ל־."
     },
     {
         "hebrew": "אני צריך לסיים את הבדיקה לפני הצהריים",
-        "english": "I need to finish the test before noon"
+        "english": "I need to finish the test before noon",
+        "construction": "צריך 'need (to)'; לסיים 'to finish'; את הבדיקה 'the test/check'; לפני הצהריים 'before noon'."
     },
     {
         "hebrew": "אנחנו צריכים לשמור על סדר יום קבוע",
-        "english": "We need to maintain a regular schedule"
+        "english": "We need to maintain a regular schedule",
+        "construction": "צריכים 'need (to)'; לשמור על סדר יום קבוע literally 'to keep on a fixed daily order', where סדר יום is 'agenda/schedule' and קבוע 'fixed/regular'. לשמור על־ again 'maintain'."
     },
     {
         "hebrew": "אני מנסה להבין את המשמעות של ההחלטה",
-        "english": "I am trying to understand the meaning of the decision"
+        "english": "I am trying to understand the meaning of the decision",
+        "construction": "מנסה 'trying'; להבין 'to understand'; את המשמעות 'the meaning'; של ההחלטה 'of the decision'."
     }
 ]

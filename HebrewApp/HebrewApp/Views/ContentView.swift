@@ -84,6 +84,7 @@ struct ContentView: View {
                     case .phraseOrder(let phrase, let shuffledWords):
                         PhraseBuilderView(
                             hint: phrase.english,
+                            phrase: phrase,
                             currentWords: shuffledWords,
                             onCheck: { controller.checkAnswer($0) },
                             controller: controller
@@ -115,9 +116,18 @@ struct ContentView: View {
                             controller: controller
                         )
                         .id(sentence.id)
+                    case .verbConjugation(let fromForm, let toForm, let prompt):
+                        VerbConjugationView(
+                            fromForm: fromForm,
+                            toForm: toForm,
+                            prompt: prompt,
+                            onSubmit: { controller.checkAnswer($0) },
+                            controller: controller
+                        )
+                        .id("\(fromForm.hebrew)-\(toForm.hebrew)")
                     }
                 }
-                
+
                 Spacer()
             }
         }
